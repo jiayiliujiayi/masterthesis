@@ -1,0 +1,1712 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{collier2005innate}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a32cef8a396c744de070e53b024b1427}{%
+           family={Collier-Hyams},
+           familyi={C\bibinithyphendelim H\bibinitperiod},
+           given={LS},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f947ca18adad4a24fab3efa180b70f9f}{%
+           family={Neish},
+           familyi={N\bibinitperiod},
+           given={AS},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1ddec3d4aa5c565a42db290d4f5751f7}
+      \strng{fullhash}{1ddec3d4aa5c565a42db290d4f5751f7}
+      \strng{bibnamehash}{1ddec3d4aa5c565a42db290d4f5751f7}
+      \strng{authorbibnamehash}{1ddec3d4aa5c565a42db290d4f5751f7}
+      \strng{authornamehash}{1ddec3d4aa5c565a42db290d4f5751f7}
+      \strng{authorfullhash}{1ddec3d4aa5c565a42db290d4f5751f7}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cell Mol Life Sci}
+      \field{number}{12}
+      \field{title}{Innate immune relationship between commensal flora and the mammalian intestinal epithelium}
+      \field{usera}{J}
+      \field{userd}{I}
+      \field{usere}{Collier-Hyams, LS and Neish, AS}
+      \field{userf}{Collier-Hyams, LS and Neish, AS}
+      \field{volume}{62}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{pages}{1339\bibrangedash 48}
+      \range{pages}{10}
+      \keyw{collier2005innate}
+    \endentry
+    \entry{ni2017gut}{article}{}
+      \name{author}{4}{}{%
+        {{hash=cb4e2899fe204be1850d99be8a66ced4}{%
+           family={Ni},
+           familyi={N\bibinitperiod},
+           given={Josephine},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5052f705ff1d26c3eb74f9f81a4a5781}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Gary\bibnamedelima D},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=689a7001ed2fd8a5569bd3c7f05987f1}{%
+           family={Albenberg},
+           familyi={A\bibinitperiod},
+           given={Lindsey},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ad9ebd611efaa5fe5fb0f7645aace251}{%
+           family={Tomov},
+           familyi={T\bibinitperiod},
+           given={Vesselin\bibnamedelima T},
+           giveni={V\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{8291b2b9bdd2be4072b0f8543feadede}
+      \strng{fullhash}{75de6ff4efc6ba69f697cab47607ac39}
+      \strng{bibnamehash}{8291b2b9bdd2be4072b0f8543feadede}
+      \strng{authorbibnamehash}{8291b2b9bdd2be4072b0f8543feadede}
+      \strng{authornamehash}{8291b2b9bdd2be4072b0f8543feadede}
+      \strng{authorfullhash}{75de6ff4efc6ba69f697cab47607ac39}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature reviews Gastroenterology \& hepatology}
+      \field{number}{10}
+      \field{title}{Gut microbiota and IBD: causation or correlation?}
+      \field{usera}{J}
+      \field{userd}{G}
+      \field{usere}{Ni, Josephine and Wu, Gary D and Albenberg, Lindsey and Tomov, Vesselin T}
+      \field{userf}{Ni, Josephine and Wu, Gary D and Albenberg, Lindsey and Tomov, Vesselin T}
+      \field{volume}{14}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{573}
+      \range{pages}{1}
+      \keyw{ni2017gut}
+    \endentry
+    \entry{harsch2018role}{article}{}
+      \name{author}{2}{}{%
+        {{hash=50c2a4fd0d37deac4cf236d6a1ca0067}{%
+           family={Harsch},
+           familyi={H\bibinitperiod},
+           given={Igor},
+           giveni={I\bibinitperiod}}}%
+        {{hash=d7057e7505ff14b49c04dcbab184cf59}{%
+           family={Konturek},
+           familyi={K\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{b309cd53ad6e4292db3211b330bedf90}
+      \strng{fullhash}{b309cd53ad6e4292db3211b330bedf90}
+      \strng{bibnamehash}{b309cd53ad6e4292db3211b330bedf90}
+      \strng{authorbibnamehash}{b309cd53ad6e4292db3211b330bedf90}
+      \strng{authornamehash}{b309cd53ad6e4292db3211b330bedf90}
+      \strng{authorfullhash}{b309cd53ad6e4292db3211b330bedf90}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medical Sciences}
+      \field{number}{2}
+      \field{title}{The role of gut microbiota in obesity and Type 2 and Type 1 diabetes mellitus: new insights into ``old'' diseases}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Harsch, Igor and Konturek, Peter}
+      \field{userf}{Harsch, Igor and Konturek, Peter}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{32}
+      \range{pages}{1}
+      \keyw{harsch2018role}
+    \endentry
+    \entry{de2014altered}{article}{}
+      \name{author}{9}{}{%
+        {{hash=e96f504157229337bac21b92dbc50fec}{%
+           family={Theije},
+           familyi={T\bibinitperiod},
+           given={Caroline\bibnamedelima GM},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=f4bb354a3e9a9964289656d7673c632c}{%
+           family={Wopereis},
+           familyi={W\bibinitperiod},
+           given={Harm},
+           giveni={H\bibinitperiod}}}%
+        {{hash=64f2e62a82e5a2ed7c0836c52ec55cf2}{%
+           family={Ramadan},
+           familyi={R\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3e0f373a82bc4cd2089ce39d129dcba6}{%
+           family={Eijndthoven},
+           familyi={E\bibinitperiod},
+           given={Tiemen},
+           giveni={T\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=0c6aa2fd708da46553cbe16d7e1ddc60}{%
+           family={Lambert},
+           familyi={L\bibinitperiod},
+           given={Jolanda},
+           giveni={J\bibinitperiod}}}%
+        {{hash=186c40470b29ce91af8b0a9a0eac6ce9}{%
+           family={Knol},
+           familyi={K\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=06008b8af4f2e48019f36131137b6426}{%
+           family={Garssen},
+           familyi={G\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b22f5d390580baae5eed5037a83a43fa}{%
+           family={Kraneveld},
+           familyi={K\bibinitperiod},
+           given={Aletta\bibnamedelima D},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=68390a2e340156d7a97dcad8bf65586d}{%
+           family={Oozeer},
+           familyi={O\bibinitperiod},
+           given={Raish},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{422fc5ec1e33a258168760c23b3a8ccd}
+      \strng{fullhash}{77c8d98f1b47d1af083727732a1e020e}
+      \strng{bibnamehash}{422fc5ec1e33a258168760c23b3a8ccd}
+      \strng{authorbibnamehash}{422fc5ec1e33a258168760c23b3a8ccd}
+      \strng{authornamehash}{422fc5ec1e33a258168760c23b3a8ccd}
+      \strng{authorfullhash}{77c8d98f1b47d1af083727732a1e020e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brain, behavior, and immunity}
+      \field{title}{Altered gut microbiota and activity in a murine model of autism spectrum disorders}
+      \field{usera}{J}
+      \field{userd}{A}
+      \field{usere}{de Theije, Caroline GM and Wopereis, Harm and Ramadan, Mohamed and van Eijndthoven, Tiemen and Lambert, Jolanda and Knol, Jan and Garssen, Johan and Kraneveld, Aletta D and Oozeer, Raish}
+      \field{userf}{de Theije, Caroline GM and Wopereis, Harm and Ramadan, Mohamed and van Eijndthoven, Tiemen and Lambert, Jolanda and Knol, Jan and Garssen, Johan and Kraneveld, Aletta D and Oozeer, Raish}
+      \field{volume}{37}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{197\bibrangedash 206}
+      \range{pages}{10}
+      \keyw{de2014altered}
+    \endentry
+    \entry{de2013fecal}{article}{}
+      \name{author}{10}{}{%
+        {{hash=4836791cc7ea84437b617a6fbc4a83aa}{%
+           family={De\bibnamedelima Angelis},
+           familyi={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=20cf1f4ec83edfdcbb8dac2a1092c803}{%
+           family={Piccolo},
+           familyi={P\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e2abf59bc191ae1c68e85a5e5be3f9c4}{%
+           family={Vannini},
+           familyi={V\bibinitperiod},
+           given={Lucia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c2785841808728773724e8924bd93509}{%
+           family={Siragusa},
+           familyi={S\bibinitperiod},
+           given={Sonya},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c61b1a0c9f0db5e565a663fa8a1fe513}{%
+           family={De\bibnamedelima Giacomo},
+           familyi={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=814fe15256ed21642dd53b00d17184b1}{%
+           family={Serrazzanetti},
+           familyi={S\bibinitperiod},
+           given={Diana\bibnamedelima Isabella},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=ee1fed661ed8dab47d5bd6fe2af38ef4}{%
+           family={Cristofori},
+           familyi={C\bibinitperiod},
+           given={Fernanda},
+           giveni={F\bibinitperiod}}}%
+        {{hash=4ed535fa58d2e96b3681fc64073c1d00}{%
+           family={Guerzoni},
+           familyi={G\bibinitperiod},
+           given={Maria\bibnamedelima Elisabetta},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=56fd791232bf506c74b926ca205c5682}{%
+           family={Gobbetti},
+           familyi={G\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e87f317686b90ecde90bf9105c4335c8}{%
+           family={Francavilla},
+           familyi={F\bibinitperiod},
+           given={Ruggiero},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{9edefd3bdcd34c5692db2c6a8e2e3213}
+      \strng{fullhash}{672e091d3695655a58d8d6afcb0db4d8}
+      \strng{bibnamehash}{9edefd3bdcd34c5692db2c6a8e2e3213}
+      \strng{authorbibnamehash}{9edefd3bdcd34c5692db2c6a8e2e3213}
+      \strng{authornamehash}{9edefd3bdcd34c5692db2c6a8e2e3213}
+      \strng{authorfullhash}{672e091d3695655a58d8d6afcb0db4d8}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS one}
+      \field{number}{10}
+      \field{title}{Fecal microbiota and metabolome of children with autism and pervasive developmental disorder not otherwise specified}
+      \field{usera}{J}
+      \field{userd}{F}
+      \field{usere}{De Angelis, Maria and Piccolo, Maria and Vannini, Lucia and Siragusa, Sonya and De Giacomo, Andrea and Serrazzanetti, Diana Isabella and Cristofori, Fernanda and Guerzoni, Maria Elisabetta and Gobbetti, Marco and Francavilla, Ruggiero}
+      \field{userf}{De Angelis, Maria and Piccolo, Maria and Vannini, Lucia and Siragusa, Sonya and De Giacomo, Andrea and Serrazzanetti, Diana Isabella and Cristofori, Fernanda and Guerzoni, Maria Elisabetta and Gobbetti, Marco and Francavilla, Ruggiero}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{e76993}
+      \range{pages}{-1}
+      \keyw{de2013fecal}
+    \endentry
+    \entry{hooper2001commensal}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1449c959a79a8aebcb9cfed4550014f9}{%
+           family={Hooper},
+           familyi={H\bibinitperiod},
+           given={Lora\bibnamedelima V},
+           giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=fcae3b71b8971b5684cd194a47ea4374}{%
+           family={Gordon},
+           familyi={G\bibinitperiod},
+           given={Jeffrey\bibnamedelima I},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science}%
+      }
+      \strng{namehash}{1177c332b028239dfed1984c2b3885c7}
+      \strng{fullhash}{1177c332b028239dfed1984c2b3885c7}
+      \strng{bibnamehash}{1177c332b028239dfed1984c2b3885c7}
+      \strng{authorbibnamehash}{1177c332b028239dfed1984c2b3885c7}
+      \strng{authornamehash}{1177c332b028239dfed1984c2b3885c7}
+      \strng{authorfullhash}{1177c332b028239dfed1984c2b3885c7}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{5519}
+      \field{title}{Commensal host-bacterial relationships in the gut}
+      \field{usera}{J}
+      \field{userd}{C}
+      \field{usere}{Hooper, Lora V and Gordon, Jeffrey I}
+      \field{userf}{Hooper, Lora V and Gordon, Jeffrey I}
+      \field{volume}{292}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{1115\bibrangedash 1118}
+      \range{pages}{4}
+      \keyw{hooper2001commensal}
+    \endentry
+    \entry{rakoff2004recognition}{article}{}
+      \name{author}{5}{}{%
+        {{hash=52eb9e7ee6423b7cccc56095f93194b4}{%
+           family={Rakoff-Nahoum},
+           familyi={R\bibinithyphendelim N\bibinitperiod},
+           given={Seth},
+           giveni={S\bibinitperiod}}}%
+        {{hash=84db8941aa01b06bf105de38acd48ce3}{%
+           family={Paglino},
+           familyi={P\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=37eb0f43dbfc5f54f8a3691b380f89f4}{%
+           family={Eslami-Varzaneh},
+           familyi={E\bibinithyphendelim V\bibinitperiod},
+           given={Fatima},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b6d42418b23436b3067f636c3579165e}{%
+           family={Edberg},
+           familyi={E\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=40b5c9696d7ba1a69a135fba066a73e3}{%
+           family={Medzhitov},
+           familyi={M\bibinitperiod},
+           given={Ruslan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4c8008cf1624ef5107ad1eda3a1d2814}
+      \strng{fullhash}{27235868467ceb1ee8adb431be087d0a}
+      \strng{bibnamehash}{4c8008cf1624ef5107ad1eda3a1d2814}
+      \strng{authorbibnamehash}{4c8008cf1624ef5107ad1eda3a1d2814}
+      \strng{authornamehash}{4c8008cf1624ef5107ad1eda3a1d2814}
+      \strng{authorfullhash}{27235868467ceb1ee8adb431be087d0a}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cell}
+      \field{number}{2}
+      \field{title}{Recognition of commensal microflora by toll-like receptors is required for intestinal homeostasis}
+      \field{usera}{J}
+      \field{userd}{R}
+      \field{usere}{Rakoff-Nahoum, Seth and Paglino, Justin and Eslami-Varzaneh, Fatima and Edberg, Stephen and Medzhitov, Ruslan}
+      \field{userf}{Rakoff-Nahoum, Seth and Paglino, Justin and Eslami-Varzaneh, Fatima and Edberg, Stephen and Medzhitov, Ruslan}
+      \field{volume}{118}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{pages}{229\bibrangedash 241}
+      \range{pages}{13}
+      \keyw{rakoff2004recognition}
+    \endentry
+    \entry{guarner2006mechanisms}{article}{}
+      \name{author}{9}{}{%
+        {{hash=73ed62f1e17cf039cb2f450180372986}{%
+           family={Guarner},
+           familyi={G\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f2519e74f052b3c0b5ca698af1a5bae2}{%
+           family={Bourdet-Sicard},
+           familyi={B\bibinithyphendelim S\bibinitperiod},
+           given={Rapha{ë}lle},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5ae23a483725f186e18a1b96d221210e}{%
+           family={Brandtzaeg},
+           familyi={B\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c8d07b814b71be3924aa7c28e5c6dcb9}{%
+           family={Gill},
+           familyi={G\bibinitperiod},
+           given={Harsharnjit\bibnamedelima S},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=e5a15826e80853afcee49b15620c9d42}{%
+           family={McGuirk},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8240d720c9f6710f930ddf9e64f5e53c}{%
+           family={Van\bibnamedelima Eden},
+           familyi={V\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Willem},
+           giveni={W\bibinitperiod}}}%
+        {{hash=cef4ac35ce833a3b13097a8a07d96be7}{%
+           family={Versalovic},
+           familyi={V\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ee9ac9bb9ea8e23b0691322d8ca499bc}{%
+           family={Weinstock},
+           familyi={W\bibinitperiod},
+           given={Joel\bibnamedelima V},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=8ca938139b66b242441917aebaa0b4d4}{%
+           family={Rook},
+           familyi={R\bibinitperiod},
+           given={Graham\bibnamedelima AW},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{0d81be488059228f385c5f9f5920b6fb}
+      \strng{fullhash}{7c2eb850987aa691277e7841c1db79c4}
+      \strng{bibnamehash}{0d81be488059228f385c5f9f5920b6fb}
+      \strng{authorbibnamehash}{0d81be488059228f385c5f9f5920b6fb}
+      \strng{authornamehash}{0d81be488059228f385c5f9f5920b6fb}
+      \strng{authorfullhash}{7c2eb850987aa691277e7841c1db79c4}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Reviews Gastroenterology and Hepatology}
+      \field{number}{5}
+      \field{title}{Mechanisms of disease: the hygiene hypothesis revisited}
+      \field{usera}{J}
+      \field{userd}{M}
+      \field{usere}{Guarner, Francisco and Bourdet-Sicard, Rapha{ë}lle and Brandtzaeg, Per and Gill, Harsharnjit S and McGuirk, Peter and Van Eden, Willem and Versalovic, James and Weinstock, Joel V and Rook, Graham AW}
+      \field{userf}{Guarner, Francisco and Bourdet-Sicard, Rapha{ë}lle and Brandtzaeg, Per and Gill, Harsharnjit S and McGuirk, Peter and Van Eden, Willem and Versalovic, James and Weinstock, Joel V and Rook, Graham AW}
+      \field{volume}{3}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{275}
+      \range{pages}{1}
+      \keyw{guarner2006mechanisms}
+    \endentry
+    \entry{round2009gut}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3d641d83300879ef8b6df5e562a73017}{%
+           family={Round},
+           familyi={R\bibinitperiod},
+           given={June\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=dc3fb5040bdb5eabcd7d4970521d6f7e}{%
+           family={Mazmanian},
+           familyi={M\bibinitperiod},
+           given={Sarkis\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{694b26181514d7276dfd6d15c85df658}
+      \strng{fullhash}{694b26181514d7276dfd6d15c85df658}
+      \strng{bibnamehash}{694b26181514d7276dfd6d15c85df658}
+      \strng{authorbibnamehash}{694b26181514d7276dfd6d15c85df658}
+      \strng{authornamehash}{694b26181514d7276dfd6d15c85df658}
+      \strng{authorfullhash}{694b26181514d7276dfd6d15c85df658}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature reviews immunology}
+      \field{number}{5}
+      \field{title}{The gut microbiota shapes intestinal immune responses during health and disease}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Round, June L and Mazmanian, Sarkis K}
+      \field{userf}{Round, June L and Mazmanian, Sarkis K}
+      \field{volume}{9}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{313}
+      \range{pages}{1}
+      \keyw{round2009gut}
+    \endentry
+    \entry{abreu2010toll}{article}{}
+      \name{author}{1}{}{%
+        {{hash=17496cd53e75287371b65a7dbc245113}{%
+           family={Abreu},
+           familyi={A\bibinitperiod},
+           given={Maria\bibnamedelima T},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{17496cd53e75287371b65a7dbc245113}
+      \strng{fullhash}{17496cd53e75287371b65a7dbc245113}
+      \strng{bibnamehash}{17496cd53e75287371b65a7dbc245113}
+      \strng{authorbibnamehash}{17496cd53e75287371b65a7dbc245113}
+      \strng{authornamehash}{17496cd53e75287371b65a7dbc245113}
+      \strng{authorfullhash}{17496cd53e75287371b65a7dbc245113}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Reviews Immunology}
+      \field{number}{2}
+      \field{title}{Toll-like receptor signalling in the intestinal epithelium: how bacterial recognition shapes intestinal function}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Abreu, Maria T}
+      \field{userf}{Abreu, Maria T}
+      \field{volume}{10}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{131}
+      \range{pages}{1}
+      \keyw{abreu2010toll}
+    \endentry
+    \entry{ardissone2014meconium}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=da24e5e9829c5d83853d0db36805f47a}{%
+           family={Ardissone},
+           familyi={A\bibinitperiod},
+           given={Alexandria\bibnamedelima N},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=681e10a3bbce4a4c04b0fc1e073d36cc}{%
+           family={Diomel},
+           familyi={D\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bcc6fb446302340069cd94fd9ab3935f}{%
+           family={Davis-Richardson},
+           familyi={D\bibinithyphendelim R\bibinitperiod},
+           given={Austin\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=968555f9c3f34fdebf0b5df59f139c23}{%
+           family={Rechcigl},
+           familyi={R\bibinitperiod},
+           given={Kevin\bibnamedelima T},
+           giveni={K\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=be33d74fcb297deee4a8f12367baa4de}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Nan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=fe1cf6e058985d0efd0695640ab5f318}{%
+           family={Drew},
+           familyi={D\bibinitperiod},
+           given={Jennifer\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=607a27d298a4fb56a1428e75a2d13cd3}{%
+           family={Murgas-Torrazza},
+           familyi={M\bibinithyphendelim T\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0980143324c6674335bf5e690aad5573}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Renu},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d3f0b26f3e787d4e9ef5df77cb436b11}{%
+           family={Hudak},
+           familyi={H\bibinitperiod},
+           given={Mark\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1585b649044b811b7a0ba5f7f505e201}{%
+           family={Triplett},
+           familyi={T\bibinitperiod},
+           given={Eric\bibnamedelima W},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{017a1a088e7e4dad15b703f5792305a8}
+      \strng{fullhash}{6dad6925cab72d08408fa8c203119a39}
+      \strng{bibnamehash}{017a1a088e7e4dad15b703f5792305a8}
+      \strng{authorbibnamehash}{017a1a088e7e4dad15b703f5792305a8}
+      \strng{authornamehash}{017a1a088e7e4dad15b703f5792305a8}
+      \strng{authorfullhash}{6dad6925cab72d08408fa8c203119a39}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS one}
+      \field{number}{3}
+      \field{title}{Meconium microbiome analysis identifies bacteria correlated with premature birth}
+      \field{usera}{J}
+      \field{userd}{M}
+      \field{usere}{Ardissone, Alexandria N and Diomel, M and Davis-Richardson, Austin G and Rechcigl, Kevin T and Li, Nan and Drew, Jennifer C and Murgas-Torrazza, Roberto and Sharma, Renu and Hudak, Mark L and Triplett, Eric W and others}
+      \field{userf}{Ardissone, Alexandria N and Diomel, M and Davis-Richardson, Austin G and Rechcigl, Kevin T and Li, Nan and Drew, Jennifer C and Murgas-Torrazza, Roberto and Sharma, Renu and Hudak, Mark L and Triplett, Eric W and others}
+      \field{volume}{9}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{e90784}
+      \range{pages}{-1}
+      \keyw{ardissone2014meconium}
+    \endentry
+    \entry{lohmann2014airway}{article}{}
+      \name{author}{7}{}{%
+        {{hash=06a166045abe35bf29ff2ef8e560109f}{%
+           family={Lohmann},
+           familyi={L\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c98d7fff8abd574b45568adcc6d10d7e}{%
+           family={Luna},
+           familyi={L\bibinitperiod},
+           given={Ruth\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b26954630136a1e7abcef05168dc27ff}{%
+           family={Hollister},
+           familyi={H\bibinitperiod},
+           given={Emily\bibnamedelima B},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=382fa115031adeec544fd48c2282eb5a}{%
+           family={Devaraj},
+           familyi={D\bibinitperiod},
+           given={Sridevi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c18fe06066c5abac30e0db1f1854a7af}{%
+           family={Mistretta},
+           familyi={M\bibinitperiod},
+           given={Toni-Ann},
+           giveni={T\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=6371d5b187ed289b8887c408bfc0e327}{%
+           family={Welty},
+           familyi={W\bibinitperiod},
+           given={Stephen\bibnamedelima E},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=cef4ac35ce833a3b13097a8a07d96be7}{%
+           family={Versalovic},
+           familyi={V\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{a00cb237d01f60b484ebd729b98c3a9e}
+      \strng{fullhash}{ec16b77fc1a32ea3ca7c36caa59b67a4}
+      \strng{bibnamehash}{a00cb237d01f60b484ebd729b98c3a9e}
+      \strng{authorbibnamehash}{a00cb237d01f60b484ebd729b98c3a9e}
+      \strng{authornamehash}{a00cb237d01f60b484ebd729b98c3a9e}
+      \strng{authorfullhash}{ec16b77fc1a32ea3ca7c36caa59b67a4}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pediatric research}
+      \field{number}{3}
+      \field{title}{The airway microbiome of intubated premature infants: characteristics and changes that predict the development of bronchopulmonary dysplasia}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Lohmann, Pablo and Luna, Ruth A and Hollister, Emily B and Devaraj, Sridevi and Mistretta, Toni-Ann and Welty, Stephen E and Versalovic, James}
+      \field{userf}{Lohmann, Pablo and Luna, Ruth A and Hollister, Emily B and Devaraj, Sridevi and Mistretta, Toni-Ann and Welty, Stephen E and Versalovic, James}
+      \field{volume}{76}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{294}
+      \range{pages}{1}
+      \keyw{lohmann2014airway}
+    \endentry
+    \entry{pennisi2014our}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4149cece203f6e281455972ea9f0b38f}{%
+           family={Pennisi},
+           familyi={P\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science}%
+      }
+      \strng{namehash}{4149cece203f6e281455972ea9f0b38f}
+      \strng{fullhash}{4149cece203f6e281455972ea9f0b38f}
+      \strng{bibnamehash}{4149cece203f6e281455972ea9f0b38f}
+      \strng{authorbibnamehash}{4149cece203f6e281455972ea9f0b38f}
+      \strng{authornamehash}{4149cece203f6e281455972ea9f0b38f}
+      \strng{authorfullhash}{4149cece203f6e281455972ea9f0b38f}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Our egalitarian eden}
+      \field{userd}{O}
+      \field{usere}{Pennisi, Elizabeth}
+      \field{userf}{Pennisi, Elizabeth}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \keyw{pennisi2014our}
+    \endentry
+    \entry{backhed2005host}{article}{}
+      \name{author}{5}{}{%
+        {{hash=9a099c75c7d68b1c7c091f76ea6cc87e}{%
+           family={B{ä}ckhed},
+           familyi={B\bibinitperiod},
+           given={Fredrik},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9d4d39c76cb2e2f9f44f64d7534b2b13}{%
+           family={Ley},
+           familyi={L\bibinitperiod},
+           given={Ruth\bibnamedelima E},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=8ae0e098f1268cbd7637dea7563240fa}{%
+           family={Sonnenburg},
+           familyi={S\bibinitperiod},
+           given={Justin\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=7ddc6beacee79b5f2b08feee79a3a617}{%
+           family={Peterson},
+           familyi={P\bibinitperiod},
+           given={Daniel\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=fcae3b71b8971b5684cd194a47ea4374}{%
+           family={Gordon},
+           familyi={G\bibinitperiod},
+           given={Jeffrey\bibnamedelima I},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science}%
+      }
+      \strng{namehash}{733a70a0b223a0418db7c8fb6d599fa2}
+      \strng{fullhash}{9b567f40b42e1c57f3c0583d6e8fb61b}
+      \strng{bibnamehash}{733a70a0b223a0418db7c8fb6d599fa2}
+      \strng{authorbibnamehash}{733a70a0b223a0418db7c8fb6d599fa2}
+      \strng{authornamehash}{733a70a0b223a0418db7c8fb6d599fa2}
+      \strng{authorfullhash}{9b567f40b42e1c57f3c0583d6e8fb61b}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{science}
+      \field{number}{5717}
+      \field{title}{Host-bacterial mutualism in the human intestine}
+      \field{usera}{J}
+      \field{userd}{H}
+      \field{usere}{B{ä}ckhed, Fredrik and Ley, Ruth E and Sonnenburg, Justin L and Peterson, Daniel A and Gordon, Jeffrey I}
+      \field{userf}{B{ä}ckhed, Fredrik and Ley, Ruth E and Sonnenburg, Justin L and Peterson, Daniel A and Gordon, Jeffrey I}
+      \field{volume}{307}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{pages}{1915\bibrangedash 1920}
+      \range{pages}{6}
+      \keyw{backhed2005host}
+    \endentry
+    \entry{aagaard2014placenta}{misc}{}
+      \name{author}{6}{}{%
+        {{hash=4eb0e9b4664959e024d579292067755a}{%
+           family={Aagaard},
+           familyi={A\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3ecf5faffffaeea2ad2777739c1d9ad9}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d87e1f4934ecb8edefef332c44d2caea}{%
+           family={Antony},
+           familyi={A\bibinitperiod},
+           given={KM},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f24c58d1fc6936242427dfcf5130dba8}{%
+           family={Ganu},
+           familyi={G\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5e8b2071f3804946ff2ca707e3ab89ca}{%
+           family={Petrosino},
+           familyi={P\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0e5e8ab3e1f658b402b7aa95c136dd31}{%
+           family={Versalovic},
+           familyi={V\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d4686cff062c3fb137c71ab83837826}
+      \strng{fullhash}{bb1b51adfb75f2c7feb15470e4d495d4}
+      \strng{bibnamehash}{5d4686cff062c3fb137c71ab83837826}
+      \strng{authorbibnamehash}{5d4686cff062c3fb137c71ab83837826}
+      \strng{authornamehash}{5d4686cff062c3fb137c71ab83837826}
+      \strng{authorfullhash}{bb1b51adfb75f2c7feb15470e4d495d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The placenta harbors a unique microbiome. Sci Transl Med 6: 237ra65}
+      \field{userd}{T}
+      \field{usere}{Aagaard, K and Ma, J and Antony, KM and Ganu, R and Petrosino, J and Versalovic, J}
+      \field{userf}{Aagaard, K and Ma, J and Antony, KM and Ganu, R and Petrosino, J and Versalovic, J}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \keyw{aagaard2014placenta}
+    \endentry
+    \entry{la2014patterned}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=db141aeba23f751b8849e0195d822f5d}{%
+           family={La\bibnamedelima Rosa},
+           familyi={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Patricio\bibnamedelima S},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=3ea4d4be6ab1001ba80b8137c64a1fb9}{%
+           family={Warner},
+           familyi={W\bibinitperiod},
+           given={Barbara\bibnamedelima B},
+           giveni={B\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=35e6f1258796450ab23f618d1376e8c3}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Yanjiao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5ec455e27720855cc79833192b426896}{%
+           family={Weinstock},
+           familyi={W\bibinitperiod},
+           given={George\bibnamedelima M},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=c1bc4dfc9983a17fe9fb2a62632fae99}{%
+           family={Sodergren},
+           familyi={S\bibinitperiod},
+           given={Erica},
+           giveni={E\bibinitperiod}}}%
+        {{hash=aa247d737c4534aaa3d9a871d9be8507}{%
+           family={Hall-Moore},
+           familyi={H\bibinithyphendelim M\bibinitperiod},
+           given={Carla\bibnamedelima M},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ef77ed0273fbbef78d14cdcf5f07bebb}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={Harold\bibnamedelima J},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8d53f6995f53b18290af00bec74e337a}{%
+           family={Bennett},
+           familyi={B\bibinitperiod},
+           given={William\bibnamedelima E},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=dd239248760c7e632473b7e32e0c9d1f}{%
+           family={Shaikh},
+           familyi={S\bibinitperiod},
+           given={Nurmohammad},
+           giveni={N\bibinitperiod}}}%
+        {{hash=636f4d049e0984eb6071b4d47b50c77e}{%
+           family={Linneman},
+           familyi={L\bibinitperiod},
+           given={Laura\bibnamedelima A},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {National Acad Sciences}%
+      }
+      \strng{namehash}{eb224c13a8656577ff1f47cdf54c4eae}
+      \strng{fullhash}{4be0bf97789d7cebcf1cd08310ef0356}
+      \strng{bibnamehash}{eb224c13a8656577ff1f47cdf54c4eae}
+      \strng{authorbibnamehash}{eb224c13a8656577ff1f47cdf54c4eae}
+      \strng{authornamehash}{eb224c13a8656577ff1f47cdf54c4eae}
+      \strng{authorfullhash}{4be0bf97789d7cebcf1cd08310ef0356}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{34}
+      \field{title}{Patterned progression of bacterial populations in the premature infant gut}
+      \field{usera}{J}
+      \field{userd}{P}
+      \field{usere}{La Rosa, Patricio S and Warner, Barbara B and Zhou, Yanjiao and Weinstock, George M and Sodergren, Erica and Hall-Moore, Carla M and Stevens, Harold J and Bennett, William E and Shaikh, Nurmohammad and Linneman, Laura A and others}
+      \field{userf}{La Rosa, Patricio S and Warner, Barbara B and Zhou, Yanjiao and Weinstock, George M and Sodergren, Erica and Hall-Moore, Carla M and Stevens, Harold J and Bennett, William E and Shaikh, Nurmohammad and Linneman, Laura A and others}
+      \field{volume}{111}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{12522\bibrangedash 12527}
+      \range{pages}{6}
+      \keyw{la2014patterned}
+    \endentry
+    \entry{ouwehand2005prebiotics}{article}{}
+      \name{author}{5}{}{%
+        {{hash=84ebc48daf762454270ee3e5128e5cc5}{%
+           family={Ouwehand},
+           familyi={O\bibinitperiod},
+           given={Arthur\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=613a26221f56e4c867fb5205c4d9056d}{%
+           family={Derrien},
+           familyi={D\bibinitperiod},
+           given={Muriel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=29be2837aee2c6fef971f3b17d30bd31}{%
+           family={Vos},
+           familyi={V\bibinitperiod},
+           given={Willem},
+           giveni={W\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=9163a6e1d5d471fb451b12224d448279}{%
+           family={Tiihonen},
+           familyi={T\bibinitperiod},
+           given={Kirsti},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c0b998a6eacfb807c40b8341c30c018b}{%
+           family={Rautonen},
+           familyi={R\bibinitperiod},
+           given={Nina},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f4488d7964acf1f758d50c400af06614}
+      \strng{fullhash}{6cbc8f172134ab6936124a4bf57f5db1}
+      \strng{bibnamehash}{f4488d7964acf1f758d50c400af06614}
+      \strng{authorbibnamehash}{f4488d7964acf1f758d50c400af06614}
+      \strng{authornamehash}{f4488d7964acf1f758d50c400af06614}
+      \strng{authorfullhash}{6cbc8f172134ab6936124a4bf57f5db1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Current opinion in biotechnology}
+      \field{number}{2}
+      \field{title}{Prebiotics and other microbial substrates for gut functionality}
+      \field{usera}{J}
+      \field{userd}{P}
+      \field{usere}{Ouwehand, Arthur C and Derrien, Muriel and de Vos, Willem and Tiihonen, Kirsti and Rautonen, Nina}
+      \field{userf}{Ouwehand, Arthur C and Derrien, Muriel and de Vos, Willem and Tiihonen, Kirsti and Rautonen, Nina}
+      \field{volume}{16}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{pages}{212\bibrangedash 217}
+      \range{pages}{6}
+      \keyw{ouwehand2005prebiotics}
+    \endentry
+    \entry{penders2006factors}{article}{}
+      \name{author}{8}{}{%
+        {{hash=e85281b34f67303be2c0d5c91d2a104e}{%
+           family={Penders},
+           familyi={P\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=77691ee68b35e0b82b3eb9de0a742a0f}{%
+           family={Thijs},
+           familyi={T\bibinitperiod},
+           given={Carel},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ad66cb7faafd05b9b03036c6eecd300b}{%
+           family={Vink},
+           familyi={V\bibinitperiod},
+           given={Cornelis},
+           giveni={C\bibinitperiod}}}%
+        {{hash=08d014f90dfefc622b0f5295c5f8d770}{%
+           family={Stelma},
+           familyi={S\bibinitperiod},
+           given={Foekje\bibnamedelima F},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=89c05775d3fb9c03ebd0f4e0aa180305}{%
+           family={Snijders},
+           familyi={S\bibinitperiod},
+           given={Bianca},
+           giveni={B\bibinitperiod}}}%
+        {{hash=763b4a6d20614d91644ad8a092b63d7b}{%
+           family={Kummeling},
+           familyi={K\bibinitperiod},
+           given={Ischa},
+           giveni={I\bibinitperiod}}}%
+        {{hash=5db33a8c58aaa5934fd5ef8ca1473e8f}{%
+           family={Brandt},
+           familyi={B\bibinitperiod},
+           given={Piet\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=029166cfeac6531d007daa7311acbaf8}{%
+           family={Stobberingh},
+           familyi={S\bibinitperiod},
+           given={Ellen\bibnamedelima E},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Acad Pediatrics}%
+      }
+      \strng{namehash}{8e8d994d0d0dd30a1a5128f83dce6756}
+      \strng{fullhash}{da7819460a01d65af1cfe1070019382d}
+      \strng{bibnamehash}{8e8d994d0d0dd30a1a5128f83dce6756}
+      \strng{authorbibnamehash}{8e8d994d0d0dd30a1a5128f83dce6756}
+      \strng{authornamehash}{8e8d994d0d0dd30a1a5128f83dce6756}
+      \strng{authorfullhash}{da7819460a01d65af1cfe1070019382d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pediatrics}
+      \field{number}{2}
+      \field{title}{Factors influencing the composition of the intestinal microbiota in early infancy}
+      \field{usera}{J}
+      \field{userd}{F}
+      \field{usere}{Penders, John and Thijs, Carel and Vink, Cornelis and Stelma, Foekje F and Snijders, Bianca and Kummeling, Ischa and van den Brandt, Piet A and Stobberingh, Ellen E}
+      \field{userf}{Penders, John and Thijs, Carel and Vink, Cornelis and Stelma, Foekje F and Snijders, Bianca and Kummeling, Ischa and van den Brandt, Piet A and Stobberingh, Ellen E}
+      \field{volume}{118}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{511\bibrangedash 521}
+      \range{pages}{11}
+      \keyw{penders2006factors}
+    \endentry
+    \entry{neu2011necrotizing}{article}{}
+      \name{author}{2}{}{%
+        {{hash=28a9546f39d6464a2b1c769a4798046e}{%
+           family={Neu},
+           familyi={N\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1ebc9de62f35325404be7df51996e7c2}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={W\bibnamedelima Allan},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mass Medical Soc}%
+      }
+      \strng{namehash}{5f2421c6155aefea18a1becac5f5397e}
+      \strng{fullhash}{5f2421c6155aefea18a1becac5f5397e}
+      \strng{bibnamehash}{5f2421c6155aefea18a1becac5f5397e}
+      \strng{authorbibnamehash}{5f2421c6155aefea18a1becac5f5397e}
+      \strng{authornamehash}{5f2421c6155aefea18a1becac5f5397e}
+      \strng{authorfullhash}{5f2421c6155aefea18a1becac5f5397e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New England Journal of Medicine}
+      \field{number}{3}
+      \field{title}{Necrotizing enterocolitis}
+      \field{usera}{J}
+      \field{userd}{N}
+      \field{usere}{Neu, Josef and Walker, W Allan}
+      \field{userf}{Neu, Josef and Walker, W Allan}
+      \field{volume}{364}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{255\bibrangedash 264}
+      \range{pages}{10}
+      \keyw{neu2011necrotizing}
+    \endentry
+    \entry{hallstrom2006laboratory}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0be81a1556b7b410519c8000b7e94c2e}{%
+           family={H{ä}llstr{ö}m},
+           familyi={H\bibinitperiod},
+           given={Minna},
+           giveni={M\bibinitperiod}}}%
+        {{hash=04fb68e915e676507aa86c4528c2be51}{%
+           family={Koivisto},
+           familyi={K\bibinitperiod},
+           given={Anna-Maija},
+           giveni={A\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=09d04a2f7b43c7b3542ae34eb8471869}{%
+           family={Janas},
+           familyi={J\bibinitperiod},
+           given={Martii},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ea1925a195099ca5b077aca93f836997}{%
+           family={Tammela},
+           familyi={T\bibinitperiod},
+           given={Outi},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{8f21162aaa606b2635adef8ed18aaf50}
+      \strng{fullhash}{0d038c12172c2826e97be8085b13d2ee}
+      \strng{bibnamehash}{8f21162aaa606b2635adef8ed18aaf50}
+      \strng{authorbibnamehash}{8f21162aaa606b2635adef8ed18aaf50}
+      \strng{authornamehash}{8f21162aaa606b2635adef8ed18aaf50}
+      \strng{authorfullhash}{0d038c12172c2826e97be8085b13d2ee}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of pediatric surgery}
+      \field{number}{4}
+      \field{title}{Laboratory parameters predictive of developing necrotizing enterocolitis in infants born before 33 weeks of gestation}
+      \field{usera}{J}
+      \field{userd}{L}
+      \field{usere}{H{ä}llstr{ö}m, Minna and Koivisto, Anna-Maija and Janas, Martii and Tammela, Outi}
+      \field{userf}{H{ä}llstr{ö}m, Minna and Koivisto, Anna-Maija and Janas, Martii and Tammela, Outi}
+      \field{volume}{41}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{792\bibrangedash 798}
+      \range{pages}{7}
+      \keyw{hallstrom2006laboratory}
+    \endentry
+    \entry{walsh1988necrotizing}{article}{}
+      \name{author}{3}{}{%
+        {{hash=53e3cfc151d8170fb9105d7ef9aacea3}{%
+           family={Walsh},
+           familyi={W\bibinitperiod},
+           given={MC},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a3957a94d181836c956a244608ced171}{%
+           family={Kliegman},
+           familyi={K\bibinitperiod},
+           given={RM},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2841f8cee92c254edd58c65008c5c27c}{%
+           family={Fanaroff},
+           familyi={F\bibinitperiod},
+           given={AA},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Academy of Pediatrics}%
+      }
+      \strng{namehash}{a698536c90d07af7f40cea9d08b8d9b7}
+      \strng{fullhash}{a698536c90d07af7f40cea9d08b8d9b7}
+      \strng{bibnamehash}{a698536c90d07af7f40cea9d08b8d9b7}
+      \strng{authorbibnamehash}{a698536c90d07af7f40cea9d08b8d9b7}
+      \strng{authornamehash}{a698536c90d07af7f40cea9d08b8d9b7}
+      \strng{authorfullhash}{a698536c90d07af7f40cea9d08b8d9b7}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pediatrics in Review}
+      \field{number}{7}
+      \field{title}{Necrotizing enterocolitis: a practitioner's perspective.}
+      \field{usera}{J}
+      \field{userd}{N}
+      \field{usere}{Walsh, MC and Kliegman, RM and Fanaroff, AA}
+      \field{userf}{Walsh, MC and Kliegman, RM and Fanaroff, AA}
+      \field{volume}{9}
+      \field{year}{1988}
+      \field{dateera}{ce}
+      \field{pages}{219\bibrangedash 226}
+      \range{pages}{8}
+      \keyw{walsh1988necrotizing}
+    \endentry
+    \entry{yu1980improving}{article}{}
+      \name{author}{2}{}{%
+        {{hash=72a9e7cb15f2d08cd390493e4ffddbb7}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={VY},
+           giveni={V\bibinitperiod}}}%
+        {{hash=f6c5dcc3619303f641fdd9990f1ffe95}{%
+           family={Hollingsworth},
+           familyi={H\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BMJ Publishing Group Ltd}%
+      }
+      \strng{namehash}{edddc330668607334032c74c8bf85e4c}
+      \strng{fullhash}{edddc330668607334032c74c8bf85e4c}
+      \strng{bibnamehash}{edddc330668607334032c74c8bf85e4c}
+      \strng{authorbibnamehash}{edddc330668607334032c74c8bf85e4c}
+      \strng{authornamehash}{edddc330668607334032c74c8bf85e4c}
+      \strng{authorfullhash}{edddc330668607334032c74c8bf85e4c}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Archives of disease in childhood}
+      \field{number}{6}
+      \field{title}{Improving prognosis for infants weighing 1000 g or less at birth.}
+      \field{usera}{J}
+      \field{userd}{I}
+      \field{usere}{Yu, VY and Hollingsworth, E}
+      \field{userf}{Yu, VY and Hollingsworth, E}
+      \field{volume}{55}
+      \field{year}{1980}
+      \field{dateera}{ce}
+      \field{pages}{422\bibrangedash 426}
+      \range{pages}{5}
+      \keyw{yu1980improving}
+    \endentry
+    \entry{kliegman1984necrotizing}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a3957a94d181836c956a244608ced171}{%
+           family={Kliegman},
+           familyi={K\bibinitperiod},
+           given={RM},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2841f8cee92c254edd58c65008c5c27c}{%
+           family={Fanaroff},
+           familyi={F\bibinitperiod},
+           given={AA},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mass Medical Soc}%
+      }
+      \strng{namehash}{bdf5ecd4548fff9fb013c28d74933ef6}
+      \strng{fullhash}{bdf5ecd4548fff9fb013c28d74933ef6}
+      \strng{bibnamehash}{bdf5ecd4548fff9fb013c28d74933ef6}
+      \strng{authorbibnamehash}{bdf5ecd4548fff9fb013c28d74933ef6}
+      \strng{authornamehash}{bdf5ecd4548fff9fb013c28d74933ef6}
+      \strng{authorfullhash}{bdf5ecd4548fff9fb013c28d74933ef6}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New England Journal of Medicine}
+      \field{number}{17}
+      \field{title}{Necrotizing enterocolitis}
+      \field{usera}{J}
+      \field{userd}{N}
+      \field{usere}{Kliegman, RM and Fanaroff, AA}
+      \field{userf}{Kliegman, RM and Fanaroff, AA}
+      \field{volume}{310}
+      \field{year}{1984}
+      \field{dateera}{ce}
+      \field{pages}{1093\bibrangedash 1103}
+      \range{pages}{11}
+      \keyw{kliegman1984necrotizing}
+    \endentry
+    \entry{zani2015scavenger}{article}{}
+      \name{author}{7}{}{%
+        {{hash=403d9f977c43a06d4430a5add063f12d}{%
+           family={Zani},
+           familyi={Z\bibinitperiod},
+           given={Izma\bibnamedelima Abdul},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=94597ec280c09d09cb66fb5e0d374884}{%
+           family={Stephen},
+           familyi={S\bibinitperiod},
+           given={Sam\bibnamedelima L},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1018209ae88c7d52d264d13d63307664}{%
+           family={Mughal},
+           familyi={M\bibinitperiod},
+           given={Nadeem\bibnamedelima A},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=08d9859a57397720c2cb70d08d732d23}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d3f043102175fcf962d6710fd9f6e550}{%
+           family={Homer-Vanniasinkam},
+           familyi={H\bibinithyphendelim V\bibinitperiod},
+           given={Shervanthi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6d5175523bd1c2e67b1c197bc2f6d6b3}{%
+           family={Wheatcroft},
+           familyi={W\bibinitperiod},
+           given={Stephen\bibnamedelima B},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=9ff0a33a864b561123b43cfd1b921fcb}{%
+           family={Ponnambalam},
+           familyi={P\bibinitperiod},
+           given={Sreenivasan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{50a1ecd0a55260454c4de0f1e00902c7}
+      \strng{fullhash}{db4141c226a38424029e5fd309fc57f8}
+      \strng{bibnamehash}{50a1ecd0a55260454c4de0f1e00902c7}
+      \strng{authorbibnamehash}{50a1ecd0a55260454c4de0f1e00902c7}
+      \strng{authornamehash}{50a1ecd0a55260454c4de0f1e00902c7}
+      \strng{authorfullhash}{db4141c226a38424029e5fd309fc57f8}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cells}
+      \field{number}{2}
+      \field{title}{Scavenger receptor structure and function in health and disease}
+      \field{usera}{J}
+      \field{userd}{S}
+      \field{usere}{Zani, Izma Abdul and Stephen, Sam L and Mughal, Nadeem A and Russell, David and Homer-Vanniasinkam, Shervanthi and Wheatcroft, Stephen B and Ponnambalam, Sreenivasan}
+      \field{userf}{Zani, Izma Abdul and Stephen, Sam L and Mughal, Nadeem A and Russell, David and Homer-Vanniasinkam, Shervanthi and Wheatcroft, Stephen B and Ponnambalam, Sreenivasan}
+      \field{volume}{4}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{178\bibrangedash 201}
+      \range{pages}{24}
+      \keyw{zani2015scavenger}
+    \endentry
+    \entry{pickard2009short}{article}{}
+      \name{author}{5}{}{%
+        {{hash=a210796aa4e3f4c0ea58686773abba13}{%
+           family={Pickard},
+           familyi={P\bibinitperiod},
+           given={Sarah\bibnamedelima S},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b45f4d1a101f1d3092cac4330757e3c5}{%
+           family={Feinstein},
+           familyi={F\bibinitperiod},
+           given={Jeffrey\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=513fdcc853df8a79d12119a8f2620071}{%
+           family={Popat},
+           familyi={P\bibinitperiod},
+           given={Rita\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=3379cc8a23baa16c327ab8b6f3cbdf96}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Lyen},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0de1a1f75d82f543bf759b77aafee7d4}{%
+           family={Dutta},
+           familyi={D\bibinitperiod},
+           given={Sanjeev},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Acad Pediatrics}%
+      }
+      \strng{namehash}{d2622c627ad3ee2063b1b48b392c7c7a}
+      \strng{fullhash}{03d09799aa98eb91dd70eacc1ba88013}
+      \strng{bibnamehash}{d2622c627ad3ee2063b1b48b392c7c7a}
+      \strng{authorbibnamehash}{d2622c627ad3ee2063b1b48b392c7c7a}
+      \strng{authornamehash}{d2622c627ad3ee2063b1b48b392c7c7a}
+      \strng{authorfullhash}{03d09799aa98eb91dd70eacc1ba88013}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pediatrics}
+      \field{number}{5}
+      \field{title}{Short-and long-term outcomes of necrotizing enterocolitis in infants with congenital heart disease}
+      \field{usera}{J}
+      \field{userd}{S}
+      \field{usere}{Pickard, Sarah S and Feinstein, Jeffrey A and Popat, Rita A and Huang, Lyen and Dutta, Sanjeev}
+      \field{userf}{Pickard, Sarah S and Feinstein, Jeffrey A and Popat, Rita A and Huang, Lyen and Dutta, Sanjeev}
+      \field{volume}{123}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{e901\bibrangedash e906}
+      \range{pages}{-1}
+      \keyw{pickard2009short}
+    \endentry
+    \entry{kawase2006gastrointestinal}{article}{}
+      \name{author}{4}{}{%
+        {{hash=51b23b0b3bc09247329f3cb09958bb51}{%
+           family={Kawase},
+           familyi={K\bibinitperiod},
+           given={Yasuhiro},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b4aca0c7d576bc8e05ce0e377dbad33f}{%
+           family={Ishii},
+           familyi={I\bibinitperiod},
+           given={Tetsuya},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8f2e412efee177e7993a1d36a474aa61}{%
+           family={Arai},
+           familyi={A\bibinitperiod},
+           given={Hiroko},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e9eda065e6857148d3f042613008611f}{%
+           family={Uga},
+           familyi={U\bibinitperiod},
+           given={Naoki},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{72a383b90b069035d2b6ef09f6fe4d97}
+      \strng{fullhash}{14fd8fca67bf70fe362ff0438758f15e}
+      \strng{bibnamehash}{72a383b90b069035d2b6ef09f6fe4d97}
+      \strng{authorbibnamehash}{72a383b90b069035d2b6ef09f6fe4d97}
+      \strng{authornamehash}{72a383b90b069035d2b6ef09f6fe4d97}
+      \strng{authorfullhash}{14fd8fca67bf70fe362ff0438758f15e}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pediatrics International}
+      \field{number}{6}
+      \field{title}{Gastrointestinal perforation in very low-birthweight infants}
+      \field{usera}{J}
+      \field{userd}{G}
+      \field{usere}{Kawase, Yasuhiro and Ishii, Tetsuya and Arai, Hiroko and Uga, Naoki}
+      \field{userf}{Kawase, Yasuhiro and Ishii, Tetsuya and Arai, Hiroko and Uga, Naoki}
+      \field{volume}{48}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{599\bibrangedash 603}
+      \range{pages}{5}
+      \keyw{kawase2006gastrointestinal}
+    \endentry
+    \entry{stoll2015trends}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=461c1a467323050c115852173a7c2950}{%
+           family={Stoll},
+           familyi={S\bibinitperiod},
+           given={Barbara\bibnamedelima J},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1636f2498f4c04e70f81e55aec94b0f4}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Nellie\bibnamedelima I},
+           giveni={N\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=c0aebcfcaa0464008d41643d6e277722}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={Edward\bibnamedelima F},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=1401c7107f009a55343e19e3df325e5b}{%
+           family={Walsh},
+           familyi={W\bibinitperiod},
+           given={Michele\bibnamedelima C},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=6a49dd5f2c71fb66177f714d926a4f16}{%
+           family={Carlo},
+           familyi={C\bibinitperiod},
+           given={Waldemar\bibnamedelima A},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bd98f51f2adf1d681ae6d11ead353652}{%
+           family={Shankaran},
+           familyi={S\bibinitperiod},
+           given={Seetha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0740253103d068a4f67c2bd318dd50aa}{%
+           family={Laptook},
+           familyi={L\bibinitperiod},
+           given={Abbot\bibnamedelima R},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=701ce69a3ab50586cdb4534263dcae32}{%
+           family={S{á}nchez},
+           familyi={S\bibinitperiod},
+           given={Pablo\bibnamedelima J},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=c94f2c4060966b4260d5ac32fdc050f7}{%
+           family={Van\bibnamedelima Meurs},
+           familyi={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Krisa\bibnamedelima P},
+           giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=36f0f22a4e457accabae5edf550ab6ed}{%
+           family={Wyckoff},
+           familyi={W\bibinitperiod},
+           given={Myra},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Medical Association}%
+      }
+      \strng{namehash}{c2f902b14414c958e8ee4bb1ea9648be}
+      \strng{fullhash}{78309ef0060fa9e739e3ca1c5854a37a}
+      \strng{bibnamehash}{c2f902b14414c958e8ee4bb1ea9648be}
+      \strng{authorbibnamehash}{c2f902b14414c958e8ee4bb1ea9648be}
+      \strng{authornamehash}{c2f902b14414c958e8ee4bb1ea9648be}
+      \strng{authorfullhash}{78309ef0060fa9e739e3ca1c5854a37a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jama}
+      \field{number}{10}
+      \field{title}{Trends in care practices, morbidity, and mortality of extremely preterm neonates, 1993-2012}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Stoll, Barbara J and Hansen, Nellie I and Bell, Edward F and Walsh, Michele C and Carlo, Waldemar A and Shankaran, Seetha and Laptook, Abbot R and S{á}nchez, Pablo J and Van Meurs, Krisa P and Wyckoff, Myra and others}
+      \field{userf}{Stoll, Barbara J and Hansen, Nellie I and Bell, Edward F and Walsh, Michele C and Carlo, Waldemar A and Shankaran, Seetha and Laptook, Abbot R and S{á}nchez, Pablo J and Van Meurs, Krisa P and Wyckoff, Myra and others}
+      \field{volume}{314}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{1039\bibrangedash 1051}
+      \range{pages}{13}
+      \keyw{stoll2015trends}
+    \endentry
+    \entry{rees2010national}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5e70ca62d04a0a2df6ed6edab3945916}{%
+           family={Rees},
+           familyi={R\bibinitperiod},
+           given={Clare\bibnamedelima M},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e2d39faf205000d0963e40fd608ab89c}{%
+           family={Eaton},
+           familyi={E\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=edcef57bf0097c8c4ce99d4820df049e}{%
+           family={Pierro},
+           familyi={P\bibinitperiod},
+           given={Agostino},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a3c464cf3cc61310bc37ee7d7e8100c8}
+      \strng{fullhash}{a3c464cf3cc61310bc37ee7d7e8100c8}
+      \strng{bibnamehash}{a3c464cf3cc61310bc37ee7d7e8100c8}
+      \strng{authorbibnamehash}{a3c464cf3cc61310bc37ee7d7e8100c8}
+      \strng{authornamehash}{a3c464cf3cc61310bc37ee7d7e8100c8}
+      \strng{authorfullhash}{a3c464cf3cc61310bc37ee7d7e8100c8}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of pediatric surgery}
+      \field{number}{7}
+      \field{title}{National prospective surveillance study of necrotizing enterocolitis in neonatal intensive care units}
+      \field{usera}{J}
+      \field{userd}{N}
+      \field{usere}{Rees, Clare M and Eaton, Simon and Pierro, Agostino}
+      \field{userf}{Rees, Clare M and Eaton, Simon and Pierro, Agostino}
+      \field{volume}{45}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{1391\bibrangedash 1397}
+      \range{pages}{7}
+      \keyw{rees2010national}
+    \endentry
+    \entry{yee2012incidence}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{7}{}{%
+        {{hash=b5756f2d21bf8c67f675162f7b5ae565}{%
+           family={Yee},
+           familyi={Y\bibinitperiod},
+           given={Wendy\bibnamedelima H},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=a3e7a2ce93138083fa2bd72249fe8de4}{%
+           family={Soraisham},
+           familyi={S\bibinitperiod},
+           given={Amuchou\bibnamedelima Singh},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=324e8a4968b7114fa420aa88cfe47e9b}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Vibhuti\bibnamedelima S},
+           giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=f5748b92b3c767ab9ad968f448d3f26f}{%
+           family={Aziz},
+           familyi={A\bibinitperiod},
+           given={Khalid},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a23220918877ec8bcefb7df79649ac84}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={Woojin},
+           giveni={W\bibinitperiod}}}%
+        {{hash=ce4859187f3b2fe24d419aab61621f58}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Shoo\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=9a71af5e5f09a3f76df16b3d3c038bfa}{%
+           family={Network},
+           familyi={N\bibinitperiod},
+           given={Canadian\bibnamedelima Neonatal},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Acad Pediatrics}%
+      }
+      \strng{namehash}{f98c4d7150c3a10e14d1df964132cf1f}
+      \strng{fullhash}{5fc999fd14c57f940ef399479a3d1c17}
+      \strng{bibnamehash}{f98c4d7150c3a10e14d1df964132cf1f}
+      \strng{authorbibnamehash}{f98c4d7150c3a10e14d1df964132cf1f}
+      \strng{authornamehash}{f98c4d7150c3a10e14d1df964132cf1f}
+      \strng{authorfullhash}{5fc999fd14c57f940ef399479a3d1c17}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pediatrics}
+      \field{title}{Incidence and timing of presentation of necrotizing enterocolitis in preterm infants}
+      \field{usera}{J}
+      \field{userd}{I}
+      \field{usere}{Yee, Wendy H and Soraisham, Amuchou Singh and Shah, Vibhuti S and Aziz, Khalid and Yoon, Woojin and Lee, Shoo K and Canadian Neonatal Network and others}
+      \field{userf}{Yee, Wendy H and Soraisham, Amuchou Singh and Shah, Vibhuti S and Aziz, Khalid and Yoon, Woojin and Lee, Shoo K and Canadian Neonatal Network and others}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{peds\bibrangedash 2011}
+      \range{pages}{-1}
+      \keyw{yee2012incidence}
+    \endentry
+    \entry{good2015breast}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=78da211a6536a9a8898480d0bd23d747}{%
+           family={Good},
+           familyi={G\bibinitperiod},
+           given={Misty},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c32fca1fd103ce93aa472ac7a733c48e}{%
+           family={Sodhi},
+           familyi={S\bibinitperiod},
+           given={Chhinder\bibnamedelima P},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=6ff145b17a634a80d6fe9ca9db6cd733}{%
+           family={Egan},
+           familyi={E\bibinitperiod},
+           given={Charlotte\bibnamedelima E},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=017e134563ae1f29a89210831f836fc1}{%
+           family={Afrazi},
+           familyi={A\bibinitperiod},
+           given={Amin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d74e81bd16549c9c8ed4b83ff09b3195}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Hongpeng},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5601899033278d27e24924c965d8bd90}{%
+           family={Yamaguchi},
+           familyi={Y\bibinitperiod},
+           given={Yukihiro},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5c1e16e3967db9ab77ecdbb59a576801}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6dcd7556cf8ba9eefae6b2787f3d8487}{%
+           family={Branca},
+           familyi={B\bibinitperiod},
+           given={Maria\bibnamedelima F},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=7b10667bbb538d994c53d94b6ef12f1e}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Congrong},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a1e557ceb5256a992882598ab026ac9a}{%
+           family={Prindle\bibnamedelima Jr},
+           familyi={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{ad799abbad149f787101e363d35f8d67}
+      \strng{fullhash}{3d80f5ac8778ac8963c9fb696c8ab9ba}
+      \strng{bibnamehash}{ad799abbad149f787101e363d35f8d67}
+      \strng{authorbibnamehash}{ad799abbad149f787101e363d35f8d67}
+      \strng{authornamehash}{ad799abbad149f787101e363d35f8d67}
+      \strng{authorfullhash}{3d80f5ac8778ac8963c9fb696c8ab9ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mucosal immunology}
+      \field{number}{5}
+      \field{title}{Breast milk protects against the development of necrotizing enterocolitis through inhibition of Toll-like receptor 4 in the intestinal epithelium via activation of the epidermal growth factor receptor}
+      \field{usera}{J}
+      \field{userd}{B}
+      \field{usere}{Good, Misty and Sodhi, Chhinder P and Egan, Charlotte E and Afrazi, Amin and Jia, Hongpeng and Yamaguchi, Yukihiro and Lu, Peng and Branca, Maria F and Ma, Congrong and Prindle Jr, Thomas and others}
+      \field{userf}{Good, Misty and Sodhi, Chhinder P and Egan, Charlotte E and Afrazi, Amin and Jia, Hongpeng and Yamaguchi, Yukihiro and Lu, Peng and Branca, Maria F and Ma, Congrong and Prindle Jr, Thomas and others}
+      \field{volume}{8}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{1166}
+      \range{pages}{1}
+      \keyw{good2015breast}
+    \endentry
+  \enddatalist
+  \missing{J Liang}
+  \missing{h sokol}
+\endrefsection
+\endinput
+
