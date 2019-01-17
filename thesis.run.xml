@@ -84,6 +84,7 @@
     </requires>
     <requires type="editable">
       <file>bib/chap1.bib</file>
+      <file>bib/review.bib</file>
     </requires>
   </external>
 </requests>

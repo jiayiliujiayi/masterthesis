@@ -14,14 +14,30 @@
 \contentsline {section}{\numberline {2.1}测试}{6}{section.2.1}
 \contentsline {chapter}{\numberline {第三章\hspace {.3em}}常见问题}{7}{chapter.3}
 \contentsline {chapter}{全文总结}{9}{chapter*.9}
-\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}原始数据与源代码存档}{10}{appendix.A}
-\contentsline {section}{\numberline {A.1}原始测序数据存档}{10}{section.A.1}
-\contentsline {section}{\numberline {A.2}论文相关源代码和原始图标存档}{10}{section.A.2}
-\contentsline {chapter}{\numberline {附录 B\hspace {.3em}}Maxwell Equations}{11}{appendix.B}
-\contentsline {chapter}{\numberline {附录 C\hspace {.3em}}从 {CJK--\LaTeX } 转向 \XeTeX }{12}{appendix.C}
-\contentsline {chapter}{\numberline {附录 D\hspace {.3em}}模板更新记录}{13}{appendix.D}
-\contentsline {chapter}{参考文献}{15}{appendix*.10}
-\contentsline {chapter}{致\nobreakspace {}\nobreakspace {}\nobreakspace {}\nobreakspace {}谢}{21}{appendix*.11}
-\contentsline {chapter}{攻读学位期间发表的学术论文}{22}{appendix*.12}
-\contentsline {chapter}{攻读学位期间参与的项目}{23}{appendix*.13}
-\contentsline {chapter}{简\nobreakspace {}\nobreakspace {}\nobreakspace {}\nobreakspace {}历}{24}{appendix*.14}
+\setcounter {tocdepth}{0}
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}综述\hskip 1em\relax 人体肠道菌群研究粪便样品取样与保存方法}{10}{appendix.A}
+\contentsline {section}{\numberline {A.1}粪便样品取样与保存常用方法}{11}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}HMP标准流程（HMP Core Microbiome Sampling, Protocol A）}{11}{subsection.A.1.1}
+\contentsline {subsection}{\numberline {A.1.2}样品采集方法}{11}{subsection.A.1.2}
+\contentsline {subsection}{\numberline {A.1.3}样品保存条件}{11}{subsection.A.1.3}
+\contentsline {subsection}{\numberline {A.1.4}IHMS标准操作规程（IHMS Sample Collection and Handling SOPs）}{12}{subsection.A.1.4}
+\contentsline {subsection}{\numberline {A.1.5}样品采集方法}{12}{subsection.A.1.5}
+\contentsline {subsection}{\numberline {A.1.6}样品保存条件}{12}{subsection.A.1.6}
+\contentsline {section}{\numberline {A.2}粪便样品取样方法对实验结果的影响}{12}{section.A.2}
+\contentsline {subsection}{\numberline {A.2.1}取样时间}{12}{subsection.A.2.1}
+\contentsline {subsection}{\numberline {A.2.2}选择替代样品}{13}{subsection.A.2.2}
+\contentsline {subsection}{\numberline {A.2.3}取样人员}{13}{subsection.A.2.3}
+\contentsline {subsection}{\numberline {A.2.4}取样次数}{13}{subsection.A.2.4}
+\contentsline {subsection}{\numberline {A.2.5}采样后、保存前所使用的试剂}{13}{subsection.A.2.5}
+\contentsline {section}{\numberline {A.3}粪便样品不同保存方法对研究结果的影响}{14}{section.A.3}
+\contentsline {section}{\numberline {A.4}总结}{14}{section.A.4}
+\contentsline {chapter}{\numberline {附录 B\hspace {.3em}}原始数据与源代码存档}{16}{appendix.B}
+\contentsline {section}{\numberline {B.1}原始测序数据存档}{16}{section.B.1}
+\contentsline {section}{\numberline {B.2}论文相关源代码和原始图标存档}{16}{section.B.2}
+\contentsline {chapter}{\numberline {附录 C\hspace {.3em}}从 {CJK--\LaTeX } 转向 \XeTeX }{17}{appendix.C}
+\contentsline {chapter}{\numberline {附录 D\hspace {.3em}}模板更新记录}{18}{appendix.D}
+\contentsline {chapter}{参考文献}{20}{appendix*.10}
+\contentsline {chapter}{致\nobreakspace {}\nobreakspace {}\nobreakspace {}\nobreakspace {}谢}{26}{appendix*.11}
+\contentsline {chapter}{攻读学位期间发表的学术论文}{27}{appendix*.12}
+\contentsline {chapter}{攻读学位期间参与的项目}{28}{appendix*.13}
+\contentsline {chapter}{简\nobreakspace {}\nobreakspace {}\nobreakspace {}\nobreakspace {}历}{29}{appendix*.14}

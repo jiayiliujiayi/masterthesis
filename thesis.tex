@@ -19,6 +19,7 @@
 
 % 逐个导入参考文献数据库
 \addbibresource{bib/chap1.bib}
+\addbibresource{bib/review.bib}
 % \addbibresource{bib/chap2.bib}
 
 \input{tex/id}  % NOTE: the enclosed commands must be executed in preamble
@@ -66,14 +67,16 @@
 \include{tex/chap1intro}
 \include{tex/chap2nec}
 \include{tex/faq}
+\addtocontents{toc}{\protect\setcounter{tocdepth}{0}} %此行要放在最后一章前面，为了把附录的section省略！
 \include{tex/summary}
 
 \appendix % 使用英文字母对附录编号
 
 % 附录内容，本科学位论文可以用翻译的文献替代。
 %\include{tex/app_setup}
+%\include{tex/app_archive}
+\include{tex/app_review}
 \include{tex/app_archive}
-\include{tex/app_eq}
 \include{tex/app_cjk}
 \include{tex/app_log}
 
