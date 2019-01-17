@@ -973,77 +973,55 @@
       \range{pages}{6}
       \keyw{ouwehand2005prebiotics}
     \endentry
-    \entry{penders2006factors}{article}{}
-      \name{author}{8}{}{%
-        {{hash=e85281b34f67303be2c0d5c91d2a104e}{%
-           family={Penders},
-           familyi={P\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod}}}%
-        {{hash=77691ee68b35e0b82b3eb9de0a742a0f}{%
-           family={Thijs},
+    \entry{demehri2013hirschsprung}{article}{}
+      \name{author}{4}{}{%
+        {{hash=83902c259c577ec59892e00aee629bb8}{%
+           family={Demehri},
+           familyi={D\bibinitperiod},
+           given={Farokh\bibnamedelima R},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=d3b5b0ff27d71a5d8a942983bcc423df}{%
+           family={Halaweish},
+           familyi={H\bibinitperiod},
+           given={Ihab\bibnamedelima F},
+           giveni={I\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=6a2de770519414e4972a57b8c91961dd}{%
+           family={Coran},
+           familyi={C\bibinitperiod},
+           given={Arnold\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=728c94ad2ba41ef1fa12d0caa18c6906}{%
+           family={Teitelbaum},
            familyi={T\bibinitperiod},
-           given={Carel},
-           giveni={C\bibinitperiod}}}%
-        {{hash=ad66cb7faafd05b9b03036c6eecd300b}{%
-           family={Vink},
-           familyi={V\bibinitperiod},
-           given={Cornelis},
-           giveni={C\bibinitperiod}}}%
-        {{hash=08d014f90dfefc622b0f5295c5f8d770}{%
-           family={Stelma},
-           familyi={S\bibinitperiod},
-           given={Foekje\bibnamedelima F},
-           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-        {{hash=89c05775d3fb9c03ebd0f4e0aa180305}{%
-           family={Snijders},
-           familyi={S\bibinitperiod},
-           given={Bianca},
-           giveni={B\bibinitperiod}}}%
-        {{hash=763b4a6d20614d91644ad8a092b63d7b}{%
-           family={Kummeling},
-           familyi={K\bibinitperiod},
-           given={Ischa},
-           giveni={I\bibinitperiod}}}%
-        {{hash=5db33a8c58aaa5934fd5ef8ca1473e8f}{%
-           family={Brandt},
-           familyi={B\bibinitperiod},
-           given={Piet\bibnamedelima A},
-           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
-           prefix={van\bibnamedelima den},
-           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
-        {{hash=029166cfeac6531d007daa7311acbaf8}{%
-           family={Stobberingh},
-           familyi={S\bibinitperiod},
-           given={Ellen\bibnamedelima E},
-           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+           given={Daniel\bibnamedelima H},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Am Acad Pediatrics}%
+        {Springer}%
       }
-      \strng{namehash}{8e8d994d0d0dd30a1a5128f83dce6756}
-      \strng{fullhash}{da7819460a01d65af1cfe1070019382d}
-      \strng{bibnamehash}{8e8d994d0d0dd30a1a5128f83dce6756}
-      \strng{authorbibnamehash}{8e8d994d0d0dd30a1a5128f83dce6756}
-      \strng{authornamehash}{8e8d994d0d0dd30a1a5128f83dce6756}
-      \strng{authorfullhash}{da7819460a01d65af1cfe1070019382d}
+      \strng{namehash}{9518a06fae4dc1182155ac86e2e89b48}
+      \strng{fullhash}{0885cf5a0b633ee3bf37e2b9ee99ff94}
+      \strng{bibnamehash}{9518a06fae4dc1182155ac86e2e89b48}
+      \strng{authorbibnamehash}{9518a06fae4dc1182155ac86e2e89b48}
+      \strng{authornamehash}{9518a06fae4dc1182155ac86e2e89b48}
+      \strng{authorfullhash}{0885cf5a0b633ee3bf37e2b9ee99ff94}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Pediatrics}
-      \field{number}{2}
-      \field{title}{Factors influencing the composition of the intestinal microbiota in early infancy}
+      \field{journaltitle}{Pediatric surgery international}
+      \field{number}{9}
+      \field{title}{Hirschsprung-associated enterocolitis: pathogenesis, treatment and prevention}
       \field{usera}{J}
-      \field{userd}{F}
-      \field{usere}{Penders, John and Thijs, Carel and Vink, Cornelis and Stelma, Foekje F and Snijders, Bianca and Kummeling, Ischa and van den Brandt, Piet A and Stobberingh, Ellen E}
-      \field{userf}{Penders, John and Thijs, Carel and Vink, Cornelis and Stelma, Foekje F and Snijders, Bianca and Kummeling, Ischa and van den Brandt, Piet A and Stobberingh, Ellen E}
-      \field{volume}{118}
-      \field{year}{2006}
+      \field{userd}{H}
+      \field{usere}{Demehri, Farokh R and Halaweish, Ihab F and Coran, Arnold G and Teitelbaum, Daniel H}
+      \field{userf}{Demehri, Farokh R and Halaweish, Ihab F and Coran, Arnold G and Teitelbaum, Daniel H}
+      \field{volume}{29}
+      \field{year}{2013}
       \field{dateera}{ce}
-      \field{pages}{511\bibrangedash 521}
-      \range{pages}{11}
-      \keyw{penders2006factors}
+      \field{pages}{873\bibrangedash 881}
+      \range{pages}{9}
+      \keyw{demehri2013hirschsprung}
     \endentry
     \entry{neu2011necrotizing}{article}{}
       \name{author}{2}{}{%
@@ -2315,6 +2293,51 @@
       \range{pages}{4}
       \keyw{thomas1986enterocolitis}
     \endentry
+    \entry{wilson1990microbiological}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5cdf196c3cd79e26dff210e40f06f5e4}{%
+           family={Wilson-Storey},
+           familyi={W\bibinithyphendelim S\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f1db9384016295276c69990bb1b35d09}{%
+           family={Scobie},
+           familyi={S\bibinitperiod},
+           given={WG},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e66e18f8239cd94434ba90dac4d7acdb}{%
+           family={McGenity},
+           familyi={M\bibinitperiod},
+           given={KG},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BMJ Publishing Group Ltd}%
+      }
+      \strng{namehash}{7ab932f48edf9d7a3d5ccd9dcc0b9536}
+      \strng{fullhash}{7ab932f48edf9d7a3d5ccd9dcc0b9536}
+      \strng{bibnamehash}{7ab932f48edf9d7a3d5ccd9dcc0b9536}
+      \strng{authorbibnamehash}{7ab932f48edf9d7a3d5ccd9dcc0b9536}
+      \strng{authornamehash}{7ab932f48edf9d7a3d5ccd9dcc0b9536}
+      \strng{authorfullhash}{7ab932f48edf9d7a3d5ccd9dcc0b9536}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Archives of disease in childhood}
+      \field{number}{12}
+      \field{title}{Microbiological studies of the enterocolitis of Hirschsprung's disease.}
+      \field{usera}{J}
+      \field{userd}{M}
+      \field{usere}{Wilson-Storey, D and Scobie, WG and McGenity, KG}
+      \field{userf}{Wilson-Storey, D and Scobie, WG and McGenity, KG}
+      \field{volume}{65}
+      \field{year}{1990}
+      \field{dateera}{ce}
+      \field{pages}{1338\bibrangedash 1339}
+      \range{pages}{2}
+      \keyw{wilson1990microbiological}
+    \endentry
     \entry{de2010genomics}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -2449,8 +2472,8 @@
       \strng{authorbibnamehash}{c982d3353fb2a03632c7b2b3d42b41f4}
       \strng{authornamehash}{c982d3353fb2a03632c7b2b3d42b41f4}
       \strng{authorfullhash}{c68b23e24c47a7993f40f81f3f28171a}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Biochemical and biophysical research communications}
@@ -2519,8 +2542,8 @@
       \strng{authorbibnamehash}{60d60f0880763e440d56170c76649e22}
       \strng{authornamehash}{60d60f0880763e440d56170c76649e22}
       \strng{authorfullhash}{60ad3921fbbd85cf6080b262d940d421}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PloS one}
@@ -2625,6 +2648,88 @@
       \field{pages}{455}
       \range{pages}{1}
       \keyw{mosca2016gut}
+    \endentry
+    \entry{negroni2011characterization}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=a52755aba10b05acc059bd79e747ec36}{%
+           family={Negroni},
+           familyi={N\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4b29afdad93709b2bc4b92bcf3faeadb}{%
+           family={Costanzo},
+           familyi={C\bibinitperiod},
+           given={Manuela},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7007b2b88a22a1afc2181ba8d77646fc}{%
+           family={Vitali},
+           familyi={V\bibinitperiod},
+           given={Roberta},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0dc21d50adf49dd23b82dff6ffbd151f}{%
+           family={Superti},
+           familyi={S\bibinitperiod},
+           given={Fabiana},
+           giveni={F\bibinitperiod}}}%
+        {{hash=c8e213058f723177eb00987319f28038}{%
+           family={Bertuccini},
+           familyi={B\bibinitperiod},
+           given={Lucia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=49c24ecaf99adbeddda5c1b65e358996}{%
+           family={Tinari},
+           familyi={T\bibinitperiod},
+           given={Antonella},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c0e5a7f37e0f9951c46aff06f074ecca}{%
+           family={Minelli},
+           familyi={M\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ae4177056052828a6469c07e27c8ff28}{%
+           family={Di\bibnamedelima Nardo},
+           familyi={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1d9a1cc356be25849cba0a2725e06b4b}{%
+           family={Nuti},
+           familyi={N\bibinitperiod},
+           given={Federica},
+           giveni={F\bibinitperiod}}}%
+        {{hash=71b271ae7cc8cd8b05115913650bb4be}{%
+           family={Pierdomenico},
+           familyi={P\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press Oxford, UK}%
+      }
+      \strng{namehash}{054fa726d89a53424c79c2d0fe3709e6}
+      \strng{fullhash}{fcb7c08bf60f5e381e3f94fabb4fa206}
+      \strng{bibnamehash}{054fa726d89a53424c79c2d0fe3709e6}
+      \strng{authorbibnamehash}{054fa726d89a53424c79c2d0fe3709e6}
+      \strng{authornamehash}{054fa726d89a53424c79c2d0fe3709e6}
+      \strng{authorfullhash}{fcb7c08bf60f5e381e3f94fabb4fa206}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Inflammatory bowel diseases}
+      \field{number}{5}
+      \field{title}{Characterization of adherent-invasive Escherichia coli isolated from pediatric patients with inflammatory bowel disease}
+      \field{usera}{J}
+      \field{userd}{C}
+      \field{usere}{Negroni, Anna and Costanzo, Manuela and Vitali, Roberta and Superti, Fabiana and Bertuccini, Lucia and Tinari, Antonella and Minelli, Fabio and Di Nardo, Giovanni and Nuti, Federica and Pierdomenico, Maria and others}
+      \field{userf}{Negroni, Anna and Costanzo, Manuela and Vitali, Roberta and Superti, Fabiana and Bertuccini, Lucia and Tinari, Antonella and Minelli, Fabio and Di Nardo, Giovanni and Nuti, Federica and Pierdomenico, Maria and others}
+      \field{volume}{18}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{913\bibrangedash 924}
+      \range{pages}{12}
+      \keyw{negroni2011characterization}
     \endentry
     \entry{o2017comparative}{article}{}
       \name{author}{8}{}{%
