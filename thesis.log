@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  16 JAN 2019 15:17
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  16 JAN 2019 16:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**thesis.tex
+**thesis
 (./thesis.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
@@ -2969,16 +2969,9 @@ Package: xeCJK-listings 2018/04/07 v3.7.0 xeCJK patch file for listings
  (./tex/abstract.aux) (./tex/symbol0.aux)
 \c@pagesLTS.Roman.1.local.cnt=\count530
  (./tex/chap1intro.aux)
-(./tex/chap2nec.aux
-
-LaTeX Warning: Label `chap:introduction' multiply defined.
-
-
-LaTeX Warning: Label `sec:enterocolitis' multiply defined.
-
-) (./tex/faq.aux) (./tex/summary.aux) (./tex/app_archive.aux) (./tex/app_eq.aux
-) (./tex/app_cjk.aux) (./tex/app_log.aux) (./tex/ack.aux) (./tex/pub.aux)
-(./tex/projects.aux) (./tex/resume.aux)
+(./tex/chap2nec.aux) (./tex/faq.aux) (./tex/summary.aux) (./tex/app_archive.aux
+) (./tex/app_eq.aux) (./tex/app_cjk.aux) (./tex/app_log.aux) (./tex/ack.aux)
+(./tex/pub.aux) (./tex/projects.aux) (./tex/resume.aux)
 \c@pagesLTS.arabic.1.local.cnt=\count531
 )
 \openout1 = `thesis.aux'.
@@ -3103,27 +3096,13 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
 
-(./thesis.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                J Liang
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                h sokol
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+(./thesis.bbl)
 Package biblatex Info: Reference section=0 on input line 26.
 Package biblatex Info: Reference segment=0 on input line 26.
 \c@lstlisting=\count534
 \AtBeginShipoutBox=\box112
- (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
@@ -3392,14 +3371,14 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 ] [4
 
 
-] (./thesis.toc [5
-
-]
+] (./thesis.toc
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <8> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 28.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 8.0pt on input line 28.
-)
+(Font)              scaled to size 8.0pt on input line 22.
+ [5
+
+])
 \tf@toc=\write7
 \openout7 = `thesis.toc'.
 
@@ -3449,38 +3428,50 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 Missing character: There is no ​ in font ntx-Regular-tlf-t1!
 Missing character: There is no ​ in font ntx-Regular-tlf-t1!
 
+LaTeX Warning: Citation 'demehri2013hirschsprung' on page 1 undefined on input 
+line 15.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1
 
 
 ]
-[2] [3]
+[2]
 
-LaTeX Warning: Citation 'J Liang ' on page 4 undefined on input line 34.
+LaTeX Warning: Citation 'wilson1990microbiological' on page 3 undefined on inpu
+t line 32.
 
-Missing character: There is no α in font ntx-Regular-tlf-t1!
+[3]
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--37
+LaTeX Warning: Citation 'negroni2011characterization' on page 4 undefined on in
+put line 36.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--38
 
  []
 
-[4]) [5] [6]
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4])
+[5]
 \openout2 = `tex/chap2nec.aux'.
 
  (./tex/chap2nec.tex
 第二章
-Missing character: There is no ​ in font ntx-Regular-tlf-t1!
-Missing character: There is no ​ in font ntx-Regular-tlf-t1!
-
-Underfull \vbox (badness 4132) has occurred while \output is active []
-
- [7
+) [6
 
 
 
 ]
-[8]) [9]
 \openout2 = `tex/faq.aux'.
 
  (./tex/faq.tex
@@ -3526,17 +3517,17 @@ Overfull \hbox (104.78125pt too wide) in paragraph at lines 26--27
 ographyStrings{english}{in={}}
  []
 
-[10
+[7
 
 
 
 ]
 LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
 (Font)              scaled to size 10.53937pt on input line 68.
-) [11]
+) [8]
 \openout2 = `tex/summary.aux'.
 
- (./tex/summary.tex) [12
+ (./tex/summary.tex) [9
 
 
 
@@ -3561,7 +3552,7 @@ LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 (Font)              scaled to size 5.0pt on input line 21.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 6.0pt on input line 21.
-) [13
+) [10
 
 
 
@@ -3576,7 +3567,7 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 8.0pt on input line 18.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 6.0pt on input line 18.
-) [14
+) [11
 
 
 
@@ -3610,7 +3601,7 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.53937pt on input line 5.
 
-LaTeX Warning: Reference `sec:process' on page 15 undefined on input line 33.
+LaTeX Warning: Reference `sec:process' on page 12 undefined on input line 33.
 
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
@@ -3625,7 +3616,7 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 5.0pt on input line 77.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 7.0pt on input line 77.
- [15
+ [12
 
 
 
@@ -3634,39 +3625,39 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 
  (./tex/app_log.tex
 附录 D
-[16
+[13
 
 
 
-]) [17] [18
+]) [14] [15
 
 
 
-] [19] [20]
+] [16] [17] [18] [19]
 \openout2 = `tex/ack.aux'.
 
- (./tex/ack.tex) [21
+ (./tex/ack.tex) [20
 
 
 ]
 \openout2 = `tex/pub.aux'.
 
- (./tex/pub.tex) [22
+ (./tex/pub.tex)
+[21
 
 
 
 ]
 \openout2 = `tex/projects.aux'.
 
-
-(./tex/projects.tex) [23
+ (./tex/projects.tex) [22
 
 
 
 ]
 \openout2 = `tex/resume.aux'.
 
- (./tex/resume.tex) [24
+ (./tex/resume.tex) [23
 
 
 
@@ -3682,7 +3673,7 @@ AED: pageslts setting VeryLastPage via AfterLastShipout
 AED: pageslts setting LastPages via AfterLastShipout 
 
 
-Package pageslts Info: Total number of pages is even.
+Package pageslts Info: Total number of pages is odd.
 
 
 (./thesis.aux (./tex/abstract.aux) (./tex/symbol0.aux) (./tex/chap1intro.aux)
@@ -3692,16 +3683,13 @@ Package pageslts Info: Total number of pages is even.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 115.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 9A638D38A0D55E9DCE7CD60E386796F9.
+(rerunfilecheck)             Checksum: 548A0B84E1ED6591F2444EE9765C7B78.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -3713,12 +3701,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52272 strings out of 492970
- 1069107 string characters out of 6133937
- 1545880 words of memory out of 5000000
- 55312 multiletter control sequences out of 15000+600000
+ 52321 strings out of 492970
+ 1070995 string characters out of 6133937
+ 1547172 words of memory out of 5000000
+ 55361 multiletter control sequences out of 15000+600000
  672768 words of font info for 237 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 62i,14n,94p,10413b,5210s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,14n,94p,10409b,5210s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.xdv (44 pages, 301424 bytes).
+Output written on thesis.pdf (43 pages).
