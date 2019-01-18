@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  18 JAN 2019 09:39
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  18 JAN 2019 09:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3485,19 +3485,7 @@ Missing character: There is no ™ in font ntx-Regular-tlf-t1!
 Underfull \vbox (badness 5893) has occurred while \output is active []
 
  [11]
-[12]
-Overfull \hbox (182.89224pt too wide) in paragraph at lines 156--157
-[]\T1/ntxtlf/m/n/12.045 ATNATGACTCAAGCGCTTCCTCAGTTTAATGAAGCTAACTTCAATGCTGAGATCG
-TTGACGACATCGAATGGG 
- []
-
-
-Overfull \hbox (188.03592pt too wide) in paragraph at lines 164--165
-[]\T1/ntxtlf/m/n/12.045 ?A#AFFDFFHGFFHJJGIJJJIICHIIIIJJGGHIIJJIIJIIJIHGI@FEHIIJ
-BFFHGJJIIHHHDFFFFDCCCCEDDCDDCDEACC 
- []
-
-[13] [14]
+[12] [13] [14]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 9.03374pt on input line 197.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
@@ -3819,15 +3807,9 @@ Package pageslts Info: Total number of pages is odd.
 (./tex/projects.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 118.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 118.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 1A8D3E0A48DB2C9BE92397CD7FB07372.
 
-
-Package rerunfilecheck Warning: File `thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: 86BF0AB54B1B1803B833FC321D4CB5D8
-(rerunfilecheck)             After:  63131F984460C014D5BA4C81B15994ED.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -3838,7 +3820,7 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Here is how much of TeX's memory you used:
  52620 strings out of 492970
  1087009 string characters out of 6133937
- 1614334 words of memory out of 5000000
+ 1615104 words of memory out of 5000000
  55666 multiletter control sequences out of 15000+600000
  649751 words of font info for 194 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

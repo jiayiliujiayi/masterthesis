@@ -153,7 +153,7 @@
     （第一行）
 
 
-    ATNATGACTCAAGCGCTTCCTCAGTTTAATGAAGCTAACTTCAATGCTGAGATCGTTGACGACATCGAATGGG
+    ATNATGACTCAAGCGCTTCCTCAGTTTAATGAAGCTAACTTCAATGCTGA\\ \qquad GATCGTTGACGACATCGAATGGG
 
     （第二行）
 
@@ -161,7 +161,7 @@
 
     （第三行）
 
-    ?A\#AFFDFFHGFFHJJGIJJJIICHIIIIJJGGHIIJJIIJIIJIHGI@FEHIIJBFFHGJJIIHHHDFFFFDCCCCEDDCDDCDEACC
+    ?A\#AFFDFFHGFFHJJGIJJJIICHIIIIJJGGHIIJJIIJIIJIHGI@FEHIIJBFFHGJJIIH\\ \qquad HHDFFFFDCCCCEDDCDDCDEACC
 
     （第四行）
     \subsubsection{接质控与优化数据}
@@ -179,9 +179,9 @@
 
     基于OTU可以进行多种多样性指数分析，基于OTU聚类分析结果，可以对样品生物群落进行多样性分析，并检测测序深度；基于分类学信息，则可以在各个分类水平上，对样本所在的生物环境进行群落的组成、结构、相对丰度等分析。在上述分析的基础上，可以对多样本的群落组成和系统发育信息进行多元分析和差异显著性检验等一系列深入的统计学和可视化分析。
 
-    使用的UPARSE软件（version 7.1 http://drive5.com/uparse/) ，根据97\%的相似度对序列进行OTU聚类，并在聚类的过程中去除单序列和嵌合体。
+    使用的UPARSE软件（version 7.1) ，根据97\%的相似度对序列进行OTU聚类，并在聚类的过程中去除单序列和嵌合体。
     \subsubsection{分类学分析}
-    为了得到每个OUT所对应的物种分类学信息，采用\href{RDP classifier}{http://rdp.cme.msu.edu/}贝叶斯算法对97\%相似水平的OUT代表序列进行分类学分析，并分别在各个分类学水平：
+    为了得到每个OUT所对应的物种分类学信息，采用\href{RDP classifier}{http://rdp.cme.msu.edu/}贝叶斯算法对97\%相似水平的OTU代表序列进行分类学分析，并分别在各个分类学水平：
 
     domain（域），kingdom（界），phylum（门），class（纲），order（目），family（科），genus（属）比对\href{Silva数据库}{http://www.arb-silva.de}，统计各样本的群落组成，默认置信度阈值为70\%。
     \subsubsection{多样性分析}
@@ -260,10 +260,17 @@
   入选NEC患儿4例，LOS患儿3例， 对照组患儿17例。采集其纵向粪便标本，共192个，其中NEC标本47个，LOS标本44个，对照组标本101个。其他临床资料见表表\ref{tab:necdemographic}。
 
   使用Illumina MiSeq高通量测序平台共测得 条16s rRNA基因序列，优化序列数目为7,472,400，优化碱基数目为3348,030,799，优化平均序列长度为448bp。
+  \subsection{分类学分析}
+  对于测序数据进行OTU聚类，采用RDP classifier贝叶斯算法对97\%相似水平的OTU代表序列进行分类学分析，并分别在各个分类水平（从域（domain）到属（genus））统计各样本的群落组成，比对silva数据库。
+    \subsubsection{门（phylum）水平}
+    \subsubsection{纲（class）水平}
+    \subsubsection{目（order）水平}
+    \subsubsection{科（family）水平}
+    \subsubsection{属（genus）水平}
 
-  \subsection{多样性分析}
-    \subsubsection{$\alpha$多样性分析}
-      \paragraph{NEC,LOS和对照组患儿件肠道菌群$\alpha$多样性分析}
+  \subsection{基于多样性指数分析三组患儿菌群纵向定植模式}
+    \subsubsection{NEC,LOS和对照组患儿件肠道菌群$\alpha$多样性分析}
+%      \paragraph{NEC,LOS和对照组患儿件肠道菌群$\alpha$多样性分析}
       基于OTU进行计算，NEC,LOS和对照组Shannon-Wienner指数分别为：1.32，1.16和1.66；三组两两比较，可知LOS组和NEC组、NEC组和对照组shannon指数无统计学差异（分别p = 0.47，p = 0.06），LOS组和对照组之间存在统计学差异（p = 0.01）\ref{fig:2alphadiversity:shannon}。NEC,LOS和对照组Simpson指数分别为：1.32，1.16和1.66；三组两两比较，可知LOS组和NEC组Simpson指数无统计学差异（p = 0.77）、NEC组和对照组存在统计学差异（p = 0.03），LOS组和对照组之间存在统计学差异（p = 0.02）\ref{fig:2alphadiversity:simpson}。
 
       \begin{figure}[!htp]
@@ -280,6 +287,8 @@
         \end{minipage}
       \end{figure}
       \subsection{$\beta$多样性分析}
+    \subsubsection{基于$\beta$多样性，分析菌群纵向定植模式}
+    
 
 
 
