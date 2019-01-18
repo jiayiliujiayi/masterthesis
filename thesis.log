@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  17 JAN 2019 18:00
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  18 JAN 2019 09:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3306,22 +3306,14 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 \openout2 = `tex/abstract.aux'.
 
  (./tex/abstract.tex
-Underfull \hbox (badness 10000) in paragraph at lines 10--12
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--20
-
- []
-
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <14.05249> not availabl
 e
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 26.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 11.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.05249pt on input line 26.
+(Font)              scaled to size 14.05249pt on input line 11.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.53937pt on input line 28.
+
 *************************************************
 * fontspec warning: "script-not-exist"
 * 
@@ -3373,36 +3365,35 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 
 ] (./thesis.toc [5
 
-])
+] [6])
 \tf@toc=\write7
 \openout7 = `thesis.toc'.
 
- [6] (./thesis.lof)
+ [7] (./thesis.lof)
 \tf@lof=\write8
 \openout8 = `thesis.lof'.
 
- [7
+ [8
 
 ] (./thesis.lot)
 \tf@lot=\write9
 \openout9 = `thesis.lot'.
 
 
-[8
+[9
 
 ] (./thesis.loa)
 \tf@loa=\write10
 \openout10 = `thesis.loa'.
 
- [9
+ [10
 
 ]
 \openout2 = `tex/symbol0.aux'.
 
- (./tex/symbol0.tex [10
+ (./tex/symbol0.tex) [11
 
 
-]) [11
 
 ] [12
 
@@ -3658,19 +3649,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 246--246
 \T1/ntxtlf/m/n/12.045 Wallis
  []
 
-[17]) [18] [19]
+[17]
+File: figure/2shannon.png Graphic file (type bmp)
+<figure/2shannon.png>
+File: figure/2simpson.png Graphic file (type bmp)
+<figure/2simpson.png>
+) [18] [19] [20]
 \openout2 = `tex/chap3compare.aux'.
 
  (./tex/chap3compare.tex
 第三章
-) [20
+) [21
 
 
 
-] [21]
+] [22]
 \openout2 = `tex/summary.aux'.
 
- (./tex/summary.tex) [22
+ (./tex/summary.tex) [23
 
 
 
@@ -3684,7 +3680,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 12.045pt
 (hyperref)                replaced by space on input line 5.
 
-[23
+[24
 
 
 
@@ -3692,41 +3688,49 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no μ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
- [24]
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ™ in font ntx-Regular-tlf-t1!
-Missing character: There is no ™ in font ntx-Regular-tlf-t1!
  [25]
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ™ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ™ in font ntx-Regular-tlf-t1!
  [26]
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ™ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+ [27]
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ∙ in font ntx-Regular-tlf-t1!
-) [27]
+) [28]
 \openout2 = `tex/app_archive.aux'.
 
  (./tex/app_archive.tex
 附录 B
-) [28
+
+Overfull \hbox (32.83365pt too wide) in paragraph at lines 10--11
+[]\TU/STSong(0)/m/n/12.045 为 每 个 样 本 生 成 单 独 的 \T1/ntxtlf/m/n/12.045 FASTQ \TU/
+STSong(0)/m/n/12.045 文 件，|  存 档 至 \T1/ntxtlf/m/n/12.045 Bio-Pro-ject \TU/STSong
+(0)/m/n/12.045 登 记 号 为[][]\T1/ntxtlf/m/n/12.045 No.PRJNA470548[][]\TU/STSong(0)
+/m/n/12.045 的
+ []
+
+) [29
 
 
 
-] [29
+] [30
 
 
 
-] [30] [31]
+] [31] [32]
 *************************************************
 * fontspec warning: "script-not-exist"
 * 
@@ -3761,20 +3765,20 @@ LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
 . - 'normal' (m/n) with NFSS spec.: <->"STFangsong/OT"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-[32] [33] [34] [35]
+[33] [34] [35] [36]
 Overfull \hbox (4.67097pt too wide) in paragraph at lines 86--86
 \T1/ntxtlf/m/n/12.045 biop-sies[J\TU/SourceCodePro(0)/m/n/12.045 /\T1/ntxtlf/m/
 n/12.045 OL]. Mi-cro-biome, 2016, 4(1): 61. [][]$[][][][] [] [] [] [][][][][][]
 [][][][][][][][][][][] []
  []
 
-[36] [37] [38]
+[37] [38] [39]
 \openout2 = `tex/ack.aux'.
 
- (./tex/ack.tex) [39
+ (./tex/ack.tex) [40
 
 
-] [40]
+] [41]
 \openout2 = `tex/pub.aux'.
 
  (./tex/pub.tex
@@ -3784,14 +3788,14 @@ LaTeX Font Warning: Font shape `TU/STSong(0)/m/sc' undefined
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
 (Font)              scaled to size 8.0pt on input line 11.
-) [41
+) [42
 
 
 
 ]
 \openout2 = `tex/projects.aux'.
 
- (./tex/projects.tex) [42
+ (./tex/projects.tex) [43
 
 
 
@@ -3806,7 +3810,7 @@ AED: pageslts setting VeryLastPage via AfterLastShipout
 AED: pageslts setting LastPages via AfterLastShipout 
 
 
-Package pageslts Info: Total number of pages is even.
+Package pageslts Info: Total number of pages is odd.
 
 
 (./thesis.aux (./tex/abstract.aux) (./tex/symbol0.aux) (./tex/chap1intro.aux)
@@ -3822,25 +3826,22 @@ Package rerunfilecheck Warning: File `thesis.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: 77917BF2A6F02F69D431A2547B185195
-(rerunfilecheck)             After:  B93DD1AFFBF02F13DACB2F2360CBBBD5.
+(rerunfilecheck)             Before: 86BF0AB54B1B1803B833FC321D4CB5D8
+(rerunfilecheck)             After:  63131F984460C014D5BA4C81B15994ED.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52602 strings out of 492970
- 1086605 string characters out of 6133937
- 1614350 words of memory out of 5000000
- 55660 multiletter control sequences out of 15000+600000
+ 52620 strings out of 492970
+ 1087009 string characters out of 6133937
+ 1614334 words of memory out of 5000000
+ 55666 multiletter control sequences out of 15000+600000
  649751 words of font info for 194 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  62i,12n,94p,10409b,5221s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (62 pages).
+Output written on thesis.pdf (63 pages).
