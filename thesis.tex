@@ -19,8 +19,8 @@
 
 % 逐个导入参考文献数据库
 \addbibresource{bib/chap1.bib}
+\addbibresource{bib/chap2.bib}
 \addbibresource{bib/review.bib}
-% \addbibresource{bib/chap2.bib}
 
 \input{tex/id}  % NOTE: the enclosed commands must be executed in preamble
 
@@ -66,7 +66,7 @@
 % 正文内容
 \include{tex/chap1intro}
 \include{tex/chap2nec}
-\include{tex/faq}
+\include{tex/chap3compare}
 \addtocontents{toc}{\protect\setcounter{tocdepth}{0}} %此行要放在最后一章前面，为了把附录的section省略！
 \include{tex/summary}
 
@@ -77,8 +77,8 @@
 %\include{tex/app_archive}
 \include{tex/app_review}
 \include{tex/app_archive}
-\include{tex/app_cjk}
-\include{tex/app_log}
+%\include{tex/app_table}
+
 
 \backmatter % 文后无编号部分
 
@@ -109,7 +109,7 @@
     \include{tex/pub}       % 发表论文
     \include{tex/projects}  % 参与的项目
     % \include{tex/patents}   % 申请专利
-    \include{tex/resume}    % 个人简历
+    %\include{tex/resume}    % 个人简历
   \fi
 \fi
 

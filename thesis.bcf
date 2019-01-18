@@ -2116,6 +2116,7 @@
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
     <bcf:datasource type="file" datatype="bibtex">bib/chap1.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">bib/chap2.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex">bib/review.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
@@ -2176,7 +2177,52 @@
     <bcf:citekey order="46">sokol2017fungal</bcf:citekey>
     <bcf:citekey order="47">belizario2015human</bcf:citekey>
     <bcf:citekey order="48">kinumaki2015characterization</bcf:citekey>
-    <bcf:citekey order="49">collier2005innate</bcf:citekey>
+    <bcf:citekey order="49">neu2011necrotizing</bcf:citekey>
+    <bcf:citekey order="50">rees2010national</bcf:citekey>
+    <bcf:citekey order="51">stoll2002late</bcf:citekey>
+    <bcf:citekey order="52">mai2013distortions</bcf:citekey>
+    <bcf:citekey order="53">stewart2017longitudinal</bcf:citekey>
+    <bcf:citekey order="54">Saxena2016</bcf:citekey>
+    <bcf:citekey order="55">Willey2013</bcf:citekey>
+    <bcf:citekey order="56">Li2016c</bcf:citekey>
+    <bcf:citekey order="56">lozupone2012diversity</bcf:citekey>
+    <bcf:citekey order="57">Saxena2016</bcf:citekey>
+    <bcf:citekey order="57">Raoult2014</bcf:citekey>
+    <bcf:citekey order="57">Gill2006</bcf:citekey>
+    <bcf:citekey order="58">Goodwin2016</bcf:citekey>
+    <bcf:citekey order="58">Fraher2012a</bcf:citekey>
+    <bcf:citekey order="59">Fraser2011</bcf:citekey>
+    <bcf:citekey order="60">li2016characterization</bcf:citekey>
+    <bcf:citekey order="60">Mai2011a</bcf:citekey>
+    <bcf:citekey order="60">Chu2017</bcf:citekey>
+    <bcf:citekey order="60">Schmidt2017</bcf:citekey>
+    <bcf:citekey order="61">wu2018optimization</bcf:citekey>
+    <bcf:citekey order="62">wu2018optimization</bcf:citekey>
+    <bcf:citekey order="63">santiago2014processing</bcf:citekey>
+    <bcf:citekey order="64">santiago2014processing</bcf:citekey>
+    <bcf:citekey order="65">shaw2016latitude</bcf:citekey>
+    <bcf:citekey order="66">guo2016effect</bcf:citekey>
+    <bcf:citekey order="67">Watt2016</bcf:citekey>
+    <bcf:citekey order="68">kumar2014getting</bcf:citekey>
+    <bcf:citekey order="69">nechvatal2008fecal</bcf:citekey>
+    <bcf:citekey order="70">gorzelak2015methods</bcf:citekey>
+    <bcf:citekey order="71">iancu2006comparison</bcf:citekey>
+    <bcf:citekey order="72">nechvatal2008fecal</bcf:citekey>
+    <bcf:citekey order="72">iancu2006comparison</bcf:citekey>
+    <bcf:citekey order="73">wu2010sampling</bcf:citekey>
+    <bcf:citekey order="74">tedjo2015effect</bcf:citekey>
+    <bcf:citekey order="75">gorzelak2015methods</bcf:citekey>
+    <bcf:citekey order="76">vogtmann2017comparison</bcf:citekey>
+    <bcf:citekey order="77">vogtmann2017comparison</bcf:citekey>
+    <bcf:citekey order="77">dominianni2014comparison</bcf:citekey>
+    <bcf:citekey order="78">shaw2016latitude</bcf:citekey>
+    <bcf:citekey order="79">choo2015sample</bcf:citekey>
+    <bcf:citekey order="80">bahl2012freezing</bcf:citekey>
+    <bcf:citekey order="81">guo2016effect</bcf:citekey>
+    <bcf:citekey order="81">nishimoto2016high</bcf:citekey>
+    <bcf:citekey order="81">carroll2012characterization</bcf:citekey>
+    <bcf:citekey order="82">nishimoto2016high</bcf:citekey>
+    <bcf:citekey order="0">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
