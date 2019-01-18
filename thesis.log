@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  18 JAN 2019 09:50
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  18 JAN 2019 10:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3637,12 +3637,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 246--246
 \T1/ntxtlf/m/n/12.045 Wallis
  []
 
-[17]
+[17] [18]
 File: figure/2shannon.png Graphic file (type bmp)
 <figure/2shannon.png>
 File: figure/2simpson.png Graphic file (type bmp)
 <figure/2simpson.png>
-) [18] [19] [20]
+) [19] [20]
 \openout2 = `tex/chap3compare.aux'.
 
  (./tex/chap3compare.tex
@@ -3813,6 +3813,9 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
@@ -3820,7 +3823,7 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Here is how much of TeX's memory you used:
  52620 strings out of 492970
  1087009 string characters out of 6133937
- 1615104 words of memory out of 5000000
+ 1615038 words of memory out of 5000000
  55666 multiletter control sequences out of 15000+600000
  649751 words of font info for 194 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

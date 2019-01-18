@@ -44,12 +44,18 @@
 \contentsline {section}{\numberline {2.3}结果}{16}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}患者基本情况}{16}{subsection.2.3.1}
 \contentsline {subsection}{\numberline {2.3.2}样本及测序信息}{18}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}多样性分析}{18}{subsection.2.3.3}
-\contentsline {subsubsection}{\numberline {2.3.3.1}$\alpha $多样性分析}{18}{subsubsection.2.3.3.1}
-\contentsline {paragraph}{\numberline {2.3.3.1.1}NEC,LOS和对照组患儿件肠道菌群$\alpha $多样性分析}{18}{paragraph.2.3.3.1.1}
-\contentsline {subsection}{\numberline {2.3.4}$\beta $多样性分析}{20}{subsection.2.3.4}
-\contentsline {section}{\numberline {2.4}讨论}{20}{section.2.4}
-\contentsline {section}{\numberline {2.5}结论}{20}{section.2.5}
+\contentsline {subsection}{\numberline {2.3.3}分类学分析}{18}{subsection.2.3.3}
+\contentsline {subsubsection}{\numberline {2.3.3.1}门（phylum）水平}{19}{subsubsection.2.3.3.1}
+\contentsline {subsubsection}{\numberline {2.3.3.2}纲（class）水平}{19}{subsubsection.2.3.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3.3}目（order）水平}{19}{subsubsection.2.3.3.3}
+\contentsline {subsubsection}{\numberline {2.3.3.4}科（family）水平}{19}{subsubsection.2.3.3.4}
+\contentsline {subsubsection}{\numberline {2.3.3.5}属（genus）水平}{19}{subsubsection.2.3.3.5}
+\contentsline {subsection}{\numberline {2.3.4}基于多样性指数分析三组患儿菌群纵向定植模式}{19}{subsection.2.3.4}
+\contentsline {subsubsection}{\numberline {2.3.4.1}NEC,LOS和对照组患儿件肠道菌群$\alpha $多样性分析}{19}{subsubsection.2.3.4.1}
+\contentsline {subsection}{\numberline {2.3.5}$\beta $多样性分析}{19}{subsection.2.3.5}
+\contentsline {subsubsection}{\numberline {2.3.5.1}基于$\beta $多样性，分析菌群纵向定植模式}{19}{subsubsection.2.3.5.1}
+\contentsline {section}{\numberline {2.4}讨论}{19}{section.2.4}
+\contentsline {section}{\numberline {2.5}结论}{19}{section.2.5}
 \contentsline {chapter}{\numberline {第三章\hspace {.3em}}儿科肠道炎症性疾病与肠道菌群研究}{21}{chapter.3}
 \contentsline {section}{\numberline {3.1}引言}{21}{section.3.1}
 \contentsline {section}{\numberline {3.2}材料与方法}{21}{section.3.2}
