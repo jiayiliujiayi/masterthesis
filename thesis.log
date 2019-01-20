@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  20 JAN 2019 14:05
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  20 JAN 2019 15:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3758,20 +3758,27 @@ Overfull \hbox (31.29819pt too wide) in paragraph at lines 391--394
  [][] 
  []
 
-) [26] [27] [28] [29] [30]
+[26] [27] [28]
+Missing character: There is no ​ in font ntx-Regular-tlf-t1!
+Missing character: There is no ​ in font ntx-Regular-tlf-t1!
+
+Underfull \vbox (badness 1852) has occurred while \output is active []
+
+ [29]
+[30]) [31]
 \openout2 = `tex/chap3compare.aux'.
 
  (./tex/chap3compare.tex
 第三章
 Missing character: There is no μ in font ntx-Regular-tlf-t1!
-[31
+[32
 
 
 
-]) [32]
+]) [33]
 \openout2 = `tex/summary.aux'.
 
- (./tex/summary.tex) [33
+ (./tex/summary.tex) [34
 
 
 
@@ -3785,7 +3792,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 12.045pt
 (hyperref)                replaced by space on input line 5.
 
-[34
+[35
 
 
 
@@ -3793,28 +3800,28 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no μ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
- [35]
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ™ in font ntx-Regular-tlf-t1!
-Missing character: There is no ™ in font ntx-Regular-tlf-t1!
  [36]
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ™ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ™ in font ntx-Regular-tlf-t1!
  [37]
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ™ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+ [38]
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ∙ in font ntx-Regular-tlf-t1!
-) [38]
+) [39]
 \openout2 = `tex/app_archive.aux'.
 
  (./tex/app_archive.tex
@@ -3827,15 +3834,15 @@ STSong(0)/m/n/12.045 文 件，|  存 档 至 \T1/ntxtlf/m/n/12.045 Bio-Pro-ject
 /m/n/12.045 的
  []
 
-) [39
+) [40
 
 
 
-] [40
+] [41
 
 
 
-] [41] [42]
+] [42] [43]
 *************************************************
 * fontspec warning: "script-not-exist"
 * 
@@ -3870,20 +3877,19 @@ LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
 . - 'normal' (m/n) with NFSS spec.: <->"STFangsong/OT"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-[43] [44] [45] [46]
-Overfull \hbox (4.67097pt too wide) in paragraph at lines 84--84
-\T1/ntxtlf/m/n/12.045 biop-sies[J\TU/SourceCodePro(0)/m/n/12.045 /\T1/ntxtlf/m/
-n/12.045 OL]. Mi-cro-biome, 2016, 4(1): 61. [][]$[][][][] [] [] [] [][][][][][]
-[][][][][][][][][][][] []
+[44] [45]
+Overfull \hbox (15.37761pt too wide) in paragraph at lines 84--84
+\T1/ntxtlf/m/n/12.045 472(7341): 57^^U63. [][]$[][][][] [] [] [] [][][] [] [][]
+[][][][] [] [][][] [] [][][][][][][][] [] [][][][][][][][][][][] []
  []
 
-[47] [48]
+[46] [47] [48] [49] [50] [51] [52]
 \openout2 = `tex/ack.aux'.
 
- (./tex/ack.tex) [49
+ (./tex/ack.tex) [53
 
 
-] [50]
+] [54]
 \openout2 = `tex/pub.aux'.
 
  (./tex/pub.tex
@@ -3893,14 +3899,14 @@ LaTeX Font Warning: Font shape `TU/STSong(0)/m/sc' undefined
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
 (Font)              scaled to size 8.0pt on input line 11.
-) [51
+) [55
 
 
 
 ]
 \openout2 = `tex/projects.aux'.
 
- (./tex/projects.tex) [52
+ (./tex/projects.tex) [56
 
 
 
@@ -3940,12 +3946,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 ### simple group (level 1) entered at line 269 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 52657 strings out of 492970
- 1088358 string characters out of 6133937
- 1605365 words of memory out of 5000000
- 55693 multiletter control sequences out of 15000+600000
+ 52743 strings out of 492970
+ 1091582 string characters out of 6133937
+ 1659806 words of memory out of 5000000
+ 55779 multiletter control sequences out of 15000+600000
  649751 words of font info for 194 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 62i,12n,94p,10409b,5321s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,12n,94p,10409b,5317s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (72 pages).
+Output written on thesis.pdf (76 pages).
