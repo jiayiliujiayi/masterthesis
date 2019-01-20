@@ -203,9 +203,9 @@
           \end{equation}
       \end{enumerate}
 
-    $/beta$多样性指数该指数用来表示生物种类对于群落异质性的反映：不仅描述群落内不生物种类的数量，也考虑它们的相似性及其彼此之间的位置。通常$/beta$多样性表示为群落相似性指数或是同一分组内不同样本中生物物种的周转率。不同分组间生物种类的相似性越差，$/beta$生物多样性越高。
+    $\beta$多样性指数该指数用来表示生物种类对于群落异质性的反映：不仅描述群落内不生物种类的数量，也考虑它们的相似性及其彼此之间的位置。通常$\beta$多样性表示为群落相似性指数或是同一分组内不同样本中生物物种的周转率。不同分组间生物种类的相似性越差，$\beta$生物多样性越高。
 
-    本课题计算unweighed UniFrac distance, weighed UniFrac distance和Bray-Curtis dissimilarity来进行$/beta$多样性分析，其中weighed UniFrac distance将各物种丰度纳入考虑，而unweighed未对物种丰都进行加权处理。基于$/beta$多样性进行PCoA作图使用上述距离文件进行PCoA和PCA作图，每个代表一个样品菌群整体（即群落），而点与和之间的距离代表两个菌群整体（群落）间的序列相似度。
+    本课题计算unweighed UniFrac distance, weighed UniFrac distance和Bray-Curtis dissimilarity来进行$\beta$多样性分析，其中weighed UniFrac distance将各物种丰度纳入考虑，而unweighed未对物种丰都进行加权处理。基于$\beta$多样性进行PCoA作图使用上述距离文件进行PCoA和PCA作图，每个代表一个样品菌群整体（即群落），而点与和之间的距离代表两个菌群整体（群落）间的序列相似度。
 
     PCA（Principal Components Analysis）即主成分分析，也称主分量分析或主成分回归分析法，首先利用线性变换，将数据变换到一个新的坐标系统中；然后再利用降维的思想，使任何数据投影的最大方差在第一个坐标（称为第一主成分）上，第二大方差在第二个坐标（第二主成分）上。这种降维的思想首先减少数据集的维数，同时还保持数据集的对方差贡献最大的特征，最终使数据直观呈现在二维坐标系。
 
@@ -244,7 +244,7 @@
       \toprule
          & \textbf{NEC(n=3)} & \textbf{LOS(N=4)} & \textbf{Control(n-17)} & \textbf{Statistical Test} & \textit{p value} \\ \midrule
         \textbf{胎龄(周)} & 29(29-30) & 30(29-31) & 31(28-33) & Kruskal-Wallis test & 0.074 \\
-        \textbf{出生体重(g)} & 1416.3 (773.4-2149.1) & 1141.7 (633.4-1649.9) & 1527.4 (1391.6-1663.1) & Kruskal-Wallis test & 0.111 \\
+        \textbf{出生体重(克)} & 1416.3 (773.4-2149.1) & 1141.7 (633.4-1649.9) & 1527.4 (1391.6-1663.1) & Kruskal-Wallis test & 0.111 \\
         \textbf{性别} &  &  &  & Fisher's test & 0.82 \\
         \multicolumn{1}{r}{女} & 3(75\%) & 2(\%67) & 9(\%53) &  & \\
         \multicolumn{1}{r}{男} & 1(25\%) & 1(\%33) & 8(\%47) &  & \\
@@ -261,33 +261,32 @@
 
   使用Illumina MiSeq高通量测序平台共测得 条16s rRNA基因序列，优化序列数目为7,472,400，优化碱基数目为3348,030,799，优化平均序列长度为448bp。
   \subsection{分类学分析}
-  对于测序数据进行OTU聚类，采用RDP classifier贝叶斯算法对97\%相似水平的OTU代表序列进行分类学分析，并分别在各个分类水平（从域（domain）到属（genus））统计各样本的群落组成，比对silva数据库。
+  对于测序数据进行OTU聚类，采用RDP classifier贝叶斯算法对97\%相似水平的OTU代表序列进行分类学分析，并分别在各个分类水平（从域（domain）到属（genus））统计各样本的群落组成，比对silva数据库得出各群落数量。
     \subsubsection{门（phylum）水平}
+
     \subsubsection{纲（class）水平}
     \subsubsection{目（order）水平}
     \subsubsection{科（family）水平}
     \subsubsection{属（genus）水平}
 
+  %多样性
   \subsection{基于多样性指数分析三组患儿菌群纵向定植模式}
     \subsubsection{NEC,LOS和对照组患儿件肠道菌群$\alpha$多样性分析}
 %      \paragraph{NEC,LOS和对照组患儿件肠道菌群$\alpha$多样性分析}
-      基于OTU进行计算，NEC,LOS和对照组Shannon-Wienner指数分别为：1.32，1.16和1.66；三组两两比较，可知LOS组和NEC组、NEC组和对照组shannon指数无统计学差异（分别p = 0.47，p = 0.06），LOS组和对照组之间存在统计学差异（p = 0.01）\ref{fig:2alphadiversity:shannon}。NEC,LOS和对照组Simpson指数分别为：1.32，1.16和1.66；三组两两比较，可知LOS组和NEC组Simpson指数无统计学差异（p = 0.77）、NEC组和对照组存在统计学差异（p = 0.03），LOS组和对照组之间存在统计学差异（p = 0.02）\ref{fig:2alphadiversity:simpson}。
+      基于OTU进行计算，NEC,LOS和对照组Shannon-Wienner指数分别为：1.32，1.16和1.66；三组两两比较，可知LOS组和NEC组、NEC组和对照组shannon指数无统计学差异（分别p = 0.47，p = 0.06），LOS组和对照组之间存在统计学差异（图\ref{fig:2alphadiversity:shannon}，p = 0.01）。NEC,LOS和对照组Simpson指数分别为：1.32，1.16和1.66；三组两两比较，可知LOS组和NEC组Simpson指数无统计学差异（p = 0.77）、NEC组和对照组存在统计学差异（p = 0.03），LOS组和对照组之间存在统计学差异（图\ref{fig:2alphadiversity:simpson}，p = 0.02）。
       %alpha多样性图
       \begin{figure}[!htp]
         \centering
-        \begin{minipage}[b]{0.6\textwidth} %标题宽度
-          \centering
           \subcaptionbox{Shannon指数\label{fig:2alphadiversity:shannon}}
-            {\includegraphics[height=5.5cm]{figure/2shannon.png}}
+            {\includegraphics[height=5.5cm]{figure/2shannon.pdf}}
             \hspace{4em}
           \subcaptionbox{Simpson指数\label{fig:2alphadiversity:simpson}}
-            {\includegraphics[height=5.5cm]{figure/2simpson.png}}
+            {\includegraphics[height=5.5cm]{figure/2simpson.pdf}}
         \bicaption[NEC,LOS和对照组患儿件肠道菌群$\alpha$多样性比较]{通过计算Shannon指数(a)和Simpson(b)指数对NEC,LOS和对照组患儿件肠道菌群$\alpha$多样性分析}{Exploring $\alpha$ diversity by calculation Shannon diversity index(a) and Simpson diversity index(b) among preterm infants with NEC, LOS and Control groups.}
         \label{fig:2alphadiversity}
-        \end{minipage}
       \end{figure}
       \subsection{$\beta$多样性分析}
-    \subsubsection{基于$\beta$多样性，分析菌群纵向定植模式}
+    \subsubsection{$\beta$多样性分析菌群纵向定植模式}
       使用基于weighed unifrac距离的主坐标(PCoA)进行分析发现，NEC、LOS和对照组出生后肠道菌群定植以周为单位进行变化（图\ref{fig:2ingroupweek}，(A)PC1 = 69.92\%, PC2 = 15.43\%, ANOSIM r = 0.40, p = 0.001, (B)PC1 = 78.07\%, PC2 = 8.06\%, ANOSIM r = 0.36, p = 0.001, (C)PC1 = 66.59\%, PC2 = 13.18\%, ANOSIM r = 0.40, p = 0.001 ），这与以往研究的结果一致\cite{moles2013bacterial}。
         %分组，按照周来比较pcoa图
           \begin{figure}[!htp]
@@ -299,7 +298,7 @@
             \label{fig:2ingroupweek}
           \end{figure}
 
-      三组组间比较以及任意两组比较结果表明，在出生后14天内和21天后，其微生物群定植无明显差异图\ref{fig:2inweekgroup}(A, B, D, E)，ANOSIM (A) r = 0.02, p = 0.797, (B) r = 0.12, p = 0.079, (D) r = 0.21, p = 0.087, (E) r = 0.11, p = 0.183）；出生后14到21天即生后第三周，PC1和PC2分别占组间差异的78.18\%和9.29\%（图\ref{fig:2inweekgroup}(C)，ANOSIM r = 0.32, p = 0.001），提示菌群模式与NEC发病的可能关联。此外，NEC和对照组的对比显示出生后21到28天即出生后第四周的显著差异（图\ref{fig:necvscontrol}, ANOSIM r = 0.27, p = 0.030）；这表明在NEC病程中存在这菌群的持续失调，尽管在出生后28天后，两组间的差异不显著（ANOSIM r = 0.27, p = 0.052）。
+      三组组间比较以及任意两组比较结果表明，在出生后14天内和21天后，其微生物群定植无明显差异（图\ref{fig:2inweekgroup}(A, B, D, E)，ANOSIM (A) r = 0.02, p = 0.797, (B) r = 0.12, p = 0.079, (D) r = 0.21, p = 0.087, (E) r = 0.11, p = 0.183）；出生后14到21天即生后第三周，PC1和PC2分别占组间差异的78.18\%和9.29\%（图\ref{fig:2inweekgroup}(C)，ANOSIM r = 0.32, p = 0.001），提示菌群模式与NEC发病的可能关联。此外，NEC和对照组的对比显示出生后21到28天即出生后第四周的显著差异（图\ref{fig:necvscontrol}, ANOSIM r = 0.27, p = 0.030）；这表明在NEC病程中存在这菌群的持续失调，尽管在出生后28天后，两组间的差异不显著（ANOSIM r = 0.27, p = 0.052）。
         %分周，按照组来比较pcoa图
           \begin{figure}[!htp]
             \centering
@@ -320,6 +319,7 @@
           \end{figure}
 
       另外，为排除组内个体间差异对于分析结果的潜在影响，本研究对于每个NEC患儿进行单病例的微生物组成PCoA分析，并发现其各自肠道微生物定植随着出生后时间推移的显著模式（图，ANOSIM (A) r = 0.26, p = 0.01, (B) r = 1.00, p = 0.035, (C) r = 0.610, p = 0.014, (D) r = 0.09, p = 0.008）。
+      
 
 
 
