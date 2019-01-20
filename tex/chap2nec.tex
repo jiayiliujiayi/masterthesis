@@ -184,6 +184,9 @@
     为了得到每个OUT所对应的物种分类学信息，采用\href{RDP classifier}{http://rdp.cme.msu.edu/}贝叶斯算法对97\%相似水平的OTU代表序列进行分类学分析，并分别在各个分类学水平：
 
     domain（域），kingdom（界），phylum（门），class（纲），order（目），family（科），genus（属）比对\href{Silva数据库}{http://www.arb-silva.de}，统计各样本的群落组成，默认置信度阈值为70\%。
+
+    多级物种判别分析（LEfSe分析，Linear discriminant analysis Effect Size）是一种用于发掘高维度生物标示和揭示基因组特征的软件。包括基因、代谢和分类，用于区别两个或以上生物条件（或是生物类群）。该分析软件先采用non-parametric factorial Kruskao-Wallis sum-rank test检测具有显著丰度差异特征，并找到与丰度有显著性差异的类群。最后，采用线性判别分析（LDA, Linear Discriminant Analysis）来估算每个物种丰度对于差异效果影响的大小。在Cladogram中，不同颜色的节点表示在对应组别中显著富集，且对组间差异存在显著影响的微生物分类群；浅黄色节点表示在不同分组中均无显著差异，或对组间差异无显著影响的微生物类群。
+
     \subsubsection{多样性分析}
     多样性指数用来表述一个群落的多样性的统计量，在生物学中可以被用来描述某中环境下的生物多样性。多样性指数常备用来估算任何一个群落，每个成员都属于一个独特的群体或者物种。往往，多样指数的估计量存在一定的偏差，因此相似的值之间往往不能直接比较：本课题主要选择两个空间尺度来比较各分组间和样本间的微生物多样型——$\alpha$多样性和$\beta$多样性。
 
@@ -268,8 +271,8 @@
       \begin{figure}[!htp]
         \centering
         \includegraphics[width=15cm]{2phylum.pdf}
-        \bicaption[门水平上三组患儿NEC, LOS和对照组患儿菌群相对丰度]
-          {门水平上三组患儿NEC, LOS和对照组患儿菌群相对丰度。}
+        \bicaption[门水平上NEC, LOS和对照组患儿菌群相对丰度]
+          {门水平上NEC, LOS和对照组患儿菌群相对丰度。}
           {Relative Abundance of Phylum in Intestinal Microbiota.}
         \label{fig:2phylum}
       \end{figure}
@@ -280,8 +283,8 @@
       \begin{figure}[!htp]
         \centering
         \includegraphics[width=15cm]{2class.pdf}
-        \bicaption[纲水平上三组患儿NEC, LOS和对照组患儿菌群相对丰度]
-          {纲水平上三组患儿NEC, LOS和对照组患儿菌群相对丰度。}
+        \bicaption[纲水平上NEC, LOS和对照组患儿菌群相对丰度]
+          {纲水平上NEC, LOS和对照组患儿菌群相对丰度。}
           {Relative Abundance of Class in Intestinal Microbiota.}
         \label{fig:2class}
       \end{figure}
@@ -292,37 +295,50 @@
       \begin{figure}[!htp]
         \centering
         \includegraphics[width=15cm]{2order.pdf}
-        \bicaption[目水平上三组患儿NEC, LOS和对照组患儿菌群相对丰度]
-          {目水平上三组患儿NEC, LOS和对照组患儿菌群相对丰度。}
+        \bicaption[目水平上NEC, LOS和对照组患儿菌群相对丰度]
+          {目水平上NEC, LOS和对照组患儿菌群相对丰度。}
           {Relative Abundance of Order in Intestinal Microbiota.}
         \label{fig:2order}
       \end{figure}
 
     \subsubsection{科（family）水平}
-    在科水平，三组患儿肠道内以肠杆菌科（\textit{Enterobacteriaceae}）、肠球菌科(\textit{Enterococcaceae})、乳杆菌目（\textit{Lactobacillales}）、链球菌科（\textit{Streptococcaceae}）、葡萄球菌科（\textit{Staphylococcaceae}）、假单胞菌科\textit{Pseudomonadaceae}占主导。肠杆菌科丰度在LOS组最高，为57.05\%，NEC组和对照组丰度分别为34.87\%和40.89\%，三组间丰度差异显著（p = 0.011）；肠球菌科在三组的丰度分别为NEC组20.86\%，LOS组18.15\%,对照组8.46\%，三组间差异不显著（p = 0.109）；LOS组链球菌科百分比（8.70\%）分别显著低于NEC组（16.67\%，p = 0.）和对照组（19.07\%p = 0.023），但三组比较差异不显著（p = 0.438）；假单胞菌在三组的丰度分别为NEC组2.41\%，LOS组2.05\%，对照组5.40\%，三组间差异显著（p = 0.039）（图\ref{fig:2family}）。
+    在科水平，三组患儿肠道内以肠杆菌科（\textit{Enterobacteriaceae}）、肠球菌科(\textit{Enterococcaceae})、乳杆菌目（\textit{Lactobacillales}）、链球菌科（\textit{Streptococcaceae}）、葡萄球菌科（\textit{Staphylococcaceae}）、假单胞菌科\textit{Pseudomonadaceae}占主导。肠杆菌科丰度在LOS组最高，为57.05\%，NEC组和对照组丰度分别为34.87\%和40.89\%，三组间丰度差异显著（p = 0.011）；肠球菌科在三组的丰度分别为NEC组20.86\%，LOS组18.15\%，对照组8.46\%，三组间差异不显著（p = 0.109）；LOS组链球菌科百分比（8.70\%）显著低于NEC组（16.67\%，p = 0.）和对照组（19.07\%p = 0.023），NEC组（16.67\%，且三组比较差异不显著（p = 0.438）；假单胞菌在三组的丰度分别为NEC组2.41\%，LOS组2.05\%，对照组5.40\%，三组间差异显著（p = 0.039）（图\ref{fig:2family}）。
       %科水平图
       \begin{figure}[!htp]
         \centering
         \includegraphics[width=15cm]{2family.pdf}
-        \bicaption[科水平上三组患儿NEC, LOS和对照组患儿菌群相对丰度]
-          {纲水平上三组患儿NEC, LOS和对照组患儿菌群相对丰度。}
-          {Relative Abundance of Order in Intestinal Microbiota.}
+        \bicaption[科水平上NEC, LOS和对照组患儿菌群相对丰度]
+          {纲水平上NEC, LOS和对照组患儿菌群相对丰度。}
+          {Relative Abundance of Family in Intestinal Microbiota.}
         \label{fig:2family}
       \end{figure}
 
     \subsubsection{属（genus）水平}
-    （图\ref{fig:2order}）。
+    属水平上，肠道菌群以克雷伯菌属（\textit{Klebsiella}）、肠球菌属（\textit{Enterococcus}）、埃希菌-志贺菌属（\textit{Escherichia-Shigella}）、乳球菌属（\textit{Lactococcus}）、链球菌属（\textit{Streptococcus}）、葡球菌属（\textit{Staphylococcus}）和假单胞菌属（\textit{Pseudomonas}）占主导。克雷博菌在LOS组丰度最高（\%42.15），且三组丰度差异不显著（p = 0.025）；肠球菌属在三组的丰度分别为NEC组20.86\%，LOS组18.14\%，对照组8.45\%，三组间差异不显著（p = 0.105）；埃希菌-志贺菌属在三组的丰度分别为NEC组4.83\%，LOS组12.99\%，对照组10.14\%，三组丰度差异不显著（p = 0.291）；LOS组乳球菌属丰度3.65\%，显著低于对照组（3.65\%，p = 0.006）；链球菌属在三组的丰度分别为NEC组8.67\%，LOS组5.04\%，对照组5.28\%，三组间差异显著（p = 0.0.022）；LOS葡球菌属丰度0.15\%，对照组丰度为5.79\%，三组间差异在统计学上非显著（p = 0.526）；假单胞菌菌属在三组的丰度分别为NEC组2.41\%，LOS组2.05\%，对照组5.40\%，且三组间丰度存在显著性差异（p = 0.0.039）（图\ref{fig:2order}）。
+      %属水平配图
       \begin{figure}[!htp]
         \centering
         \includegraphics[width=15cm]{2family.pdf}
-        \bicaption[属水平上三组患儿NEC, LOS和对照组患儿菌群相对丰度]
-          {属水平上三组患儿NEC, LOS和对照组患儿菌群相对丰度。}
-          {Relative Abundance of Order in Intestinal Microbiota.}
+        \bicaption[属水平上NEC, LOS和对照组患儿菌群相对丰度]
+          {属水平上NEC, LOS和对照组患儿菌群相对丰度。}
+          {Relative Abundance of Genus in Intestinal Microbiota.}
         \label{fig:2genus}
       \end{figure}
 
+      \subsubsection{多级物种差异判别分析（LEfSe分析）}
+      通过LEfSe分析可发现，在NEC组厚壁菌门(\textit{Firmicutes})、芽孢杆菌纲(\textit{Bacillus})、芽孢杆菌XII菌科(\textit{XII\_o\_Bacillales})、微小杆菌属（\textit{Exiguobacterium}）和链球菌属（\textit{Streptococcus}）的丰度显著增加，同时柔壁菌门(\textit{Tenericutes})、柔壁菌纲(\textit{Mollicutes})、支原体目(\textit{Mycoplasmatales})、支原体科(\textit{Mycoplasmataceae})、尿素原体属（\textit{Ureaplasma}）为其独有；而在LOS组，其主导作用的物种为变形菌门（\textit{Proteobacteria}）、$\gamma$-变形菌纲（\textit{$\gamma$-Proteobacteria}）、肠杆菌目（\textit{Enterobacteriales}）、肠杆菌科（\textit{Enterobacteriaceae}）、克雷伯菌属（\textit{Klebsiella}）为主（图\ref{fig:2lefse}）。
+        %LEfSe配图
+        \begin{figure}[!htp]
+          \centering
+          \includegraphics[width=12.5cm]{2lefse.pdf}
+          \bicaption[LEfSe分析NEC, LOS和对照组患儿菌群]
+            {NEC, LOS和对照组患儿菌群LEfSe进化分支图。绿色代表对照组，红色代表NEC组，蓝色代表LOS组。}
+            {Cladogram generated by software LEfSe. Green color represents the control group, red represents the NEC group, and blue represents the LOS group.}
+          \label{fig:2lefse}
+        \end{figure}
+
   %多样性
-  \subsection{多样性指数及纵向分析}
+  \subsection{多样性分析和纵向分析}
     \subsubsection{NEC, LOS和对照组患儿间肠道菌群$\alpha$多样性分析}
       基于OTU进行计算，NEC、LOS和对照组Shannon-Wienner指数分别为：1.32，1.16和1.66；三组两两比较，可知LOS组和NEC组、NEC组和对照组shannon指数无统计学差异（分别p = 0.47，p = 0.06），LOS组和对照组之间存在统计学差异（图\ref{fig:2alphadiversity:shannon}，p = 0.01）。NEC, LOS和对照组Simpson指数分别为：1.32，1.16和1.66；三组两两比较，可知LOS组和NEC组Simpson指数无统计学差异（p = 0.77）、NEC组和对照组存在统计学差异（p = 0.03），LOS组和对照组之间存在统计学差异（图\ref{fig:2alphadiversity:simpson}，p = 0.02）。
       %alpha多样性图
@@ -378,10 +394,6 @@
               {The PCoA OF post-partum colonization of each NEC patient. (A)NEC patient No.1, (B)NEC patient No.1, (C)NEC patient No.1, (D)NEC patient No.1}
             \label{fig:2neccases}
           \end{figure}
-
-
-
-
 
 \section{讨论}
 
