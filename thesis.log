@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  19 JAN 2019 22:35
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  20 JAN 2019 09:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3661,83 +3661,90 @@ Overfull \hbox (2.84544pt too wide) in paragraph at lines 294--297
  []
 
 [19]
+File: figure/2order.pdf Graphic file (type pdf)
+<use figure/2order.pdf>
+
+Overfull \hbox (2.84544pt too wide) in paragraph at lines 304--307
+ [][] 
+ []
+
 File: figure/2shannon.pdf Graphic file (type pdf)
 <use figure/2shannon.pdf>
 File: figure/2simpson.pdf Graphic file (type pdf)
 <use figure/2simpson.pdf>
- [20]
-Invalid UTF-8 byte or sequence at line 325 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 325 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 325 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 325 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 325 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 325 replaced by U+FFFD.
+[20]
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
 File: figure/2ingroupweek.eps Graphic file (type eps)
 <figure/2ingroupweek.eps>
 
-Overfull \hbox (2.84544pt too wide) in paragraph at lines 325--328
+Overfull \hbox (2.84544pt too wide) in paragraph at lines 334--337
  [][] 
  []
 
-Invalid UTF-8 byte or sequence at line 336 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 336 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 336 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 336 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 336 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 336 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 336 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
 File: figure/2inweekgroup.eps Graphic file (type eps)
 <figure/2inweekgroup.eps>
-
-Overfull \hbox (31.29819pt too wide) in paragraph at lines 336--339
- [][] 
- []
-
-Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
-File: figure/2necvscontrol.eps Graphic file (type eps)
-<figure/2necvscontrol.eps>
 
 Overfull \hbox (31.29819pt too wide) in paragraph at lines 345--348
  [][] 
  []
 
-[21] [22] [23]
-Invalid UTF-8 byte or sequence at line 356 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 356 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 356 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 356 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 356 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 356 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 356 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 356 replaced by U+FFFD.
-File: figure/2neccases.eps Graphic file (type eps)
-<figure/2neccases.eps>
+Invalid UTF-8 byte or sequence at line 354 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 354 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 354 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 354 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 354 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 354 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 354 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 354 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 354 replaced by U+FFFD.
+File: figure/2necvscontrol.eps Graphic file (type eps)
+<figure/2necvscontrol.eps>
 
-Overfull \hbox (31.29819pt too wide) in paragraph at lines 356--359
+Overfull \hbox (31.29819pt too wide) in paragraph at lines 354--357
  [][] 
  []
 
-) [24] [25] [26]
+[21]
+Invalid UTF-8 byte or sequence at line 365 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 365 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 365 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 365 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 365 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 365 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 365 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 365 replaced by U+FFFD.
+File: figure/2neccases.eps Graphic file (type eps)
+<figure/2neccases.eps>
+
+Overfull \hbox (31.29819pt too wide) in paragraph at lines 365--368
+ [][] 
+ []
+
+) [22] [23] [24] [25] [26] [27]
 \openout2 = `tex/chap3compare.aux'.
 
  (./tex/chap3compare.tex
 第三章
-) [27
+) [28
 
 
 
-] [28]
+] [29]
 \openout2 = `tex/summary.aux'.
 
- (./tex/summary.tex) [29
+ (./tex/summary.tex) [30
 
 
 
@@ -3751,7 +3758,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 12.045pt
 (hyperref)                replaced by space on input line 5.
 
-[30
+[31
 
 
 
@@ -3759,28 +3766,28 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no μ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
- [31]
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ™ in font ntx-Regular-tlf-t1!
-Missing character: There is no ™ in font ntx-Regular-tlf-t1!
  [32]
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ™ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ™ in font ntx-Regular-tlf-t1!
  [33]
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ™ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+ [34]
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ∙ in font ntx-Regular-tlf-t1!
-) [34]
+) [35]
 \openout2 = `tex/app_archive.aux'.
 
  (./tex/app_archive.tex
@@ -3793,15 +3800,15 @@ STSong(0)/m/n/12.045 文 件，|  存 档 至 \T1/ntxtlf/m/n/12.045 Bio-Pro-ject
 /m/n/12.045 的
  []
 
-) [35
+) [36
 
 
 
-] [36
+] [37
 
 
 
-] [37] [38]
+] [38] [39]
 *************************************************
 * fontspec warning: "script-not-exist"
 * 
@@ -3836,20 +3843,20 @@ LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
 . - 'normal' (m/n) with NFSS spec.: <->"STFangsong/OT"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-[39] [40] [41] [42]
+[40] [41] [42] [43]
 Overfull \hbox (4.67097pt too wide) in paragraph at lines 84--84
 \T1/ntxtlf/m/n/12.045 biop-sies[J\TU/SourceCodePro(0)/m/n/12.045 /\T1/ntxtlf/m/
 n/12.045 OL]. Mi-cro-biome, 2016, 4(1): 61. [][]$[][][][] [] [] [] [][][][][][]
 [][][][][][][][][][][] []
  []
 
-[43] [44]
+[44] [45]
 \openout2 = `tex/ack.aux'.
 
- (./tex/ack.tex) [45
+ (./tex/ack.tex) [46
 
 
-] [46]
+] [47]
 \openout2 = `tex/pub.aux'.
 
  (./tex/pub.tex
@@ -3859,14 +3866,14 @@ LaTeX Font Warning: Font shape `TU/STSong(0)/m/sc' undefined
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
 (Font)              scaled to size 8.0pt on input line 11.
-) [47
+) [48
 
 
 
 ]
 \openout2 = `tex/projects.aux'.
 
- (./tex/projects.tex) [48
+ (./tex/projects.tex) [49
 
 
 
@@ -3881,7 +3888,7 @@ AED: pageslts setting VeryLastPage via AfterLastShipout
 AED: pageslts setting LastPages via AfterLastShipout 
 
 
-Package pageslts Info: Total number of pages is even.
+Package pageslts Info: Total number of pages is odd.
 
 
 (./thesis.aux (./tex/abstract.aux) (./tex/symbol0.aux) (./tex/chap1intro.aux)
@@ -3890,11 +3897,20 @@ Package pageslts Info: Total number of pages is even.
 (./tex/projects.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 116.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 116.
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 198AC475FBC897F2D72539E4556932A8.
 
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesis.out':
+(rerunfilecheck)             Before: 198AC475FBC897F2D72539E4556932A8
+(rerunfilecheck)             After:  0DC7D17B15A1EFB08F133F8057657D84.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
@@ -3908,10 +3924,10 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Here is how much of TeX's memory you used:
  52646 strings out of 492970
  1088137 string characters out of 6133937
- 1606975 words of memory out of 5000000
+ 1606976 words of memory out of 5000000
  55684 multiletter control sequences out of 15000+600000
  649751 words of font info for 194 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  62i,12n,94p,10409b,5317s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (68 pages).
+Output written on thesis.pdf (69 pages).
