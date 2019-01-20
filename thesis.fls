@@ -681,8 +681,8 @@ INPUT figure/2ingroupweek.eps
 INPUT figure/2ingroupweek.eps
 INPUT figure/2inweekgroup.eps
 INPUT figure/2inweekgroup.eps
-INPUT figure/necvscontrol.eps
-INPUT figure/necvscontrol.eps
+INPUT figure/2necvscontrol.eps
+INPUT figure/2necvscontrol.eps
 OUTPUT tex/chap3compare.aux
 INPUT tex/chap3compare.tex
 INPUT tex/chap3compare.tex

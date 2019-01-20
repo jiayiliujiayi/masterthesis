@@ -1,24 +1,24 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'thesis.blg'
-[70] biber-darwin:313> INFO - === Sat Jan 19, 2019, 18:50:24
-[113] Biber.pm:371> INFO - Reading 'thesis.bcf'
-[252] Biber.pm:857> INFO - Found 86 citekeys in bib section 0
-[269] Biber.pm:3976> INFO - Processing section 0
-[287] Biber.pm:4136> INFO - Looking for bibtex format file 'bib/chap1.bib' for section 0
-[293] bibtex.pm:1500> INFO - LaTeX decoding ...
-[429] bibtex.pm:1316> INFO - Found BibTeX data source 'bib/chap1.bib'
-[1107] Biber.pm:4136> INFO - Looking for bibtex format file 'bib/chap2.bib' for section 0
-[1108] bibtex.pm:1500> INFO - LaTeX decoding ...
-[1126] bibtex.pm:1316> INFO - Found BibTeX data source 'bib/chap2.bib'
-[1127] Utils.pm:193> WARN - Duplicate entry key: 'neu2011necrotizing' in file 'bib/chap2.bib', skipping ...
-[1128] Utils.pm:193> WARN - Duplicate entry key: 'rees2010national' in file 'bib/chap2.bib', skipping ...
-[1220] Biber.pm:4136> INFO - Looking for bibtex format file 'bib/review.bib' for section 0
-[1226] bibtex.pm:1500> INFO - LaTeX decoding ...
-[1441] bibtex.pm:1316> INFO - Found BibTeX data source 'bib/review.bib'
-[2736] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2737] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2737] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[2737] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[2829] bbl.pm:617> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[2960] bbl.pm:720> INFO - Output to thesis.bbl
-[2960] Biber.pm:110> INFO - WARNINGS: 2
+[53] biber-darwin:313> INFO - === Sat Jan 19, 2019, 20:48:00
+[93] Biber.pm:371> INFO - Reading 'thesis.bcf'
+[221] Biber.pm:857> INFO - Found 86 citekeys in bib section 0
+[238] Biber.pm:3976> INFO - Processing section 0
+[253] Biber.pm:4136> INFO - Looking for bibtex format file 'bib/chap1.bib' for section 0
+[260] bibtex.pm:1500> INFO - LaTeX decoding ...
+[376] bibtex.pm:1316> INFO - Found BibTeX data source 'bib/chap1.bib'
+[1027] Biber.pm:4136> INFO - Looking for bibtex format file 'bib/chap2.bib' for section 0
+[1028] bibtex.pm:1500> INFO - LaTeX decoding ...
+[1043] bibtex.pm:1316> INFO - Found BibTeX data source 'bib/chap2.bib'
+[1044] Utils.pm:193> WARN - Duplicate entry key: 'neu2011necrotizing' in file 'bib/chap2.bib', skipping ...
+[1045] Utils.pm:193> WARN - Duplicate entry key: 'rees2010national' in file 'bib/chap2.bib', skipping ...
+[1123] Biber.pm:4136> INFO - Looking for bibtex format file 'bib/review.bib' for section 0
+[1130] bibtex.pm:1500> INFO - LaTeX decoding ...
+[1217] bibtex.pm:1316> INFO - Found BibTeX data source 'bib/review.bib'
+[2043] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2043] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2043] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[2043] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[2137] bbl.pm:617> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[2268] bbl.pm:720> INFO - Output to thesis.bbl
+[2268] Biber.pm:110> INFO - WARNINGS: 2
