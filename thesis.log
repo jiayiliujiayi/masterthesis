@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  20 JAN 2019 15:29
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  20 JAN 2019 15:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3306,13 +3306,10 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 \openout2 = `tex/abstract.aux'.
 
  (./tex/abstract.tex
-LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <14.05249> not availabl
-e
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 25.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.05249pt on input line 25.
+Underfull \vbox (badness 1622) has occurred while \output is active []
+
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 27.
+(Font)              scaled to size 10.53937pt on input line 23.
 
 *************************************************
 * fontspec warning: "script-not-exist"
@@ -3348,17 +3345,28 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 .................................................
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10.53937> not availabl
 e
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 27.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.53937pt on input line 27.
+(Font)              scaled to size 10.53937pt on input line 23.
 [1
 
 
 
 
-] [2
+]
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <14.05249> not availabl
+e
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 25.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.05249pt on input line 25.
+ [2])
+Overfull \hbox (0.24184pt too wide) in paragraph at lines 43--51
+\T1/ntxtlf/m/n/14.05249 tiz-ing En-te-ro-col-i-tis, Hirch-sprung's Dis-ease, La
+te-Onset Sep-sis, Hirshsprung-
+ []
 
-]) [3
+[3
+
 
 ] [4
 
@@ -3379,10 +3387,10 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 \tf@lot=\write9
 \openout9 = `thesis.lot'.
 
+ [9
 
-[9
-
-] (./thesis.loa)
+]
+(./thesis.loa)
 \tf@loa=\write10
 \openout10 = `thesis.loa'.
 
@@ -3948,7 +3956,7 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Here is how much of TeX's memory you used:
  52743 strings out of 492970
  1091582 string characters out of 6133937
- 1659806 words of memory out of 5000000
+ 1660974 words of memory out of 5000000
  55779 multiletter control sequences out of 15000+600000
  649751 words of font info for 194 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
