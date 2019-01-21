@@ -3876,228 +3876,6 @@
       \endverb
       \keyw{Rogers2016}
     \endentry
-    \entry{Hosny2017a}{misc}{}
-      \name{author}{3}{}{%
-        {{hash=bbb00261a46f7407eab6f9d94e02c0d1}{%
-           family={Hosny},
-           familyi={H\bibinitperiod},
-           given={Michel},
-           giveni={M\bibinitperiod}}}%
-        {{hash=1fba96d8578af1f0b3b7e036b8ff424f}{%
-           family={Cassir},
-           familyi={C\bibinitperiod},
-           given={Nadim},
-           giveni={N\bibinitperiod}}}%
-        {{hash=1de60af32311f6f92dbacc0a7b36a97b}{%
-           family={{La Scola}},
-           familyi={L\bibinitperiod},
-           given={Bernard},
-           giveni={B\bibinitperiod}}}%
-      }
-      \strng{namehash}{3d534bcb8601d77a9b811bd5cf4af235}
-      \strng{fullhash}{3d534bcb8601d77a9b811bd5cf4af235}
-      \strng{bibnamehash}{3d534bcb8601d77a9b811bd5cf4af235}
-      \strng{authorbibnamehash}{3d534bcb8601d77a9b811bd5cf4af235}
-      \strng{authornamehash}{3d534bcb8601d77a9b811bd5cf4af235}
-      \strng{authorfullhash}{3d534bcb8601d77a9b811bd5cf4af235}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Necrotizing enterocolitis (NEC) remains a leading cause of morbidity and mortality, affecting primarily preterm neonates. The pathogenesis of this intestinal disease appears to be linked to the disruption or delay of bacterial colonization, termed gut dysbiosis. Intestinal immaturity, antibiotic use and hospital microbial environment are the main triggers of this pathological process. Conversely, gut symbiosis is made possible by the presence of beneficial and commensal bacterial species that protect the immature gut from opportunistic pathogens overgrowth and inflammation. Herein, we review the relationships between gut microbiota and NEC in preterm neonates. We also discuss the role of specific microorganisms belonging to the commensal microbiota, highlighting the possibility for a toxigenic mechanism involved in NEC pathogenesis. We conclude on the importance of interventions aimed at providing or restoring beneficial bacteria populations, in view to efficiently preventing or treating NEC.}
-      \field{booktitle}{Human Microbiome Journal}
-      \field{issn}{24522317}
-      \field{title}{{Updating on gut microbiota and its relationship with the occurrence of necrotizing enterocolitis}}
-      \field{userd}{U}
-      \field{usere}{Hosny, Michel and Cassir, Nadim and {La Scola}, Bernard}
-      \field{userf}{Hosny, Michel and Cassir, Nadim and {La Scola}, Bernard}
-      \field{volume}{4}
-      \field{year}{2017}
-      \field{dateera}{ce}
-      \field{pages}{14\bibrangedash 19}
-      \range{pages}{6}
-      \verb{doi}
-      \verb 10.1016/j.humic.2016.09.002
-      \endverb
-      \verb{urlraw}
-      \verb http://xueshu.baidu.com/s?wd=paperuri{\%}3A{\%}282d82d09d328077d39e4ba5daeea21994{\%}29{\&}filter=sc{\_}long{\_}sign{\&}tn=SE{\_}xueshusource{\_}2kduw22v{\&}sc{\_}vurl=http{\%}3A{\%}2F{\%}2Fwww.sciencedirect.com{\%}2Fscience{\%}2Farticle{\%}2Fpii{\%}2FS2452231716300136{\&}ie=utf-8{\&}sc{\_}us=13946576663269307236
-      \endverb
-      \verb{url}
-      \verb http://xueshu.baidu.com/s?wd=paperuri%7B%5C%%7D3A%7B%5C%%7D282d82d09d328077d39e4ba5daeea21994%7B%5C%%7D29%7B%5C&%7Dfilter=sc%7B%5C_%7Dlong%7B%5C_%7Dsign%7B%5C&%7Dtn=SE%7B%5C_%7Dxueshusource%7B%5C_%7D2kduw22v%7B%5C&%7Dsc%7B%5C_%7Dvurl=http%7B%5C%%7D3A%7B%5C%%7D2F%7B%5C%%7D2Fwww.sciencedirect.com%7B%5C%%7D2Fscience%7B%5C%%7D2Farticle%7B%5C%%7D2Fpii%7B%5C%%7D2FS2452231716300136%7B%5C&%7Die=utf-8%7B%5C&%7Dsc%7B%5C_%7Dus=13946576663269307236
-      \endverb
-      \keyw{Dysbiosis,Gut microbiota,Necrotizing enterocolitis,Toxins}
-    \endentry
-    \entry{Morrow2013}{article}{}
-      \name{author}{13}{}{%
-        {{hash=70d8bb2b232fd87c21b1c7451b09cefc}{%
-           family={Morrow},
-           familyi={M\bibinitperiod},
-           given={Ardythe\bibnamedelima L},
-           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=f43cb395ef312e864db1d2990c3e55dd}{%
-           family={Lagomarcino},
-           familyi={L\bibinitperiod},
-           given={Anne\bibnamedelima J},
-           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=b531b2b6b37c1eda05990dcaaf674447}{%
-           family={Schibler},
-           familyi={S\bibinitperiod},
-           given={Kurt\bibnamedelima R},
-           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=8363255fe957afaa8d3dd52578a62222}{%
-           family={Taft},
-           familyi={T\bibinitperiod},
-           given={Diana\bibnamedelima H},
-           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=6ca79958bcb88f55ed714caae251b639}{%
-           family={Yu},
-           familyi={Y\bibinitperiod},
-           given={Zhuoteng},
-           giveni={Z\bibinitperiod}}}%
-        {{hash=2938deb5048323c6e1bfdd80975d5b28}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Bo},
-           giveni={B\bibinitperiod}}}%
-        {{hash=a20167365af6e98561994da9a6f92450}{%
-           family={Altaye},
-           familyi={A\bibinitperiod},
-           given={Mekibib},
-           giveni={M\bibinitperiod}}}%
-        {{hash=b6ea5a7032ae19a0dc619b901a2d57ac}{%
-           family={Wagner},
-           familyi={W\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-        {{hash=589c0e9f38db327338cab8b74f7c76d2}{%
-           family={Gevers},
-           familyi={G\bibinitperiod},
-           given={Dirk},
-           giveni={D\bibinitperiod}}}%
-        {{hash=afd37dd50bef5dfb154120e9a6c77040}{%
-           family={Ward},
-           familyi={W\bibinitperiod},
-           given={Doyle\bibnamedelima V},
-           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
-        {{hash=a5af6b3b1ffddb188fa54215e0e00113}{%
-           family={Kennedy},
-           familyi={K\bibinitperiod},
-           given={Michael\bibnamedelima A},
-           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=0202088e4dde84f3d7f2f225006ecedb}{%
-           family={Huttenhower},
-           familyi={H\bibinitperiod},
-           given={Curtis},
-           giveni={C\bibinitperiod}}}%
-        {{hash=e1eb4b611a96818d6676debffa592c08}{%
-           family={Newburg},
-           familyi={N\bibinitperiod},
-           given={David\bibnamedelima S},
-           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \strng{namehash}{eb77d8b958f41f0658b8118c33209c11}
-      \strng{fullhash}{cc4c21fb099a7cbc28dba49ff836f9a3}
-      \strng{bibnamehash}{eb77d8b958f41f0658b8118c33209c11}
-      \strng{authorbibnamehash}{eb77d8b958f41f0658b8118c33209c11}
-      \strng{authornamehash}{eb77d8b958f41f0658b8118c33209c11}
-      \strng{authorfullhash}{cc4c21fb099a7cbc28dba49ff836f9a3}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{BACKGROUND Necrotizing enterocolitis (NEC) is a devastating intestinal disease that afflicts 10{\%} of extremely preterm infants. The contribution of early intestinal colonization to NEC onset is not understood, and predictive biomarkers to guide prevention are lacking. We analyzed banked stool and urine samples collected prior to disease onset from infants {<}29 weeks gestational age, including 11 infants who developed NEC and 21 matched controls who survived free of NEC. Stool bacterial communities were profiled by 16S rRNA gene sequencing. Urinary metabolomic profiles were assessed by NMR. RESULTS During postnatal days 4 to 9, samples from infants who later developed NEC tended towards lower alpha diversity (Chao1 index, P = 0.086) and lacked Propionibacterium (P = 0.009) compared to controls. Furthermore, NEC was preceded by distinct forms of dysbiosis. During days 4 to 9, samples from four NEC cases were dominated by members of the Firmicutes (median relative abundance {>}99{\%} versus {<}17{\%} in the remaining NEC and controls, P {<} 0.001). During postnatal days 10 to 16, samples from the remaining NEC cases were dominated by Proteobacteria, specifically Enterobacteriaceae (median relative abundance {>}99{\%} versus 38{\%} in the other NEC cases and 84{\%} in controls, P = 0.01). NEC preceded by Firmicutes dysbiosis occurred earlier (onset, days 7 to 21) than NEC preceded by Proteobacteria dysbiosis (onset, days 19 to 39). All NEC cases lacked Propionibacterium and were preceded by either Firmicutes (≥98{\%} relative abundance, days 4 to 9) or Proteobacteria (≥90{\%} relative abundance, days 10 to 16) dysbiosis, while only 25{\%} of controls had this phenotype (predictive value 88{\%}, P = 0.001). Analysis of days 4 to 9 urine samples found no metabolites associated with all NEC cases, but alanine was positively associated with NEC cases that were preceded by Firmicutes dysbiosis (P {<} 0.001) and histidine was inversely associated with NEC cases preceded by Proteobacteria dysbiosis (P = 0.013). A high urinary alanine:histidine ratio was associated with microbial characteristics (P {<} 0.001) and provided good prediction of overall NEC (predictive value 78{\%}, P = 0.007). CONCLUSIONS Early dysbiosis is strongly involved in the pathobiology of NEC. These striking findings require validation in larger studies but indicate that early microbial and metabolomic signatures may provide highly predictive biomarkers of NEC.}
-      \field{issn}{2049-2618}
-      \field{journaltitle}{Microbiome}
-      \field{month}{4}
-      \field{number}{1}
-      \field{title}{{Early microbial and metabolomic signatures predict later onset of necrotizing enterocolitis in preterm infants.}}
-      \field{usera}{J}
-      \field{userd}{E}
-      \field{usere}{Morrow, Ardythe L and Lagomarcino, Anne J and Schibler, Kurt R and Taft, Diana H and Yu, Zhuoteng and Wang, Bo and Altaye, Mekibib and Wagner, Michael and Gevers, Dirk and Ward, Doyle V and Kennedy, Michael A and Huttenhower, Curtis and Newburg, David S}
-      \field{userf}{Morrow, Ardythe L and Lagomarcino, Anne J and Schibler, Kurt R and Taft, Diana H and Yu, Zhuoteng and Wang, Bo and Altaye, Mekibib and Wagner, Michael and Gevers, Dirk and Ward, Doyle V and Kennedy, Michael A and Huttenhower, Curtis and Newburg, David S}
-      \field{volume}{1}
-      \field{year}{2013}
-      \field{dateera}{ce}
-      \field{pages}{13}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1186/2049-2618-1-13
-      \endverb
-      \verb{urlraw}
-      \verb http://microbiomejournal.biomedcentral.com/articles/10.1186/2049-2618-1-13 http://www.ncbi.nlm.nih.gov/pubmed/24450576 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3971624
-      \endverb
-      \verb{url}
-      \verb http://microbiomejournal.biomedcentral.com/articles/10.1186/2049-2618-1-13%20http://www.ncbi.nlm.nih.gov/pubmed/24450576%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3971624
-      \endverb
-      \keyw{Morrow2013}
-    \endentry
-    \entry{Panigrahi1996}{article}{}
-      \name{author}{6}{}{%
-        {{hash=0d062c7f7c6a6902b0cfac0cd0944d8a}{%
-           family={Panigrahi},
-           familyi={P\bibinitperiod},
-           given={P},
-           giveni={P\bibinitperiod}}}%
-        {{hash=c2da19cad69644b63dc959616ea19648}{%
-           family={Bamford},
-           familyi={B\bibinitperiod},
-           given={P},
-           giveni={P\bibinitperiod}}}%
-        {{hash=e48c061d6a9d2fcd33398ccbc255710c}{%
-           family={Horvath},
-           familyi={H\bibinitperiod},
-           given={K},
-           giveni={K\bibinitperiod}}}%
-        {{hash=9e26f36628cf9dccb2de30a4b7f68c24}{%
-           family={Morris},
-           familyi={M\bibinitperiod},
-           given={Jr},
-           giveni={J\bibinitperiod}}}%
-        {{hash=00d76ca73c2fca7775e38aa0e5a2362a}{%
-           family={J.G},
-           familyi={J\bibinitperiod}}}%
-        {{hash=9eb905aeb17a48b54c3c02bd4756ef4a}{%
-           family={Gewolb},
-           familyi={G\bibinitperiod},
-           given={I\bibnamedelima H},
-           giveni={I\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-      }
-      \strng{namehash}{41c85267b15c3cfcfd27a2fff8093898}
-      \strng{fullhash}{931e1320476013872c437494fd21ba59}
-      \strng{bibnamehash}{41c85267b15c3cfcfd27a2fff8093898}
-      \strng{authorbibnamehash}{41c85267b15c3cfcfd27a2fff8093898}
-      \strng{authornamehash}{41c85267b15c3cfcfd27a2fff8093898}
-      \strng{authorfullhash}{931e1320476013872c437494fd21ba59}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Necrotizing enterocolitis (NEC) is a serious gastrointestinal disorder of preterm infants. Other than an association with prematurity and gastrointestinal feeding, no single factor or mechanism has been consistently linked to this disease. We have previously demonstrated that Escherichia coli isolates obtained from the stool of infants with NEC caused NEC-like injury in a weanling rabbit ileal loop model; this injury, in turn, could he blocked by coinfection with selected Gram(+) bacteria (Enterococcus faecium) isolated from asymptomatic controls. Using Caco-2 cells in a trans-well system, we now demonstrate that the same E. coli isolates can cross epithelial cell monolayers in the absence of ultrastructural change or damage. These results with E. coli contrast with those seen with Salmonella typhimurium, which passed through the monolayer at a higher rate and were associated with striking ultrastructural damage. Transcytosis of E. coli was reduced 3-5- fold in the presence of E. faecium previously shown to block NEC-like injury in the loop model. There was a mild increase in the rate of E. coli transcytosis when studies were conducted with younger, undifferentiated cells; these immature cells had no brush border, had decreased production of brush border-specific enzymes, but retained well defined tight junctions, as demonstrated by transepithelial electrical resistance and electron microscopy. A further reduction/complete blockage of E. coli transcytosis was observed when E. faecium was used as the coinfectant in studies with these undifferentiated cells. We hypothesize that the ability of E. coli to cross epithelial cell layer is a critical initial step in the cascade of events which lead ultimately to NEC; blockage or reduction in E. coli transcytosis in the presence of certain Gram(+) organisms may play a significant role in prevention of NEC.}
-      \field{issn}{0031-3998}
-      \field{journaltitle}{Pediatric research}
-      \field{month}{9}
-      \field{number}{3}
-      \field{title}{{Escherichia coli transcytosis in a Caco-2 cell model: Implications in neonatal necrotizing enterocolitis.}}
-      \field{usera}{J}
-      \field{userd}{E}
-      \field{usere}{Panigrahi, P and Bamford, P and Horvath, K and Morris, Jr and J.G and Gewolb, I H}
-      \field{userf}{Panigrahi, P and Bamford, P and Horvath, K and Morris, Jr and J.G and Gewolb, I H}
-      \field{volume}{40}
-      \field{year}{1996}
-      \field{dateera}{ce}
-      \field{pages}{415\bibrangedash 421}
-      \range{pages}{7}
-      \verb{doi}
-      \verb 10.1203/00006450-199609000-00009
-      \endverb
-      \verb{urlraw}
-      \verb http://sfx.scholarsportal.info/mcmaster?sid=OVID:embase{\&}id=pmid:{\&}id=doi:{\&}issn=0031-3998{\&}isbn={\&}volume=40{\&}issue=3{\&}spage=415{\&}pages=415-421{\&}date=1996{\&}title=Pediatric+Research{\&}atitle=Escherichia+coli+transcytosis+in+a+Caco-2+cell+model{\%}3A+Implications+in+neona
-      \endverb
-      \verb{url}
-      \verb http://sfx.scholarsportal.info/mcmaster?sid=OVID:embase%7B%5C&%7Did=pmid:%7B%5C&%7Did=doi:%7B%5C&%7Dissn=0031-3998%7B%5C&%7Disbn=%7B%5C&%7Dvolume=40%7B%5C&%7Dissue=3%7B%5C&%7Dspage=415%7B%5C&%7Dpages=415-421%7B%5C&%7Ddate=1996%7B%5C&%7Dtitle=Pediatric+Research%7B%5C&%7Datitle=Escherichia+coli+transcytosis+in+a+Caco-2+cell+model%7B%5C%%7D3A+Implications+in+neona
-      \endverb
-      \keyw{Enterococcus faecalis,Escherichia coli,Salmonella typhimurium,article,colon adenocarcinoma,controlled study,electron microscopy,human,human cell,intestine brush border,necrotizing enterocolitis/et [Etiology],priority journal,tight junction,transcytosis}
-    \endentry
     \entry{Deitch1987}{article}{}
       \name{author}{3}{}{%
         {{hash=7c7ffe4ea6d05168d07eae0add74851f}{%
@@ -4607,8 +4385,8 @@
       \strng{authorbibnamehash}{5bbcb8f3d1155004215a53f7923e5462}
       \strng{authornamehash}{5bbcb8f3d1155004215a53f7923e5462}
       \strng{authorfullhash}{f140950f2e62c74454968c6b823ac1b4}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In the weeks after birth, the gut acquires a nascent microbiome, and starts its transition to bacterial population equilibrium. This early-in-life microbial population quite likely influences later-in-life host biology. However, we know little about the governance of community development: does the gut serve as a passive incubator where the first organisms randomly encountered gain entry and predominate, or is there an orderly progression of members joining the community of bacteria? We used fine interval enumeration of microbes in stools from multiple subjects to answer this question. We demonstrate via 16S rRNA gene pyrosequencing of 922 specimens from 58 subjects that the gut microbiota of premature infants residing in a tightly controlled microbial environment progresses through a choreographed succession of bacterial classes from Bacilli to Gammaproteobacteria to Clostridia, interrupted by abrupt population changes. As infants approach 33-36 wk postconceptional age (corresponding to the third to the twelfth weeks of life depending on gestational age at birth), the gut is well colonized by anaerobes. Antibiotics, vaginal vs. Caesarian birth, diet, and age of the infants when sampled influence the pace, but not the sequence, of progression. Our results suggest that in infants in a microbiologically constrained ecosphere of a neonatal intensive care unit, gut bacterial communities have an overall nonrandom assembly that is punctuated by microbial population abruptions. The possibility that the pace of this assembly depends more on host biology (chiefly gestational age at birth) than identifiable exogenous factors warrants further consideration.}
@@ -7776,6 +7554,9 @@
       \keyw{carroll2012characterization}
     \endentry
   \enddatalist
+  \missing{Hosny2017a}
+  \missing{Morrow2013}
+  \missing{Panigrahi1996}
 \endrefsection
 \endinput
 

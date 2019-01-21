@@ -100,7 +100,9 @@
 \contentsline {section}{\numberline {B.2}论文源代码和原始图片}{40}{section.B.2}
 \contentsline {subsubsection}{\numberline {B.2.0.1}源代码\footnote {本论文使用 \LaTeX 编译生成}}{40}{subsubsection.B.2.0.1}
 \contentsline {subsection}{\numberline {B.2.1}原始图片}{40}{subsection.B.2.1}
-\contentsline {chapter}{参考文献}{41}{appendix*.22}
-\contentsline {chapter}{致\nobreakspace {}\nobreakspace {}\nobreakspace {}\nobreakspace {}谢}{53}{appendix*.23}
-\contentsline {chapter}{攻读学位期间发表的学术论文}{55}{appendix*.24}
-\contentsline {chapter}{攻读学位期间参与的项目}{56}{appendix*.25}
+\contentsline {chapter}{\numberline {附录 C\hspace {.3em}}辅助材料：表格}{41}{appendix.C}
+\contentsline {chapter}{\numberline {附录 D\hspace {.3em}}辅助材料：图片}{43}{appendix.D}
+\contentsline {chapter}{参考文献}{44}{appendix*.24}
+\contentsline {chapter}{致\nobreakspace {}\nobreakspace {}\nobreakspace {}\nobreakspace {}谢}{55}{appendix*.25}
+\contentsline {chapter}{攻读学位期间发表的学术论文}{57}{appendix*.26}
+\contentsline {chapter}{攻读学位期间参与的项目}{58}{appendix*.27}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  20 JAN 2019 15:49
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  20 JAN 2019 19:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2810,6 +2810,14 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 s/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count506
+\rotFPtop=\skip157
+\rotFPbot=\skip158
+\rot@float@box=\box111
+\rot@mess@toks=\toks57
+)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryshapes.geometric.code.tex
 File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
@@ -2866,13 +2874,13 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen363
-\Hy@linkcounter=\count506
-\Hy@pagecounter=\count507
+\Hy@linkcounter=\count507
+\Hy@pagecounter=\count508
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count508
+\Hy@SavedSpaceFactor=\count509
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -2889,10 +2897,10 @@ Package hyperref Info: Plain pages OFF on input line 4524.
 Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count509
+\c@Hy@tempcnt=\count510
 LaTeX Info: Redefining \url on input line 5115.
 \XeTeXLinkMargin=\dimen364
-\Fld@menulength=\count510
+\Fld@menulength=\count511
 \Field@Width=\dimen365
 \Fld@charsize=\dimen366
 Package hyperref Info: Hyper figures OFF on input line 6369.
@@ -2904,9 +2912,9 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6394.
 Package hyperref Info: PDF/A mode OFF on input line 6399.
 LaTeX Info: Redefining \ref on input line 6439.
 LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count511
-\c@Item=\count512
-\c@Hfootnote=\count513
+\Hy@abspage=\count512
+\c@Item=\count513
+\c@Hfootnote=\count514
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
@@ -2917,29 +2925,29 @@ File: hxetex.def 2018/02/06 v6.86b Hyperref driver for XeTeX
 Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box111
-\c@Hy@AnnotLevel=\count514
-\HyField@AnnotCount=\count515
-\Fld@listcount=\count516
-\c@bookmark@seq@number=\count517
-\Hy@SectionHShift=\skip157
+\pdfm@box=\box112
+\c@Hy@AnnotLevel=\count515
+\HyField@AnnotCount=\count516
+\Fld@listcount=\count517
+\c@bookmark@seq@number=\count518
+\Hy@SectionHShift=\skip159
 )
-\c@algo=\count518
-\c@thm=\count519
-\c@defn=\count520
-\c@conj=\count521
-\c@exmp=\count522
-\c@rem=\count523
-\c@case=\count524
+\c@algo=\count519
+\c@thm=\count520
+\c@defn=\count521
+\c@conj=\count522
+\c@exmp=\count523
+\c@rem=\count524
+\c@case=\count525
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \sjtu@covertitle@handler with sig. 'O{\\}m' on line 428.
+. Defining command \sjtu@covertitle@handler with sig. 'O{\\}m' on line 429.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \sjtu@title@handler with sig. 'O{\\}m' on line 433.
+. Defining command \sjtu@title@handler with sig. 'O{\\}m' on line 434.
 .................................................
 )
 (./sjtuthesis.cfg
@@ -2951,8 +2959,8 @@ Package biblatex Info: ... file 'english.lbx' found.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
 )
-\@quotelevel=\count525
-\@quotereset=\count526
+\@quotelevel=\count526
+\@quotereset=\count527
 
 
 Package biblatex Warning: Conflicting options.
@@ -2961,18 +2969,22 @@ Package biblatex Warning: Conflicting options.
 
 (/usr/local/texlive/2018/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
 Package: xeCJK-listings 2018/04/07 v3.7.0 xeCJK patch file for listings
-\l__xeCJK_listings_max_char_int=\count527
-\l__xeCJK_listings_flag_int=\count528
+\l__xeCJK_listings_max_char_int=\count528
+\l__xeCJK_listings_flag_int=\count529
 )
 (./thesis.aux
-\c@pagesLTS.Alph.1.local.cnt=\count529
+\c@pagesLTS.Alph.1.local.cnt=\count530
  (./tex/abstract.aux) (./tex/symbol0.aux)
-\c@pagesLTS.Roman.1.local.cnt=\count530
+\c@pagesLTS.Roman.1.local.cnt=\count531
  (./tex/chap1intro.aux)
 (./tex/chap2nec.aux) (./tex/chap3compare.aux) (./tex/summary.aux)
-(./tex/app_review.aux) (./tex/app_archive.aux) (./tex/ack.aux) (./tex/pub.aux)
-(./tex/projects.aux)
-\c@pagesLTS.arabic.1.local.cnt=\count531
+(./tex/app_review.aux) (./tex/app_archive.aux) (./tex/app_table.aux)
+(./tex/app_figure.aux
+
+LaTeX Warning: Label `app:archive' multiply defined.
+
+) (./tex/ack.aux) (./tex/pub.aux) (./tex/projects.aux)
+\c@pagesLTS.arabic.1.local.cnt=\count532
 )
 \openout1 = `thesis.aux'.
 
@@ -3076,8 +3088,8 @@ Package pageslts Warning: Package pdfpages detected.
 (pageslts)                https://www.ctan.org/pkg/pax
 (pageslts)                for the Pdf Annotations eXtractor, pax.
 
-\c@mv@tabular=\count532
-\c@mv@boldtabular=\count533
+\c@mv@tabular=\count533
+\c@mv@boldtabular=\count534
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -3086,6 +3098,7 @@ Package caption Info: longtable package is loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
+Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
@@ -3096,13 +3109,34 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
 
-(./thesis.bbl)
+(./thesis.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Hosny2017a
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Morrow2013
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Panigrahi1996
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 27.
 Package biblatex Info: Reference segment=0 on input line 27.
-\c@lstlisting=\count534
-\AtBeginShipoutBox=\box112
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+\c@lstlisting=\count535
+\AtBeginShipoutBox=\box113
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
@@ -3139,7 +3173,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count535
+\c@section@level=\count536
 )
 LaTeX Info: Redefining \ref on input line 27.
 LaTeX Info: Redefining \pageref on input line 27.
@@ -3149,9 +3183,9 @@ LaTeX Info: Redefining \nameref on input line 27.
 \@outlinefile=\write6
 \openout6 = `thesis.out'.
 
-\c@pagesLTS.pnc.Alph=\count536
-\c@pagesLTS.double.Alph=\count537
-\c@pagesLTS.current.local.Alph=\count538
+\c@pagesLTS.pnc.Alph=\count537
+\c@pagesLTS.double.Alph=\count538
+\c@pagesLTS.current.local.Alph=\count539
 LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 2
 7.
 
@@ -3228,7 +3262,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 * 
 * Font 'STHeiti' does not contain script 'CJK'.
 *************************************************
-\g__fontspec_family_STHeiti_int=\count539
+\g__fontspec_family_STHeiti_int=\count540
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -3299,24 +3333,27 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 ] [8
 
 ]
-\c@pagesLTS.Alph.1.local.count=\count540
-\c@pagesLTS.pnc.Roman=\count541
-\c@pagesLTS.double.Roman=\count542
-\c@pagesLTS.current.local.Roman=\count543
+\c@pagesLTS.Alph.1.local.count=\count541
+\c@pagesLTS.pnc.Roman=\count542
+\c@pagesLTS.double.Roman=\count543
+\c@pagesLTS.current.local.Roman=\count544
 \openout2 = `tex/abstract.aux'.
 
  (./tex/abstract.tex
-Underfull \vbox (badness 1622) has occurred while \output is active []
-
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <14.05249> not availabl
+e
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 25.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.05249pt on input line 25.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 23.
+(Font)              scaled to size 10.53937pt on input line 27.
 
 *************************************************
 * fontspec warning: "script-not-exist"
 * 
 * Font 'STKaiti' does not contain script 'CJK'.
 *************************************************
-\g__fontspec_family_STKaiti_int=\count544
+\g__fontspec_family_STKaiti_int=\count545
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -3345,39 +3382,33 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 .................................................
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10.53937> not availabl
 e
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 23.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 27.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.53937pt on input line 23.
+(Font)              scaled to size 10.53937pt on input line 27.
 [1
 
 
 
 
-]
-LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <14.05249> not availabl
-e
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 25.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.05249pt on input line 25.
- [2])
+] [2
+
+] [3
+
+])
 Overfull \hbox (0.24184pt too wide) in paragraph at lines 43--51
 \T1/ntxtlf/m/n/14.05249 tiz-ing En-te-ro-col-i-tis, Hirch-sprung's Dis-ease, La
 te-Onset Sep-sis, Hirshsprung-
  []
 
-[3
+[4] (./thesis.toc [5
 
 
-] [4
 
-
-] (./thesis.toc [5
-
-])
+] [6])
 \tf@toc=\write7
 \openout7 = `thesis.toc'.
 
- [6] [7] (./thesis.lof)
+ [7] (./thesis.lof)
 \tf@lof=\write8
 \openout8 = `thesis.lof'.
 
@@ -3399,7 +3430,12 @@ te-Onset Sep-sis, Hirshsprung-
 ]
 \openout2 = `tex/symbol0.aux'.
 
- (./tex/symbol0.tex) [11
+ (./tex/symbol0.tex
+Overfull \hbox (2.08075pt too wide) in paragraph at lines 10--41
+ [][] 
+ []
+
+) [11
 
 
 
@@ -3407,10 +3443,10 @@ te-Onset Sep-sis, Hirshsprung-
 
 
 ]
-\c@pagesLTS.Roman.1.local.count=\count545
-\c@pagesLTS.pnc.arabic=\count546
-\c@pagesLTS.double.arabic=\count547
-\c@pagesLTS.current.local.arabic=\count548
+\c@pagesLTS.Roman.1.local.count=\count546
+\c@pagesLTS.pnc.arabic=\count547
+\c@pagesLTS.double.arabic=\count548
+\c@pagesLTS.current.local.arabic=\count549
 \openout2 = `tex/chap1intro.aux'.
 
  (./tex/chap1intro.tex
@@ -3766,6 +3802,11 @@ Overfull \hbox (31.29819pt too wide) in paragraph at lines 391--394
  [][] 
  []
 
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <8> not available
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 399.
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 8.0pt on input line 399.
 [26] [27] [28]
 Missing character: There is no ​ in font ntx-Regular-tlf-t1!
 Missing character: There is no ​ in font ntx-Regular-tlf-t1!
@@ -3846,17 +3887,65 @@ STSong(0)/m/n/12.045 文 件，|  存 档 至 \T1/ntxtlf/m/n/12.045 Bio-Pro-ject
 
 
 
-] [41
+]
+\openout2 = `tex/app_table.aux'.
+
+ (./tex/app_table.tex
+附录 C
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.52437pt on input line 9.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.52437pt on input line 12.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 5.87189pt on input line 12.
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 6.52437pt on input line 12.
+
+Overfull \hbox (34.66557pt too wide) in paragraph at lines 12--45
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [41
 
 
 
-] [42] [43]
+] [42]
+\openout2 = `tex/app_figure.aux'.
+
+ (./tex/app_figure.tex
+附录 D
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+File: figure/2dol.eps Graphic file (type eps)
+<figure/2dol.eps>
+
+Overfull \hbox (2.84544pt too wide) in paragraph at lines 11--14
+ [][] 
+ []
+
+) [43
+
+
+
+] [44
+
+
+
+] [45] [46]
 *************************************************
 * fontspec warning: "script-not-exist"
 * 
 * Font 'STFangsong' does not contain script 'CJK'.
 *************************************************
-\g__fontspec_family_STFangsong_int=\count549
+\g__fontspec_family_STFangsong_int=\count550
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -3873,7 +3962,7 @@ STSong(0)/m/n/12.045 文 件，|  存 档 至 \T1/ntxtlf/m/n/12.045 Bio-Pro-ject
 . Could not resolve font "STFangsong/I" (it probably doesn't exist).
 .................................................
 LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
-(Font)              scaled to size 12.045pt on input line 84.
+(Font)              scaled to size 12.045pt on input line 85.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -3885,19 +3974,26 @@ LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
 . - 'normal' (m/n) with NFSS spec.: <->"STFangsong/OT"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-[44] [45]
-Overfull \hbox (15.37761pt too wide) in paragraph at lines 84--84
+[47] [48]
+Overfull \hbox (9.35512pt too wide) in paragraph at lines 85--85
 \T1/ntxtlf/m/n/12.045 472(7341): 57^^U63. [][]$[][][][] [] [] [] [][][] [] [][]
 [][][][] [] [][][] [] [][][][][][][][] [] [][][][][][][][][][][] []
  []
 
-[46] [47] [48] [49] [50] [51] [52]
+[49] [50] [51] [52]
+Overfull \hbox (4.67097pt too wide) in paragraph at lines 85--85
+\T1/ntxtlf/m/n/12.045 biop-sies[J\TU/SourceCodePro(0)/m/n/12.045 /\T1/ntxtlf/m/
+n/12.045 OL]. Mi-cro-biome, 2016, 4(1): 61. [][]$[][][][] [] [] [] [][][][][][]
+[][][][][][][][][][][] []
+ []
+
+[53] [54]
 \openout2 = `tex/ack.aux'.
 
- (./tex/ack.tex) [53
+ (./tex/ack.tex) [55
 
 
-] [54]
+] [56]
 \openout2 = `tex/pub.aux'.
 
  (./tex/pub.tex
@@ -3907,22 +4003,22 @@ LaTeX Font Warning: Font shape `TU/STSong(0)/m/sc' undefined
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
 (Font)              scaled to size 8.0pt on input line 11.
-) [55
+) [57
 
 
 
 ]
 \openout2 = `tex/projects.aux'.
 
- (./tex/projects.tex) [56
+ (./tex/projects.tex) [58
 
 
 
 ] 
 AED: pageslts setting LastPage 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 116.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 116.
-\c@pagesLTS.arabic.1.local.count=\count550
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 117.
+\c@pagesLTS.arabic.1.local.count=\count551
 
 AED: pageslts setting VeryLastPage via AfterLastShipout 
 
@@ -3934,15 +4030,18 @@ Package pageslts Info: Total number of pages is even.
 
 (./thesis.aux (./tex/abstract.aux) (./tex/symbol0.aux) (./tex/chap1intro.aux)
 (./tex/chap2nec.aux) (./tex/chap3compare.aux) (./tex/summary.aux)
-(./tex/app_review.aux) (./tex/app_archive.aux) (./tex/ack.aux) (./tex/pub.aux)
-(./tex/projects.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 116.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 116.
+(./tex/app_review.aux) (./tex/app_archive.aux) (./tex/app_table.aux)
+(./tex/app_figure.aux) (./tex/ack.aux) (./tex/pub.aux) (./tex/projects.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 117.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: AD7A419F2629BEB5328B9C87F7FA876A.
+(rerunfilecheck)             Checksum: EC3D5E5B5A192814282A165E67557617.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
 
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
@@ -3954,12 +4053,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 ### simple group (level 1) entered at line 269 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 52743 strings out of 492970
- 1091582 string characters out of 6133937
- 1660974 words of memory out of 5000000
- 55779 multiletter control sequences out of 15000+600000
- 649751 words of font info for 194 fonts, out of 8000000 for 9000
+ 52860 strings out of 492970
+ 1094864 string characters out of 6133937
+ 1654884 words of memory out of 5000000
+ 55877 multiletter control sequences out of 15000+600000
+ 664097 words of font info for 214 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 62i,12n,94p,10409b,5317s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,12n,94p,10409b,5319s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (76 pages).
+Output written on thesis.pdf (78 pages).

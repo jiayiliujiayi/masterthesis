@@ -2,31 +2,44 @@
 % !TEX program = xelatex
 % !TEX root = ../thesis.tex
 % !TEX encoding = UTF-8 Unicode
-\chapter{补充表格}
+\chapter{辅助材料：表格}
 \label{app:table}
-
+%每名患儿基本情况
 \begin{sidewaystable}[h]
-\caption{Performance After Post Filtering} % title name of the table
+  \tiny
+\caption{NEC,LOS和对照组每名患儿基本情况} % title name of the table
 \centering % centering table
-\begin{tabular}{l c c rrrrrrr} % creating 10 columns
+\begin{tabular}{cccccccp{2cm}ccc} % creating 10 columns
 \hline\hline % inserting double-line
-Audio &Audibility & Decision &\multicolumn{7}{c}{Sum of Extracted Bits}
-\\ [0.5ex]
+Group & PatientID & Gender& Gestational Age(weeks) & Birth weight(g) & NEC Stage & Septic Pathogen & Diagnose Age(d) & ATB duration (d) & Length of Stay \\ [0.05ex]
 \hline % inserts single-line
 % Entering 1st row
-& &soft &1 & $-1$ & 1 & 1 & $-1$ & $-1$ & 1 \\[-1ex]
-\raisebox{1.5ex}{Police} & \raisebox{1.5ex}{5}&hard
-& 2 & $-4$ & 4 & 4 & $-2$ & $-4$ & 4 \\[1ex]
-% Entering 2nd row
-& &soft & 1 & $-1$ & 1 & 1 & $-1$ & $-1$ & 1 \\[-1ex]
-\raisebox{1.5ex}{Beethoven} & \raisebox{1.5ex}{5}& hard
-&8 & $-8$ & 2 & 8 & $-8$ & $-8$ & 6 \\[1ex]
-% Entering 3rd row
-& &soft & 1 & $-1$ & 1 & 1 & $-1$ & $-1$ & 1 \\[-1ex]
-\raisebox{1.5ex}{Metallica} & \raisebox{1.5ex}{5}& hard
-&4 & $-8$ & 8 & 4 & $-8$ & $-8$ & 8 \\[1ex]
-% [1ex] adds vertical space
+NEC & NEC1 & Male & 29 & 1690 & IIB & — & 11 & — & 63 \\
+NEC & NEC2 & Female & 29 & 1025 & IIB & — & 19 & — & 221 \\
+NEC & NEC3 & Female & 30 & 1950 & IIA & — & 16 & — & 49 \\
+NEC & NEC4 & Female & 29 & 1180 & IIA & — & 18 & — & 83 \\
+LOS & LOS1 & Male & 29 & 1080 & — & Klebsiella Pneumoniae & 19 & 21 & 65 \\
+LOS & LOS2 & Female & 30 & 975 & — & Acinetobacter baumannii \&  Klebsiella Pneumoniae \&  Pseudomonas aeruginosa & 3 & 37 & 71 \\
+LOS & LOS3 & Female & 31 & 1370 & — & N—A & 14 & 13 & 44 \\
+Control & Control1 & Male & 28 & 1090 & — & — & — & — & 58 \\
+Control & Control2 & Female & 28 & 1350 & — & — & — & — & 56 \\
+Control & Control3 & Male & 29 & 1230 & — & — & — & — & 23 \\
+Control & Control4 & Female & 30 & 1445 & — & — & — & — & 46 \\
+Control & Control5 & Female & 30 & 1090 & — & — & — & — & 22  \\
+Control & Control6 & Female & 31 & 1550 & — & — & — & — & 36 \\
+Control & Control7 & Female & 31 & 1560 & — & — & — & — & 30 \\
+Control & Control8 & Female & 31 & 1350 & — & — & — & — & 53 \\
+Control & Control9 & Male & 31 & 1700 & — & — & — & — & 37 \\
+Control & Control10 & Male & 31 & 1520 & — & — & — & — & 29 \\
+Control & Control11 & Male & 31 & 1480 & — & — & — & — & 29 \\
+Control & Control12 & Female & 32 & 1860 & — & — & — & — & 23 \\
+Control & Control13 & Male & 32 & 1940 & — & — & — & — & 23 \\
+Control & Control14 & Female & 32 & 1990 & — & — & — & — & 19 \\
+Control & Control15 & Female & 33 & 1610 & — & — & — & — & 26 \\
+Control & Control16 & Male & 33 & 1480 & — & — & — & — & 27 \\
+Control & Control17 & Male & 33 & 1720 & — & — & — & — & 22 \\
+
 \hline % inserts single-line
 \end{tabular}
-\label{tab:LPer}
+\label{tab:2demograph}
 \end{sidewaystable}
