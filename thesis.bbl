@@ -3225,6 +3225,72 @@
       \range{pages}{1}
       \keyw{stewart2017longitudinal}
     \endentry
+    \entry{bell1978neonatal}{article}{}
+      \name{author}{7}{}{%
+        {{hash=c403965714bd6b4aa14e3162f2329dd5}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={Martin\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=bf297f32b8c9528438e968b94d006dc6}{%
+           family={Ternberg},
+           familyi={T\bibinitperiod},
+           given={Jessie\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=ce19e5bf4c05b53728ac473429602b3d}{%
+           family={Feigin},
+           familyi={F\bibinitperiod},
+           given={Ralph\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=698143035badb76780641e78c5f4fa13}{%
+           family={Keating},
+           familyi={K\bibinitperiod},
+           given={James\bibnamedelima P},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=0c4e06cd085e28f962b93a81b698fc9a}{%
+           family={Marshall},
+           familyi={M\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5a3a47da7efa9734f81b0a216b73b062}{%
+           family={Barton},
+           familyi={B\bibinitperiod},
+           given={Leslie},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ec178ba93a80e292c25aca788a38ce23}{%
+           family={Brotherton},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Lippincott, Williams,}%
+        {Wilkins}%
+      }
+      \strng{namehash}{d985a9c2fd3d0116e760ef5e1d5a4fb8}
+      \strng{fullhash}{ae134552ec58e53cca9735d136492f79}
+      \strng{bibnamehash}{d985a9c2fd3d0116e760ef5e1d5a4fb8}
+      \strng{authorbibnamehash}{d985a9c2fd3d0116e760ef5e1d5a4fb8}
+      \strng{authornamehash}{d985a9c2fd3d0116e760ef5e1d5a4fb8}
+      \strng{authorfullhash}{ae134552ec58e53cca9735d136492f79}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of surgery}
+      \field{number}{1}
+      \field{title}{Neonatal necrotizing enterocolitis. Therapeutic decisions based upon clinical staging.}
+      \field{usera}{J}
+      \field{userd}{N}
+      \field{usere}{Bell, Martin J and Ternberg, Jessie L and Feigin, Ralph D and Keating, James P and Marshall, Richard and Barton, Leslie and Brotherton, Thomas}
+      \field{userf}{Bell, Martin J and Ternberg, Jessie L and Feigin, Ralph D and Keating, James P and Marshall, Richard and Barton, Leslie and Brotherton, Thomas}
+      \field{volume}{187}
+      \field{year}{1978}
+      \field{dateera}{ce}
+      \field{pages}{1}
+      \range{pages}{1}
+      \keyw{bell1978neonatal}
+    \endentry
     \entry{moles2013bacterial}{article}{}
       \name{author}{9}{}{%
         {{hash=b5bc9e580568083017f2f2ac41b3139e}{%
@@ -3778,8 +3844,8 @@
       \strng{authorbibnamehash}{0f10ba748e46881ed64ccd682cee324f}
       \strng{authornamehash}{0f10ba748e46881ed64ccd682cee324f}
       \strng{authorfullhash}{c73df8d08075385c90412ee2851766bd}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Metabolomics studies hold promise for the discovery of pathways linked to disease processes. Cardiovascular disease (CVD) represents the leading cause of death and morbidity worldwide. Here we used a metabolomics approach to generate unbiased small-molecule metabolic profiles in plasma that predict risk for CVD. Three metabolites of the dietary lipid phosphatidylcholine--choline, trimethylamine N-oxide (TMAO) and betaine--were identified and then shown to predict risk for CVD in an independent large clinical cohort. Dietary supplementation of mice with choline, TMAO or betaine promoted upregulation of multiple macrophage scavenger receptors linked to atherosclerosis, and supplementation with choline or TMAO promoted atherosclerosis. Studies using germ-free mice confirmed a critical role for dietary choline and gut flora in TMAO production, augmented macrophage cholesterol accumulation and foam cell formation. Suppression of intestinal microflora in atherosclerosis-prone mice inhibited dietary-choline-enhanced atherosclerosis. Genetic variations controlling expression of flavin monooxygenases, an enzymatic source of TMAO, segregated with atherosclerosis in hyperlipidaemic mice. Discovery of a relationship between gut-flora-dependent metabolism of dietary phosphatidylcholine and CVD pathogenesis provides opportunities for the development of new diagnostic tests and therapeutic approaches for atherosclerotic heart disease.}
@@ -3875,6 +3941,187 @@
       \verb http://www.nature.com/articles/mp201650
       \endverb
       \keyw{Rogers2016}
+    \endentry
+    \entry{hosny2017updating}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bbb00261a46f7407eab6f9d94e02c0d1}{%
+           family={Hosny},
+           familyi={H\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1fba96d8578af1f0b3b7e036b8ff424f}{%
+           family={Cassir},
+           familyi={C\bibinitperiod},
+           given={Nadim},
+           giveni={N\bibinitperiod}}}%
+        {{hash=8836d54496b21efbded2cf9fd1003747}{%
+           family={La\bibnamedelima Scola},
+           familyi={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{bde36242c44557cf30dfdb9490bad0c2}
+      \strng{fullhash}{bde36242c44557cf30dfdb9490bad0c2}
+      \strng{bibnamehash}{bde36242c44557cf30dfdb9490bad0c2}
+      \strng{authorbibnamehash}{bde36242c44557cf30dfdb9490bad0c2}
+      \strng{authornamehash}{bde36242c44557cf30dfdb9490bad0c2}
+      \strng{authorfullhash}{bde36242c44557cf30dfdb9490bad0c2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human Microbiome Journal}
+      \field{title}{Updating on gut microbiota and its relationship with the occurrence of necrotizing enterocolitis}
+      \field{usera}{J}
+      \field{userd}{U}
+      \field{usere}{Hosny, Michel and Cassir, Nadim and La Scola, Bernard}
+      \field{userf}{Hosny, Michel and Cassir, Nadim and La Scola, Bernard}
+      \field{volume}{4}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{14\bibrangedash 19}
+      \range{pages}{6}
+      \keyw{hosny2017updating}
+    \endentry
+    \entry{morrow2013early}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=70d8bb2b232fd87c21b1c7451b09cefc}{%
+           family={Morrow},
+           familyi={M\bibinitperiod},
+           given={Ardythe\bibnamedelima L},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f43cb395ef312e864db1d2990c3e55dd}{%
+           family={Lagomarcino},
+           familyi={L\bibinitperiod},
+           given={Anne\bibnamedelima J},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b531b2b6b37c1eda05990dcaaf674447}{%
+           family={Schibler},
+           familyi={S\bibinitperiod},
+           given={Kurt\bibnamedelima R},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8363255fe957afaa8d3dd52578a62222}{%
+           family={Taft},
+           familyi={T\bibinitperiod},
+           given={Diana\bibnamedelima H},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=6ca79958bcb88f55ed714caae251b639}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Zhuoteng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=2938deb5048323c6e1bfdd80975d5b28}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a20167365af6e98561994da9a6f92450}{%
+           family={Altaye},
+           familyi={A\bibinitperiod},
+           given={Mekibib},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b6ea5a7032ae19a0dc619b901a2d57ac}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=589c0e9f38db327338cab8b74f7c76d2}{%
+           family={Gevers},
+           familyi={G\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+        {{hash=afd37dd50bef5dfb154120e9a6c77040}{%
+           family={Ward},
+           familyi={W\bibinitperiod},
+           given={Doyle\bibnamedelima V},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{eb77d8b958f41f0658b8118c33209c11}
+      \strng{fullhash}{1e98805b34f5eeecb2ec7cc929ac5464}
+      \strng{bibnamehash}{eb77d8b958f41f0658b8118c33209c11}
+      \strng{authorbibnamehash}{eb77d8b958f41f0658b8118c33209c11}
+      \strng{authornamehash}{eb77d8b958f41f0658b8118c33209c11}
+      \strng{authorfullhash}{1e98805b34f5eeecb2ec7cc929ac5464}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Microbiome}
+      \field{number}{1}
+      \field{title}{Early microbial and metabolomic signatures predict later onset of necrotizing enterocolitis in preterm infants}
+      \field{usera}{J}
+      \field{userd}{E}
+      \field{usere}{Morrow, Ardythe L and Lagomarcino, Anne J and Schibler, Kurt R and Taft, Diana H and Yu, Zhuoteng and Wang, Bo and Altaye, Mekibib and Wagner, Michael and Gevers, Dirk and Ward, Doyle V and others}
+      \field{userf}{Morrow, Ardythe L and Lagomarcino, Anne J and Schibler, Kurt R and Taft, Diana H and Yu, Zhuoteng and Wang, Bo and Altaye, Mekibib and Wagner, Michael and Gevers, Dirk and Ward, Doyle V and others}
+      \field{volume}{1}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{13}
+      \range{pages}{1}
+      \keyw{morrow2013early}
+    \endentry
+    \entry{panigrahi1996escherichia}{article}{}
+      \name{author}{5}{}{%
+        {{hash=b11831c3218de2cc0cf9a67a30a3e82b}{%
+           family={Panigrahi},
+           familyi={P\bibinitperiod},
+           given={Pinaki},
+           giveni={P\bibinitperiod}}}%
+        {{hash=be381f57e84369c2c0b144f4f2f6b17a}{%
+           family={Bamford},
+           familyi={B\bibinitperiod},
+           given={Penelope},
+           giveni={P\bibinitperiod}}}%
+        {{hash=33c13ac1c7c39c498d567d1bd7334a28}{%
+           family={Horvath},
+           familyi={H\bibinitperiod},
+           given={Karoly},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2b47f7dcece18c90fd5de11d471df5ab}{%
+           family={Morris\bibnamedelima Jr},
+           familyi={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={J\bibnamedelima Glenn},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=16ac5a7edf0547114abab0cd2c49cf7a}{%
+           family={Gewolb},
+           familyi={G\bibinitperiod},
+           given={Ira\bibnamedelima H},
+           giveni={I\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{8b20a5b6fb9d55b5a577b8c11d69e1dd}
+      \strng{fullhash}{79473530ec368044b567c0cb8a98cd8f}
+      \strng{bibnamehash}{8b20a5b6fb9d55b5a577b8c11d69e1dd}
+      \strng{authorbibnamehash}{8b20a5b6fb9d55b5a577b8c11d69e1dd}
+      \strng{authornamehash}{8b20a5b6fb9d55b5a577b8c11d69e1dd}
+      \strng{authorfullhash}{79473530ec368044b567c0cb8a98cd8f}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pediatric research}
+      \field{number}{3}
+      \field{title}{Escherichia coli Transcytosis in a Caco-2 Cell Model: Implications in Neonatal Necrotizing Enterocolitis1}
+      \field{usera}{J}
+      \field{userd}{E}
+      \field{usere}{Panigrahi, Pinaki and Bamford, Penelope and Horvath, Karoly and Morris Jr, J Glenn and Gewolb, Ira H}
+      \field{userf}{Panigrahi, Pinaki and Bamford, Penelope and Horvath, Karoly and Morris Jr, J Glenn and Gewolb, Ira H}
+      \field{volume}{40}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{pages}{415}
+      \range{pages}{1}
+      \keyw{panigrahi1996escherichia}
     \endentry
     \entry{Deitch1987}{article}{}
       \name{author}{3}{}{%
@@ -5123,8 +5370,8 @@
       \strng{authorbibnamehash}{96bd00bbd18b7d8f85877ca42a247b89}
       \strng{authornamehash}{96bd00bbd18b7d8f85877ca42a247b89}
       \strng{authorfullhash}{64da57c5e43d171e809dc2d3d5a5616e}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Intestinal luminal microbiota likely contribute to the etiology of necrotizing enterocolitis (NEC), a common disease in preterm infants. Microbiota development, a cascade of initial colonization events leading to the establishment of a diverse commensal microbiota, can now be studied in preterm infants using powerful molecular tools. Starting with the first stool and continuing until discharge, weekly stool specimens were collected prospectively from infants with gestational ages ≤32 completed weeks or birth weights≤1250 g. High throughput 16S rRNA sequencing was used to compare the diversity of microbiota and the prevalence of specific bacterial signatures in nine NEC infants and in nine matched controls. After removal of short and low quality reads we retained a total of 110,021 sequences. Microbiota composition differed in the matched samples collected 1 week but not {<}72 hours prior to NEC diagnosis. We detected a bloom (34{\%} increase) of Proteobacteria and a decrease (32{\%}) in Firmicutes in NEC cases between the 1 week and {<}72 hour samples. No significant change was identified in the controls. At both time points, molecular signatures were identified that were increased in NEC cases. One of the bacterial signatures detected more frequently in NEC cases (p{<}0.01) matched closest to $\gamma$-Proteobacteria. Although this sequence grouped to the well-studied Enterobacteriaceae family, it did not match any sequence in Genbank by more than 97{\%}. Our observations suggest that abnormal patterns of microbiota and potentially a novel pathogen contribute to the etiology of NEC.}
@@ -5192,8 +5439,8 @@
       \strng{authorbibnamehash}{c8a1c5565541e15bb0d4d406461dd21c}
       \strng{authornamehash}{c8a1c5565541e15bb0d4d406461dd21c}
       \strng{authorfullhash}{78df6dd183f9ac9b85e501c8a5e700b4}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1078-8956}
@@ -5257,8 +5504,8 @@
       \strng{authorbibnamehash}{6dbdca81e55fc255feeed208d3ed5ede}
       \strng{authornamehash}{6dbdca81e55fc255feeed208d3ed5ede}
       \strng{authorfullhash}{25a38ff54c7451dfefe55a96f2953b97}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Identifying intestinal microbiota is arguably an important task that is performed to determine the pathogenesis of inflammatory bowel diseases (IBD); thus, it is crucial to collect and analyze intestinally-associated microbiota. Analyzing a single niche to categorize individuals does not enable researchers to comprehensively study the spatial variations of the microbiota. Therefore, characterizing the spatial community structures of the inflammatory bowel disease microbiome is critical for advancing our understanding of the inflammatory landscape of IBD. However, at present there is no universally accepted consensus regarding the use of specific sampling strategies in different biogeographic locations. In this review, we discuss the spatial distribution when screening sample collections in IBD microbiota research. Here, we propose a novel model, a three-dimensional spatial community structure, which encompasses the x-, y-, and z-axis distributions; it can be used in some sampling sites, such as feces, colonoscopic biopsy, the mucus gel layer, and oral cavity. On the basis of this spatial model, this article also summarizes various sampling and processing strategies prior to and after DNA extraction and recommends guidelines for practical application in future research.}
@@ -7076,8 +7323,8 @@
       \strng{authorbibnamehash}{6f20b31bac6f1346e4021b6fb313aedd}
       \strng{authornamehash}{6f20b31bac6f1346e4021b6fb313aedd}
       \strng{authorfullhash}{4166df30c62d116fe90ebbee8a8e75f7}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PloS one}
@@ -7489,8 +7736,8 @@
       \strng{authorbibnamehash}{9c5cad9cf12c2fcfd822bc97647c1465}
       \strng{authornamehash}{9c5cad9cf12c2fcfd822bc97647c1465}
       \strng{authorfullhash}{9c5cad9cf12c2fcfd822bc97647c1465}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{FEMS microbiology letters}
@@ -7636,9 +7883,6 @@
       \keyw{carroll2012characterization}
     \endentry
   \enddatalist
-  \missing{Hosny2017a}
-  \missing{Morrow2013}
-  \missing{Panigrahi1996}
 \endrefsection
 \endinput
 
