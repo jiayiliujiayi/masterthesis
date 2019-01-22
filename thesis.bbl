@@ -4495,6 +4495,88 @@
       \endverb
       \keyw{Wang2009}
     \endentry
+    \entry{levine2014espghan}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=769407c64b7ce6e4d36cba735c3b3674}{%
+           family={Levine},
+           familyi={L\bibinitperiod},
+           given={Arie},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3db983dcf973dd36193c36a3dff9d9af}{%
+           family={Koletzko},
+           familyi={K\bibinitperiod},
+           given={Sibylle},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6424bd903da47ba6cee61cbba637a027}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=aaf17a0ce4be288700c45c5b29bc35eb}{%
+           family={Escher},
+           familyi={E\bibinitperiod},
+           given={Johanna\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=bb200b749893ce9373f2eebcb825634b}{%
+           family={Cucchiara},
+           familyi={C\bibinitperiod},
+           given={Salvatore},
+           giveni={S\bibinitperiod}}}%
+        {{hash=447ff884a89a928700b3f0cd5683c13e}{%
+           family={De\bibnamedelima Ridder},
+           familyi={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Lissy},
+           giveni={L\bibinitperiod}}}%
+        {{hash=89cdc51d304a4352ff90a9261ae71d61}{%
+           family={Kolho},
+           familyi={K\bibinitperiod},
+           given={Kaija-Leena},
+           giveni={K\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=879a887f52160e2f116ad99cf305cdc1}{%
+           family={Veres},
+           familyi={V\bibinitperiod},
+           given={Gabor},
+           giveni={G\bibinitperiod}}}%
+        {{hash=07bf4b60977dda9adbc41bbb3275046a}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Richard\bibnamedelima K},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=99742266939bf6c0e54c2f0c51d150fc}{%
+           family={Paerregaard},
+           familyi={P\bibinitperiod},
+           given={Anders},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LWW}%
+      }
+      \strng{namehash}{4757420568f857d01e7d99b8daf268c5}
+      \strng{fullhash}{ef32714be9c5aaf8c1819f5d4ed1703a}
+      \strng{bibnamehash}{4757420568f857d01e7d99b8daf268c5}
+      \strng{authorbibnamehash}{4757420568f857d01e7d99b8daf268c5}
+      \strng{authornamehash}{4757420568f857d01e7d99b8daf268c5}
+      \strng{authorfullhash}{ef32714be9c5aaf8c1819f5d4ed1703a}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of pediatric gastroenterology and nutrition}
+      \field{number}{6}
+      \field{title}{ESPGHAN revised porto criteria for the diagnosis of inflammatory bowel disease in children and adolescents}
+      \field{usera}{J}
+      \field{userd}{E}
+      \field{usere}{Levine, Arie and Koletzko, Sibylle and Turner, Dan and Escher, Johanna C and Cucchiara, Salvatore and De Ridder, Lissy and Kolho, Kaija-Leena and Veres, Gabor and Russell, Richard K and Paerregaard, Anders and others}
+      \field{userf}{Levine, Arie and Koletzko, Sibylle and Turner, Dan and Escher, Johanna C and Cucchiara, Salvatore and De Ridder, Lissy and Kolho, Kaija-Leena and Veres, Gabor and Russell, Richard K and Paerregaard, Anders and others}
+      \field{volume}{58}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{795\bibrangedash 806}
+      \range{pages}{12}
+      \keyw{levine2014espghan}
+    \endentry
     \entry{Saxena2016}{book}{}
       \name{author}{2}{}{%
         {{hash=80e6600cb44b952566da8538e407224a}{%
@@ -5243,8 +5325,8 @@
       \strng{authorbibnamehash}{7e9b24323e8283889a1874eae61bb703}
       \strng{authornamehash}{7e9b24323e8283889a1874eae61bb703}
       \strng{authorfullhash}{4aa86922583e0214d1e63b9bbde6d66e}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the Formosan Medical Association= Taiwan yi zhi}
@@ -7044,8 +7126,8 @@
       \strng{authorbibnamehash}{c90551ef55516b453d7fe37d79b9156e}
       \strng{authornamehash}{c90551ef55516b453d7fe37d79b9156e}
       \strng{authorfullhash}{a2ba130469bb7c045aef2499dba20994}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of structural biology}
@@ -7482,8 +7564,8 @@
       \strng{authorbibnamehash}{ea2e179639bc4c6aea327aff667d73e0}
       \strng{authornamehash}{ea2e179639bc4c6aea327aff667d73e0}
       \strng{authorfullhash}{8be067772d70fb2d3d532ec24daf98d6}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gut}
@@ -7535,8 +7617,8 @@
       \strng{authorbibnamehash}{900e692a07a2a2f42b34f7dee4008163}
       \strng{authornamehash}{900e692a07a2a2f42b34f7dee4008163}
       \strng{authorfullhash}{afc88bd5520f0cb45355fcd45004bb31}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PloS one}

@@ -63,8 +63,8 @@
 \contentsline {subsection}{\numberline {3.2.3}HAEC入选及排除标准}{32}{subsection.3.2.3}
 \contentsline {paragraph}{\numberline {3.2.3.0.1}入选标准}{32}{paragraph.3.2.3.0.1}
 \contentsline {paragraph}{\numberline {3.2.3.0.2}排除标准}{32}{paragraph.3.2.3.0.2}
-\contentsline {subsection}{\numberline {3.2.4}IBD入选及排除标准}{32}{subsection.3.2.4}
-\contentsline {paragraph}{\numberline {3.2.4.0.1}入选标准}{32}{paragraph.3.2.4.0.1}
+\contentsline {subsection}{\numberline {3.2.4}IBD入选及排除标准}{33}{subsection.3.2.4}
+\contentsline {paragraph}{\numberline {3.2.4.0.1}入选标准}{33}{paragraph.3.2.4.0.1}
 \contentsline {paragraph}{\numberline {3.2.4.0.2}排除标准}{33}{paragraph.3.2.4.0.2}
 \contentsline {subsection}{\numberline {3.2.5}诊断标准}{33}{subsection.3.2.5}
 \contentsline {subsection}{\numberline {3.2.6}主要实验室试剂及仪器}{33}{subsection.3.2.6}

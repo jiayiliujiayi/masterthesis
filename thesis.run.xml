@@ -41,7 +41,7 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
       <file>thesis.bcf</file>
@@ -64,7 +64,7 @@
       <file>english.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="0">
+  <external package="biblatex" priority="5" active="1">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
@@ -85,6 +85,7 @@
     <requires type="editable">
       <file>bib/chap1.bib</file>
       <file>bib/chap2.bib</file>
+      <file>bib/chap3.bib</file>
       <file>bib/review.bib</file>
     </requires>
   </external>
