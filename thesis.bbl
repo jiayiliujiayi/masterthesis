@@ -4824,6 +4824,61 @@
       \range{pages}{12}
       \keyw{levine2014espghan}
     \endentry
+    \entry{elhalaby1995enterocolitis}{article}{}
+      \name{author}{5}{}{%
+        {{hash=1e116e562498d919a5fe7946f8c24da2}{%
+           family={Elhalaby},
+           familyi={E\bibinitperiod},
+           given={Essam\bibnamedelima A},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6a2de770519414e4972a57b8c91961dd}{%
+           family={Coran},
+           familyi={C\bibinitperiod},
+           given={Arnold\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=6abe2d0a61e8dac2d1fb490e4ea6d44e}{%
+           family={Blane},
+           familyi={B\bibinitperiod},
+           given={Caroline\bibnamedelima E},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=ed685bc688bb9fbbc05c7d361c138c8c}{%
+           family={Hirschl},
+           familyi={H\bibinitperiod},
+           given={Ronald\bibnamedelima B},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=728c94ad2ba41ef1fa12d0caa18c6906}{%
+           family={Teitelbaum},
+           familyi={T\bibinitperiod},
+           given={Daniel\bibnamedelima H},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{da4de169779ba2190c9055cf2516bf0a}
+      \strng{fullhash}{b47a6df7d7114d745d67ea8a34d3c5e6}
+      \strng{bibnamehash}{da4de169779ba2190c9055cf2516bf0a}
+      \strng{authorbibnamehash}{da4de169779ba2190c9055cf2516bf0a}
+      \strng{authornamehash}{da4de169779ba2190c9055cf2516bf0a}
+      \strng{authorfullhash}{b47a6df7d7114d745d67ea8a34d3c5e6}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of pediatric surgery}
+      \field{number}{1}
+      \field{title}{Enterocolitis associated with Hirschsprung's disease: a clinical-radiological characterization based on 168 patients}
+      \field{usera}{J}
+      \field{userd}{E}
+      \field{usere}{Elhalaby, Essam A and Coran, Arnold G and Blane, Caroline E and Hirschl, Ronald B and Teitelbaum, Daniel H}
+      \field{userf}{Elhalaby, Essam A and Coran, Arnold G and Blane, Caroline E and Hirschl, Ronald B and Teitelbaum, Daniel H}
+      \field{volume}{30}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{pages}{76\bibrangedash 83}
+      \range{pages}{8}
+      \keyw{elhalaby1995enterocolitis}
+    \endentry
     \entry{Saxena2016}{book}{}
       \name{author}{2}{}{%
         {{hash=80e6600cb44b952566da8538e407224a}{%
@@ -5161,8 +5216,8 @@
       \strng{authorbibnamehash}{3c9738623bbb8f8cac3aa5f295e2f56c}
       \strng{authornamehash}{3c9738623bbb8f8cac3aa5f295e2f56c}
       \strng{authorfullhash}{3c9738623bbb8f8cac3aa5f295e2f56c}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Since the completion of the human genome project in 2003, extraordinary progress has been made in genome sequencing technologies, which has led to a decreased cost per megabase and an increase in the number and diversity of sequenced genomes. An astonishing complexity of genome architecture has been revealed, bringing these sequencing technologies to even greater advancements. Some approaches maximize the number of bases sequenced in the least amount of time, generating a wealth of data that can be used to understand increasingly complex phenotypes. Alternatively, other approaches now aim to sequence longer contiguous pieces of DNA, which are essential for resolving structurally complex regions. These and other strategies are providing researchers and clinicians a variety of tools to probe genomes in greater depth, leading to an enhanced understanding of how genome sequence variants underlie phenotype and disease.}
@@ -5224,8 +5279,8 @@
       \strng{authorbibnamehash}{95b8378b1d9a8d3a62fb92cff0f7166d}
       \strng{authornamehash}{95b8378b1d9a8d3a62fb92cff0f7166d}
       \strng{authorfullhash}{95b8378b1d9a8d3a62fb92cff0f7166d}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The gut microbiota is a complex ecosystem that has a symbiotic relationship with its host. An association between the gut microbiota and disease was first postulated in the early 20(th) century. However, until the 1990s, knowledge of the gut microbiota was limited because bacteriological culture was the only technique available to characterize its composition. Only a fraction (estimated at {<}30{\%}) of the gut microbiota has been cultured to date. Since the 1990s, advances in culture-independent techniques have spearheaded our knowledge of the complexity of this ecosystem. These techniques have elucidated the microbial diversity of the gut microbiota and have shown that alterations in the gut microbiota composition and function are associated with certain disease states, such as IBD and obesity. These new techniques are fast, facilitate high throughput, identify organisms that are uncultured to date and enable enumeration of organisms present in the gut microbiota. This Review discusses the techniques that can used to characterize the gut microbiota, when they can be applied to human studies and their relative advantages and limitations.}
@@ -5280,8 +5335,8 @@
       \strng{authorbibnamehash}{041fcdd38410aba1d319275526de2de7}
       \strng{authornamehash}{041fcdd38410aba1d319275526de2de7}
       \strng{authorfullhash}{041fcdd38410aba1d319275526de2de7}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Sperm DNA damage has a significant impact on reproductive outcomes. In recent years, the search for optimal molecular markers for the evaluation of semen quality has resulted in the increased focus on sperm nuclear DNA assessment. The primary aim of this article was to review and summarize the effects of freezing-thawing procedure on nuclear DNA integrity of boar spermatozoa. Using different sperm DNA integrity assays, it has been confirmed that the sperm DNA undergoes structural changes during the freezing-thawing process. Evidence has been shown that a significant proportion of frozen-thawed spermatozoa with compromised chromatin integrity was highly susceptible to DNA fragmentation. Moreover, the possible mechanisms responsible for post-thaw sperm DNA damage could be because of cryo-induced oxidative stress and, to a lesser extent, to the activation of an apoptotic-like phenomenon. This review also highlights the ongoing effort employed to develop optimal strategies to reduce sperm DNA damage following freezing-thawing of boar semen.}
@@ -7188,8 +7243,8 @@
       \strng{authorbibnamehash}{da52218e36c9f610659df7166f16e1af}
       \strng{authornamehash}{da52218e36c9f610659df7166f16e1af}
       \strng{authorfullhash}{305b9c97de068a861862f058dcb33299}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Current protocols in human genetics}
@@ -7263,8 +7318,8 @@
       \strng{authorbibnamehash}{67f4ba606fc63fc4aa9ef876490771e4}
       \strng{authornamehash}{67f4ba606fc63fc4aa9ef876490771e4}
       \strng{authorfullhash}{db658fa19394c3c111e9f23198b32a24}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of microbiological methods}
@@ -7692,8 +7747,8 @@
       \strng{authorbibnamehash}{816d17e8f5edb79219345370620bf1d0}
       \strng{authornamehash}{816d17e8f5edb79219345370620bf1d0}
       \strng{authorfullhash}{816d17e8f5edb79219345370620bf1d0}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Scientific reports}

@@ -60,7 +60,7 @@
 \contentsline {subsubsection}{\numberline {3.2.2.1}NEC入选及排除标准}{32}{subsubsection.3.2.2.1}
 \contentsline {paragraph}{\numberline {3.2.2.1.1}入组标准}{32}{paragraph.3.2.2.1.1}
 \contentsline {paragraph}{\numberline {3.2.2.1.2}排除标准}{32}{paragraph.3.2.2.1.2}
-\contentsline {subsection}{\numberline {3.2.3}HAEC入选及排除标准}{32}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.3}HD和HAEC入选及排除标准}{32}{subsection.3.2.3}
 \contentsline {paragraph}{\numberline {3.2.3.0.1}入选标准}{32}{paragraph.3.2.3.0.1}
 \contentsline {paragraph}{\numberline {3.2.3.0.2}排除标准}{32}{paragraph.3.2.3.0.2}
 \contentsline {subsection}{\numberline {3.2.4}IBD入选及排除标准}{33}{subsection.3.2.4}
@@ -72,8 +72,8 @@
 \contentsline {subsection}{\numberline {3.2.8}标本总DNA提取}{33}{subsection.3.2.8}
 \contentsline {subsection}{\numberline {3.2.9}总DNA 16s rDNA V3-V4可变区片段的扩增}{33}{subsection.3.2.9}
 \contentsline {subsection}{\numberline {3.2.10}荧光定量}{33}{subsection.3.2.10}
-\contentsline {subsection}{\numberline {3.2.11}Illumina Miseq下一代高通量测序}{33}{subsection.3.2.11}
-\contentsline {subsection}{\numberline {3.2.12}原始数据处理}{33}{subsection.3.2.12}
+\contentsline {subsection}{\numberline {3.2.11}Illumina Miseq下一代高通量测序}{34}{subsection.3.2.11}
+\contentsline {subsection}{\numberline {3.2.12}原始数据处理}{34}{subsection.3.2.12}
 \contentsline {subsection}{\numberline {3.2.13}统计学方法}{34}{subsection.3.2.13}
 \contentsline {chapter}{全文总结}{35}{chapter*.20}
 \setcounter {tocdepth}{0}

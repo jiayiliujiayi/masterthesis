@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  22 JAN 2019 10:28
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  24 JAN 2019 09:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3783,7 +3783,7 @@ Overfull \hbox (31.29819pt too wide) in paragraph at lines 391--394
 Missing character: There is no ​ in font ntx-Regular-tlf-t1!
 Missing character: There is no ​ in font ntx-Regular-tlf-t1!
 
-Underfull \vbox (badness 1852) has occurred while \output is active []
+Underfull \vbox (badness 3623) has occurred while \output is active []
 
  [29]
 [30]) [31]
@@ -3796,7 +3796,7 @@ Missing character: There is no μ in font ntx-Regular-tlf-t1!
 
 
 
-]) [33] [34]
+] [33]) [34]
 \openout2 = `tex/summary.aux'.
 
  (./tex/summary.tex) [35
@@ -4023,12 +4023,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 ### simple group (level 1) entered at line 269 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 52862 strings out of 492970
- 1094677 string characters out of 6133937
- 1666356 words of memory out of 5000000
- 55879 multiletter control sequences out of 15000+600000
+ 52865 strings out of 492970
+ 1094829 string characters out of 6133937
+ 1668800 words of memory out of 5000000
+ 55882 multiletter control sequences out of 15000+600000
  661297 words of font info for 213 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 62i,12n,94p,10409b,5319s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,12n,94p,10409b,5321s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on thesis.pdf (80 pages).
