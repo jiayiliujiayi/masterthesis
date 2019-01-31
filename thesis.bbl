@@ -109,6 +109,46 @@
       \range{pages}{1}
       \keyw{ni2017gut}
     \endentry
+    \entry{yoo2017enteric}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7f2815025f1a4ae3274414559bc287d5}{%
+           family={Yoo},
+           familyi={Y\bibinitperiod},
+           given={Bryan\bibnamedelima B},
+           giveni={B\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=dc3fb5040bdb5eabcd7d4970521d6f7e}{%
+           family={Mazmanian},
+           familyi={M\bibinitperiod},
+           given={Sarkis\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1a68c024b5e40104526a5079b54cd21e}
+      \strng{fullhash}{1a68c024b5e40104526a5079b54cd21e}
+      \strng{bibnamehash}{1a68c024b5e40104526a5079b54cd21e}
+      \strng{authorbibnamehash}{1a68c024b5e40104526a5079b54cd21e}
+      \strng{authornamehash}{1a68c024b5e40104526a5079b54cd21e}
+      \strng{authorfullhash}{1a68c024b5e40104526a5079b54cd21e}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Immunity}
+      \field{number}{6}
+      \field{title}{The enteric network: interactions between the immune and nervous systems of the gut}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Yoo, Bryan B and Mazmanian, Sarkis K}
+      \field{userf}{Yoo, Bryan B and Mazmanian, Sarkis K}
+      \field{volume}{46}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{910\bibrangedash 926}
+      \range{pages}{17}
+      \keyw{yoo2017enteric}
+    \endentry
     \entry{harsch2018role}{article}{}
       \name{author}{2}{}{%
         {{hash=50c2a4fd0d37deac4cf236d6a1ca0067}{%

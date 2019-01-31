@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  26 JAN 2019 10:56
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  29 JAN 2019 12:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2978,8 +2978,8 @@ Package: xeCJK-listings 2018/04/07 v3.7.0 xeCJK patch file for listings
 \c@pagesLTS.Roman.1.local.cnt=\count531
  (./tex/chap1intro.aux)
 (./tex/chap2nec.aux) (./tex/chap3compare.aux) (./tex/summary.aux)
-(./tex/app_review.aux) (./tex/app_archive.aux) (./tex/app_table.aux)
-(./tex/app_figure.aux
+(./tex/future.aux) (./tex/app_review.aux) (./tex/app_archive.aux)
+(./tex/app_table.aux) (./tex/app_figure.aux
 
 LaTeX Warning: Label `app:archive' multiply defined.
 
@@ -3804,6 +3804,15 @@ Missing character: There is no μ in font ntx-Regular-tlf-t1!
 
 
 ]
+\openout2 = `tex/future.aux'.
+
+ (./tex/future.tex
+第四章
+) [36
+
+
+
+]
 \openout2 = `tex/app_review.aux'.
 
  (./tex/app_review.tex
@@ -3813,7 +3822,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 12.045pt
 (hyperref)                replaced by space on input line 5.
 
-[36
+[37
 
 
 
@@ -3821,28 +3830,28 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no μ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
- [37]
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ™ in font ntx-Regular-tlf-t1!
-Missing character: There is no ™ in font ntx-Regular-tlf-t1!
  [38]
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ™ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ™ in font ntx-Regular-tlf-t1!
  [39]
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ™ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+ [40]
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ∙ in font ntx-Regular-tlf-t1!
-) [40]
+) [41]
 \openout2 = `tex/app_archive.aux'.
 
  (./tex/app_archive.tex
@@ -3855,7 +3864,7 @@ STSong(0)/m/n/12.045 文 件，|  存 档 至 \T1/ntxtlf/m/n/12.045 Bio-Pro-ject
 /m/n/12.045 的
  []
 
-) [41
+) [42
 
 
 
@@ -3885,11 +3894,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--22
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [42
+) [43
 
 
 
-] [43]
+] [44]
 \openout2 = `tex/app_figure.aux'.
 
  (./tex/app_figure.tex
@@ -3908,15 +3917,15 @@ Overfull \hbox (2.84544pt too wide) in paragraph at lines 11--14
  [][] 
  []
 
-) [44
+) [45
 
 
 
-] [45
+] [46
 
 
 
-] [46] [47]
+] [47] [48]
 *************************************************
 * fontspec warning: "script-not-exist"
 * 
@@ -3939,7 +3948,7 @@ Overfull \hbox (2.84544pt too wide) in paragraph at lines 11--14
 . Could not resolve font "STFangsong/I" (it probably doesn't exist).
 .................................................
 LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
-(Font)              scaled to size 12.045pt on input line 87.
+(Font)              scaled to size 12.045pt on input line 88.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -3951,19 +3960,19 @@ LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
 . - 'normal' (m/n) with NFSS spec.: <->"STFangsong/OT"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-[48] [49]
-Overfull \hbox (15.37761pt too wide) in paragraph at lines 87--87
+[49] [50]
+Overfull \hbox (15.37761pt too wide) in paragraph at lines 88--88
 \T1/ntxtlf/m/n/12.045 472(7341): 57^^U63. [][]$[][][][] [] [] [] [][][] [] [][]
 [][][][] [] [][][] [] [][][][][][][][] [] [][][][][][][][][][][] []
  []
 
-[50] [51] [52] [53] [54] [55] [56]
+[51] [52] [53] [54] [55] [56] [57]
 \openout2 = `tex/ack.aux'.
 
- (./tex/ack.tex) [57
+ (./tex/ack.tex) [58
 
 
-] [58]
+] [59]
 \openout2 = `tex/pub.aux'.
 
  (./tex/pub.tex
@@ -3973,21 +3982,21 @@ LaTeX Font Warning: Font shape `TU/STSong(0)/m/sc' undefined
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
 (Font)              scaled to size 8.0pt on input line 11.
-) [59
+) [60
 
 
 
 ]
 \openout2 = `tex/projects.aux'.
 
- (./tex/projects.tex) [60
+ (./tex/projects.tex) [61
 
 
 
 ] 
 AED: pageslts setting LastPage 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 119.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 120.
 \c@pagesLTS.arabic.1.local.count=\count551
 
 AED: pageslts setting VeryLastPage via AfterLastShipout 
@@ -3995,17 +4004,18 @@ AED: pageslts setting VeryLastPage via AfterLastShipout
 AED: pageslts setting LastPages via AfterLastShipout 
 
 
-Package pageslts Info: Total number of pages is even.
+Package pageslts Info: Total number of pages is odd.
 
 
 (./thesis.aux (./tex/abstract.aux) (./tex/symbol00.aux) (./tex/chap1intro.aux)
 (./tex/chap2nec.aux) (./tex/chap3compare.aux) (./tex/summary.aux)
-(./tex/app_review.aux) (./tex/app_archive.aux) (./tex/app_table.aux)
-(./tex/app_figure.aux) (./tex/ack.aux) (./tex/pub.aux) (./tex/projects.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 119.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
+(./tex/future.aux) (./tex/app_review.aux) (./tex/app_archive.aux)
+(./tex/app_table.aux) (./tex/app_figure.aux) (./tex/ack.aux) (./tex/pub.aux)
+(./tex/projects.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 120.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 069D234A839975DA482E1AF56B2458F0.
+(rerunfilecheck)             Checksum: 7B6BE46FA8718206300F19A116FFD51B.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -4023,12 +4033,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 ### simple group (level 1) entered at line 269 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 52865 strings out of 492970
- 1094829 string characters out of 6133937
- 1668800 words of memory out of 5000000
- 55882 multiletter control sequences out of 15000+600000
+ 52877 strings out of 492970
+ 1095070 string characters out of 6133937
+ 1673196 words of memory out of 5000000
+ 55887 multiletter control sequences out of 15000+600000
  661297 words of font info for 213 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  62i,12n,94p,10409b,5321s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (80 pages).
+Output written on thesis.pdf (81 pages).
