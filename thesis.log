@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  31 JAN 2019 16:08
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  31 JAN 2019 16:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3973,11 +3973,19 @@ Missing character: There is no ∙ in font ntx-Regular-tlf-t1!
  (./tex/app_archive.tex
 附录 B
 
-Overfull \hbox (32.83365pt too wide) in paragraph at lines 10--11
+Overfull \hbox (15.34433pt too wide) in paragraph at lines 10--11
 []\TU/STSong(0)/m/n/12.045 为 每 个 样 本 生 成 单 独 的 \T1/ntxtlf/m/n/12.045 FASTQ \TU/
 STSong(0)/m/n/12.045 文 件，|  存 档 至 \T1/ntxtlf/m/n/12.045 Bio-Pro-ject \TU/STSong
-(0)/m/n/12.045 登 记 号 为[][]\T1/ntxtlf/m/n/12.045 No.PRJNA470548[][]\TU/STSong(0)
-/m/n/12.045 的
+(0)/m/n/12.045 登 记 号 为[][]\T1/ntxtlf/m/n/12.045 PRJNA470548[][]\TU/STSong(0)/m/
+n/12.045 的
+ []
+
+
+Overfull \hbox (15.34433pt too wide) in paragraph at lines 12--13
+[]\TU/STSong(0)/m/n/12.045 为 每 个 样 本 生 成 单 独 的 \T1/ntxtlf/m/n/12.045 FASTQ \TU/
+STSong(0)/m/n/12.045 文 件，|  存 档 至 \T1/ntxtlf/m/n/12.045 Bio-Pro-ject \TU/STSong
+(0)/m/n/12.045 登 记 号 为[][]\T1/ntxtlf/m/n/12.045 PRJNA518158[][]\TU/STSong(0)/m/
+n/12.045 的
  []
 
 ) [43
@@ -4129,15 +4137,9 @@ Package pageslts Info: Total number of pages is even.
 (./tex/app_figure.aux) (./tex/ack.aux) (./tex/pub.aux) (./tex/projects.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 119.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: EC3D5E5B5A192814282A165E67557617.
 
-
-Package rerunfilecheck Warning: File `thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: C332409B34C9BD4AAA43007D8759F2DE
-(rerunfilecheck)             After:  EC3D5E5B5A192814282A165E67557617.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -4154,10 +4156,10 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 ### simple group (level 1) entered at line 269 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 52883 strings out of 492970
- 1095146 string characters out of 6133937
- 1669396 words of memory out of 5000000
- 55900 multiletter control sequences out of 15000+600000
+ 52889 strings out of 492970
+ 1096280 string characters out of 6133937
+ 1670188 words of memory out of 5000000
+ 55906 multiletter control sequences out of 15000+600000
  661297 words of font info for 213 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  62i,12n,94p,10409b,5321s stack positions out of 5000i,500n,10000p,200000b,80000s
