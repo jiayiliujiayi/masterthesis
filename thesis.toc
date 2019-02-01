@@ -79,34 +79,34 @@
 \contentsline {subsection}{\numberline {3.3.1}患者基本情况}{34}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}样本及测序信息}{34}{subsection.3.3.2}
 \contentsline {subsection}{\numberline {3.3.3}分类学分析}{34}{subsection.3.3.3}
-\contentsline {chapter}{全文总结}{37}{chapter*.21}
+\contentsline {chapter}{全文总结}{36}{chapter*.21}
 \setcounter {tocdepth}{0}
-\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}综述\hskip 1em\relax 肠道菌群研究中粪便样品取样与保存方法}{38}{appendix.A}
-\contentsline {section}{\numberline {A.1}粪便样品取样与保存常用方法}{39}{section.A.1}
-\contentsline {subsection}{\numberline {A.1.1}HMP标准流程（HMP Core Microbiome Sampling, Protocol A）}{39}{subsection.A.1.1}
-\contentsline {subsubsection}{\numberline {A.1.1.1}样品采集方法}{39}{subsubsection.A.1.1.1}
-\contentsline {subsubsection}{\numberline {A.1.1.2}样品保存条件}{39}{subsubsection.A.1.1.2}
-\contentsline {subsection}{\numberline {A.1.2}IHMS标准操作规程（IHMS Sample Collection and Handling SOPs）}{40}{subsection.A.1.2}
-\contentsline {subsubsection}{\numberline {A.1.2.1}样品采集方法}{40}{subsubsection.A.1.2.1}
-\contentsline {subsubsection}{\numberline {A.1.2.2}样品保存条件}{40}{subsubsection.A.1.2.2}
-\contentsline {section}{\numberline {A.2}粪便样品取样方法对实验结果的影响}{40}{section.A.2}
-\contentsline {subsection}{\numberline {A.2.1}取样时间}{40}{subsection.A.2.1}
-\contentsline {subsection}{\numberline {A.2.2}选择替代样品}{40}{subsection.A.2.2}
-\contentsline {subsection}{\numberline {A.2.3}取样人员}{41}{subsection.A.2.3}
-\contentsline {subsection}{\numberline {A.2.4}取样次数}{41}{subsection.A.2.4}
-\contentsline {subsection}{\numberline {A.2.5}采样后、保存前所使用的试剂}{41}{subsection.A.2.5}
-\contentsline {section}{\numberline {A.3}粪便样品不同保存方法对研究结果的影响}{42}{section.A.3}
-\contentsline {section}{\numberline {A.4}总结}{42}{section.A.4}
-\contentsline {chapter}{\numberline {附录 B\hspace {.3em}}原始数据与源代码存档}{43}{appendix.B}
-\contentsline {section}{\numberline {B.1}原始测序数据}{43}{section.B.1}
-\contentsline {subsection}{\numberline {B.1.1}坏死性小肠结肠炎（NEC）肠道菌群MiSeq测序原始数据}{43}{subsection.B.1.1}
-\contentsline {subsection}{\numberline {B.1.2}儿科肠道炎症性疾病肠道菌群MiSeq测序原始数据}{43}{subsection.B.1.2}
-\contentsline {section}{\numberline {B.2}论文源代码和原始图片}{43}{section.B.2}
-\contentsline {subsubsection}{\numberline {B.2.0.1}源代码\footnote {本论文使用 \LaTeX 编译生成}}{43}{subsubsection.B.2.0.1}
-\contentsline {subsection}{\numberline {B.2.1}原始图片}{43}{subsection.B.2.1}
-\contentsline {chapter}{\numberline {附录 C\hspace {.3em}}辅助材料：表格}{44}{appendix.C}
-\contentsline {chapter}{\numberline {附录 D\hspace {.3em}}辅助材料：图片}{46}{appendix.D}
-\contentsline {chapter}{参考文献}{47}{appendix*.24}
-\contentsline {chapter}{致\nobreakspace {}\nobreakspace {}\nobreakspace {}\nobreakspace {}谢}{59}{appendix*.25}
-\contentsline {chapter}{攻读学位期间发表的学术论文}{61}{appendix*.26}
-\contentsline {chapter}{攻读学位期间参与的项目}{62}{appendix*.27}
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}综述\hskip 1em\relax 肠道菌群研究中粪便样品取样与保存方法}{37}{appendix.A}
+\contentsline {section}{\numberline {A.1}粪便样品取样与保存常用方法}{38}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}HMP标准流程（HMP Core Microbiome Sampling, Protocol A）}{38}{subsection.A.1.1}
+\contentsline {subsubsection}{\numberline {A.1.1.1}样品采集方法}{38}{subsubsection.A.1.1.1}
+\contentsline {subsubsection}{\numberline {A.1.1.2}样品保存条件}{38}{subsubsection.A.1.1.2}
+\contentsline {subsection}{\numberline {A.1.2}IHMS标准操作规程（IHMS Sample Collection and Handling SOPs）}{39}{subsection.A.1.2}
+\contentsline {subsubsection}{\numberline {A.1.2.1}样品采集方法}{39}{subsubsection.A.1.2.1}
+\contentsline {subsubsection}{\numberline {A.1.2.2}样品保存条件}{39}{subsubsection.A.1.2.2}
+\contentsline {section}{\numberline {A.2}粪便样品取样方法对实验结果的影响}{39}{section.A.2}
+\contentsline {subsection}{\numberline {A.2.1}取样时间}{39}{subsection.A.2.1}
+\contentsline {subsection}{\numberline {A.2.2}选择替代样品}{39}{subsection.A.2.2}
+\contentsline {subsection}{\numberline {A.2.3}取样人员}{40}{subsection.A.2.3}
+\contentsline {subsection}{\numberline {A.2.4}取样次数}{40}{subsection.A.2.4}
+\contentsline {subsection}{\numberline {A.2.5}采样后、保存前所使用的试剂}{40}{subsection.A.2.5}
+\contentsline {section}{\numberline {A.3}粪便样品不同保存方法对研究结果的影响}{41}{section.A.3}
+\contentsline {section}{\numberline {A.4}总结}{41}{section.A.4}
+\contentsline {chapter}{\numberline {附录 B\hspace {.3em}}原始数据与源代码存档}{42}{appendix.B}
+\contentsline {section}{\numberline {B.1}原始测序数据}{42}{section.B.1}
+\contentsline {subsection}{\numberline {B.1.1}坏死性小肠结肠炎（NEC）肠道菌群MiSeq测序原始数据}{42}{subsection.B.1.1}
+\contentsline {subsection}{\numberline {B.1.2}儿科肠道炎症性疾病肠道菌群MiSeq测序原始数据}{42}{subsection.B.1.2}
+\contentsline {section}{\numberline {B.2}论文源代码和原始图片}{42}{section.B.2}
+\contentsline {subsubsection}{\numberline {B.2.0.1}源代码\footnote {本论文使用 \LaTeX 编译生成}}{42}{subsubsection.B.2.0.1}
+\contentsline {subsection}{\numberline {B.2.1}原始图片}{42}{subsection.B.2.1}
+\contentsline {chapter}{\numberline {附录 C\hspace {.3em}}辅助材料：表格}{43}{appendix.C}
+\contentsline {chapter}{\numberline {附录 D\hspace {.3em}}辅助材料：图片}{45}{appendix.D}
+\contentsline {chapter}{参考文献}{46}{appendix*.24}
+\contentsline {chapter}{致\nobreakspace {}\nobreakspace {}\nobreakspace {}\nobreakspace {}谢}{58}{appendix*.25}
+\contentsline {chapter}{攻读学位期间发表的学术论文}{60}{appendix*.26}
+\contentsline {chapter}{攻读学位期间参与的项目}{61}{appendix*.27}
