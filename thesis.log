@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  31 JAN 2019 18:07
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  2 FEB 2019 11:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**thesis.tex
+**thesis
 (./thesis.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
@@ -3446,6 +3446,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  (./tex/chap2nec.tex
 第二章
+
+Overfull \hbox (25.04337pt too wide) in paragraph at lines 18--19
+[]\TU/STSong(0)/m/n/12.045 该 研 究 经 上 海 交 通 大 学 医 学 院 附 属 上 海 儿 童 医 学 中 心 伦 理 委 
+员 会 批 准  |（\T1/ntxtlf/m/n/12.045 SCMCIRB-
+ []
+
 Missing character: There is no μ in font ntx-Regular-tlf-t1!
 [6
 
@@ -3543,18 +3549,18 @@ LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 7.0pt on input line 244.
 
-Overfull \hbox (3.81851pt too wide) in paragraph at lines 248--248
-[]|\T1/ntxtlf/b/n/12.045 NEC(N=3)| 
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
+[]|\T1/ntxtlf/b/n/12.045 NEC
  []
 
 
-Overfull \hbox (2.49355pt too wide) in paragraph at lines 248--248
-[]|\T1/ntxtlf/b/n/12.045 LOS(N=4)| 
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
+[]|\T1/ntxtlf/b/n/12.045 LOS
  []
 
 
-Overfull \hbox (24.37929pt too wide) in paragraph at lines 248--248
-[]|\T1/ntxtlf/b/n/12.045 Control(N=17)| 
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
+[]|\T1/ntxtlf/b/n/12.045 Control
  []
 
 
@@ -3692,7 +3698,10 @@ Overfull \hbox (2.84544pt too wide) in paragraph at lines 309--312
  [][] 
  []
 
-[20]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
 File: figure/2family.pdf Graphic file (type pdf)
 <use figure/2family.pdf>
 
@@ -3700,18 +3709,26 @@ Overfull \hbox (2.84544pt too wide) in paragraph at lines 321--324
  [][] 
  []
 
-[21]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
 File: figure/2lefse.pdf Graphic file (type pdf)
 <use figure/2lefse.pdf>
 
 
 LaTeX Warning: Float too large for page by 19.41374pt on input line 338.
 
-[22]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
 File: figure/2shannon.pdf Graphic file (type pdf)
 <use figure/2shannon.pdf>
 File: figure/2simpson.pdf Graphic file (type pdf)
 <use figure/2simpson.pdf>
+
+[23]
 Invalid UTF-8 byte or sequence at line 360 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 360 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 360 replaced by U+FFFD.
@@ -3725,10 +3742,6 @@ Overfull \hbox (2.84544pt too wide) in paragraph at lines 360--363
  [][] 
  []
 
-
-Underfull \vbox (badness 1838) has occurred while \output is active []
-
- [23]
 Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
@@ -3759,11 +3772,7 @@ Overfull \hbox (31.29819pt too wide) in paragraph at lines 380--383
  [][] 
  []
 
-
-Underfull \vbox (badness 4954) has occurred while \output is active []
-
- [24]
-[25]
+[24] [25]
 Invalid UTF-8 byte or sequence at line 391 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 391 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 391 replaced by U+FFFD.
@@ -3783,7 +3792,7 @@ Overfull \hbox (31.29819pt too wide) in paragraph at lines 391--394
 Missing character: There is no ​ in font ntx-Regular-tlf-t1!
 Missing character: There is no ​ in font ntx-Regular-tlf-t1!
 
-Underfull \vbox (badness 3623) has occurred while \output is active []
+Underfull \vbox (badness 1852) has occurred while \output is active []
 
  [29]
 [30]) [31]
@@ -3975,18 +3984,18 @@ n/12.045 的
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 6.52437pt on input line 9.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.52437pt on input line 12.
+(Font)              scaled to size 6.52437pt on input line 14.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 5.87189pt on input line 12.
+(Font)              scaled to size 5.87189pt on input line 14.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 6.52437pt on input line 12.
+(Font)              scaled to size 6.52437pt on input line 14.
 
-Underfull \hbox (badness 6526) in paragraph at lines 21--21
+Underfull \hbox (badness 6526) in paragraph at lines 23--23
 []|\T1/ntxtlf/m/n/6.52437 Klebsiella Pneu-mo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
 []|\T1/ntxtlf/m/n/6.52437 Acinetobacter bau-
  []
 
@@ -4133,10 +4142,10 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Here is how much of TeX's memory you used:
  52889 strings out of 492970
  1096280 string characters out of 6133937
- 1670187 words of memory out of 5000000
+ 1670197 words of memory out of 5000000
  55906 multiletter control sequences out of 15000+600000
  661297 words of font info for 213 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 62i,12n,94p,10413b,5321s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,12n,94p,10409b,5321s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on thesis.pdf (81 pages).

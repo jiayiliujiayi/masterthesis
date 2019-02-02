@@ -39,14 +39,14 @@
 \contentsline {subsection}{\numberline {2.2.11}统计学方法}{16}{subsection.2.2.11}
 \contentsline {section}{\numberline {2.3}结果}{17}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}患者基本情况}{17}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}样本及测序信息}{18}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.2}样本及测序信息}{19}{subsection.2.3.2}
 \contentsline {subsection}{\numberline {2.3.3}分类学分析}{19}{subsection.2.3.3}
 \contentsline {subsubsection}{\numberline {2.3.3.1}门（phylum）水平}{19}{subsubsection.2.3.3.1}
 \contentsline {subsubsection}{\numberline {2.3.3.2}纲（class）水平}{19}{subsubsection.2.3.3.2}
-\contentsline {subsubsection}{\numberline {2.3.3.3}目（order）水平}{19}{subsubsection.2.3.3.3}
-\contentsline {subsubsection}{\numberline {2.3.3.4}科（family）水平}{20}{subsubsection.2.3.3.4}
-\contentsline {subsubsection}{\numberline {2.3.3.5}属（genus）水平}{21}{subsubsection.2.3.3.5}
-\contentsline {subsubsection}{\numberline {2.3.3.6}多级物种差异判别分析（LEfSe分析）}{22}{subsubsection.2.3.3.6}
+\contentsline {subsubsection}{\numberline {2.3.3.3}目（order）水平}{20}{subsubsection.2.3.3.3}
+\contentsline {subsubsection}{\numberline {2.3.3.4}科（family）水平}{21}{subsubsection.2.3.3.4}
+\contentsline {subsubsection}{\numberline {2.3.3.5}属（genus）水平}{22}{subsubsection.2.3.3.5}
+\contentsline {subsubsection}{\numberline {2.3.3.6}多级物种差异判别分析（LEfSe分析）}{23}{subsubsection.2.3.3.6}
 \contentsline {subsection}{\numberline {2.3.4}多样性分析和纵向分析}{23}{subsection.2.3.4}
 \contentsline {subsubsection}{\numberline {2.3.4.1}NEC, LOS和对照组患儿间肠道菌群$\alpha $多样性分析}{23}{subsubsection.2.3.4.1}
 \contentsline {subsection}{\numberline {2.3.5}基于$\beta $多样性分析纵向菌群定植模式}{24}{subsection.2.3.5}
