@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  28 FEB 2019 15:18
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  2 APR 2019 09:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3534,277 +3534,287 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [15]
 [16] [17]
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 244.
+(Font)              scaled to size 10.53937pt on input line 260.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.0pt on input line 244.
+(Font)              scaled to size 7.0pt on input line 260.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 9.48535pt on input line 244.
+(Font)              scaled to size 9.48535pt on input line 260.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 6.29996pt on input line 244.
+(Font)              scaled to size 6.29996pt on input line 260.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 244.
+(Font)              scaled to size 10.53937pt on input line 260.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 7.0pt on input line 244.
+(Font)              scaled to size 7.0pt on input line 260.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.0pt on input line 244.
+(Font)              scaled to size 7.0pt on input line 260.
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
 []|\T1/ntxtlf/b/n/12.045 NEC
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
 []|\T1/ntxtlf/b/n/12.045 LOS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
 []|\T1/ntxtlf/b/n/12.045 Control
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
 []|\T1/ntxtlf/b/n/12.045 Statistical
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--249
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
 []|\T1/ntxtlf/m/n/12.045 Kruskal-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--249
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
 \T1/ntxtlf/m/n/12.045 Wallis
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--250
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
 []|\T1/ntxtlf/m/n/12.045 1416.3
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--250
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
 \T1/ntxtlf/m/n/12.045 (773.4-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--250
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
 []|\T1/ntxtlf/m/n/12.045 1141.7
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--250
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
 \T1/ntxtlf/m/n/12.045 (633.4-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--250
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
 []|\T1/ntxtlf/m/n/12.045 1527.4
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--250
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
 \T1/ntxtlf/m/n/12.045 (1391.6-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--250
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
 []|\T1/ntxtlf/m/n/12.045 Kruskal-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--250
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
 \T1/ntxtlf/m/n/12.045 Wallis
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--254
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
 []|\T1/ntxtlf/m/n/12.045 Wilcoxon
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--254
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
 \T1/ntxtlf/m/n/12.045 rank-sum
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--255
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
 []|\T1/ntxtlf/m/n/12.045 54.3
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--255
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
 \T1/ntxtlf/m/n/12.045 (13.5-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--255
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
 []|\T1/ntxtlf/m/n/12.045 60.0
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--255
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
 \T1/ntxtlf/m/n/12.045 (24.8-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--255
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
 []|\T1/ntxtlf/m/n/12.045 32.9
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--255
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
 \T1/ntxtlf/m/n/12.045 (26.3-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--255
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
 []|\T1/ntxtlf/m/n/12.045 Kruskal-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--255
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
 \T1/ntxtlf/m/n/12.045 Wallis
  []
 
-[18]
+File: figure/2scheme.pdf Graphic file (type pdf)
+<use figure/2scheme.pdf>
+
+Overfull \hbox (2.84544pt too wide) in paragraph at lines 282--285
+ [][] 
+ []
+
+[18] [19]
 File: figure/2phylum.pdf Graphic file (type pdf)
 <use figure/2phylum.pdf>
 
-Overfull \hbox (2.84544pt too wide) in paragraph at lines 273--276
+Overfull \hbox (2.84544pt too wide) in paragraph at lines 298--301
  [][] 
  []
 
 File: figure/2class.pdf Graphic file (type pdf)
 <use figure/2class.pdf>
 
-Overfull \hbox (2.84544pt too wide) in paragraph at lines 285--288
+Overfull \hbox (2.84544pt too wide) in paragraph at lines 310--313
  [][] 
  []
 
+[20]
 File: figure/2order.pdf Graphic file (type pdf)
 <use figure/2order.pdf>
 
-Overfull \hbox (2.84544pt too wide) in paragraph at lines 297--300
+Overfull \hbox (2.84544pt too wide) in paragraph at lines 322--325
  [][] 
  []
 
-[19]
+[21]
 File: figure/2family.pdf Graphic file (type pdf)
 <use figure/2family.pdf>
 
-Overfull \hbox (2.84544pt too wide) in paragraph at lines 309--312
+Overfull \hbox (2.84544pt too wide) in paragraph at lines 334--337
  [][] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [20]
+[22]
 File: figure/2family.pdf Graphic file (type pdf)
 <use figure/2family.pdf>
 
-Overfull \hbox (2.84544pt too wide) in paragraph at lines 321--324
+Overfull \hbox (2.84544pt too wide) in paragraph at lines 346--349
  [][] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21]
+[23]
 File: figure/2lefse.pdf Graphic file (type pdf)
 <use figure/2lefse.pdf>
 
 
-LaTeX Warning: Float too large for page by 19.41374pt on input line 338.
+LaTeX Warning: Float too large for page by 19.41374pt on input line 363.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [22]
 File: figure/2shannon.pdf Graphic file (type pdf)
 <use figure/2shannon.pdf>
 File: figure/2simpson.pdf Graphic file (type pdf)
 <use figure/2simpson.pdf>
 
-[23]
-Invalid UTF-8 byte or sequence at line 360 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 360 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 360 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 360 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 360 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 360 replaced by U+FFFD.
+Underfull \vbox (badness 4967) has occurred while \output is active []
+
+ [24]
+Invalid UTF-8 byte or sequence at line 385 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 385 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 385 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 385 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 385 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 385 replaced by U+FFFD.
 File: figure/2ingroupweek.eps Graphic file (type eps)
 <figure/2ingroupweek.eps>
 
-Overfull \hbox (2.84544pt too wide) in paragraph at lines 360--363
+Overfull \hbox (2.84544pt too wide) in paragraph at lines 385--388
  [][] 
  []
 
-Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
+[25] [26]
+Invalid UTF-8 byte or sequence at line 396 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 396 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 396 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 396 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 396 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 396 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 396 replaced by U+FFFD.
 File: figure/2inweekgroup.eps Graphic file (type eps)
 <figure/2inweekgroup.eps>
 
-Overfull \hbox (31.29819pt too wide) in paragraph at lines 371--374
+Overfull \hbox (31.29819pt too wide) in paragraph at lines 396--399
  [][] 
  []
 
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 405 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 405 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 405 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 405 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 405 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 405 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 405 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 405 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 405 replaced by U+FFFD.
 File: figure/2necvscontrol.eps Graphic file (type eps)
 <figure/2necvscontrol.eps>
 
-Overfull \hbox (31.29819pt too wide) in paragraph at lines 380--383
+Overfull \hbox (31.29819pt too wide) in paragraph at lines 405--408
  [][] 
  []
 
-[24] [25]
-Invalid UTF-8 byte or sequence at line 391 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 391 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 391 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 391 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 391 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 391 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 391 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 391 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 416 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 416 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 416 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 416 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 416 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 416 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 416 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 416 replaced by U+FFFD.
 File: figure/2neccases.eps Graphic file (type eps)
 <figure/2neccases.eps>
 
-Overfull \hbox (31.29819pt too wide) in paragraph at lines 391--394
+Overfull \hbox (31.29819pt too wide) in paragraph at lines 416--419
  [][] 
  []
 
-[26] [27] [28]
-Missing character: There is no ​ in font ntx-Regular-tlf-t1!
-Missing character: There is no ​ in font ntx-Regular-tlf-t1!
+File: figure/2taxa.pdf Graphic file (type pdf)
+<use figure/2taxa.pdf>
 
+Overfull \hbox (31.29819pt too wide) in paragraph at lines 427--430
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 29.2166pt on input line 432.
+
+[27] [28] [29]
 Underfull \vbox (badness 1852) has occurred while \output is active []
 
- [29]
-[30]) [31] [32]
+ [30]
+[31] [32]
+Missing character: There is no ​ in font ntx-Regular-tlf-t1!
+Missing character: There is no ​ in font ntx-Regular-tlf-t1!
+ [33]) [34]
 \openout2 = `tex/chap3compare.aux'.
 
  (./tex/chap3compare.tex
 第三章
 Missing character: There is no μ in font ntx-Regular-tlf-t1!
-[33
+[35
 
 
 
-] [34]
+] [36]
 Overfull \hbox (11.19003pt too wide) in paragraph at lines 76--76
 []|\T1/ntxtlf/b/n/12.045 HAEC(n=4)| 
  []
@@ -3904,10 +3914,10 @@ Overfull \hbox (16.86682pt too wide) in paragraph at lines 74--84
  [][] 
  []
 
-) [35] [36]
+) [37] [38]
 \openout2 = `tex/summary.aux'.
 
- (./tex/summary.tex) [37
+ (./tex/summary.tex) [39
 
 
 
@@ -3921,7 +3931,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 12.045pt
 (hyperref)                replaced by space on input line 5.
 
-[38
+[40
 
 
 
@@ -3929,28 +3939,32 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no μ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
- [39]
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ™ in font ntx-Regular-tlf-t1!
-Missing character: There is no ™ in font ntx-Regular-tlf-t1!
- [40]
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
-Missing character: There is no ™ in font ntx-Regular-tlf-t1!
-Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+
+Underfull \vbox (badness 1688) has occurred while \output is active []
+
  [41]
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ™ in font ntx-Regular-tlf-t1!
+Missing character: There is no ™ in font ntx-Regular-tlf-t1!
+
+[42]
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+Missing character: There is no ™ in font ntx-Regular-tlf-t1!
+Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
+ [43]
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Missing character: There is no ∙ in font ntx-Regular-tlf-t1!
-) [42]
+) [44]
 \openout2 = `tex/app_archive.aux'.
 
  (./tex/app_archive.tex
@@ -3971,7 +3985,7 @@ STSong(0)/m/n/12.045 文 件，|  存 档 至 \T1/ntxtlf/m/n/12.045 Bio-Pro-ject
 n/12.045 的
  []
 
-) [43
+) [45
 
 
 
@@ -4001,11 +4015,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--24
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [44
+) [46
 
 
 
-] [45]
+] [47]
 \openout2 = `tex/app_figure.aux'.
 
  (./tex/app_figure.tex
@@ -4024,15 +4038,15 @@ Overfull \hbox (2.84544pt too wide) in paragraph at lines 11--14
  [][] 
  []
 
-) [46
+) [48
 
 
 
-] [47
+] [49
 
 
 
-] [48] [49]
+] [50] [51]
 *************************************************
 * fontspec warning: "script-not-exist"
 * 
@@ -4067,19 +4081,19 @@ LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
 . - 'normal' (m/n) with NFSS spec.: <->"STFangsong/OT"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-[50] [51] [52]
+[52] [53] [54]
 Overfull \hbox (15.37761pt too wide) in paragraph at lines 87--87
 \T1/ntxtlf/m/n/12.045 472(7341): 57^^U63. [][]$[][][][] [] [] [] [][][] [] [][]
 [][][][] [] [][][] [] [][][][][][][][] [] [][][][][][][][][][][] []
  []
 
-[53] [54] [55] [56] [57] [58]
+[55] [56] [57] [58] [59] [60]
 \openout2 = `tex/ack.aux'.
 
- (./tex/ack.tex) [59
+ (./tex/ack.tex) [61
 
 
-] [60]
+] [62]
 \openout2 = `tex/pub.aux'.
 
  (./tex/pub.tex
@@ -4089,14 +4103,14 @@ LaTeX Font Warning: Font shape `TU/STSong(0)/m/sc' undefined
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
 (Font)              scaled to size 8.0pt on input line 11.
-) [61
+) [63
 
 
 
 ]
 \openout2 = `tex/projects.aux'.
 
- (./tex/projects.tex) [62
+ (./tex/projects.tex) [64
 
 
 
@@ -4120,9 +4134,15 @@ Package pageslts Info: Total number of pages is even.
 (./tex/app_figure.aux) (./tex/ack.aux) (./tex/pub.aux) (./tex/projects.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 119.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: EC3D5E5B5A192814282A165E67557617.
 
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesis.out':
+(rerunfilecheck)             Before: AD610F921102E47D90D7E064BC1C683A
+(rerunfilecheck)             After:  AA0B28CA8A7590F14F6BC14FA145B96A.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -4135,16 +4155,16 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
  )
 (\end occurred inside a group at level 2)
 
-### simple group (level 2) entered at line 269 ({)
-### simple group (level 1) entered at line 269 ({)
+### simple group (level 2) entered at line 294 ({)
+### simple group (level 1) entered at line 294 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 52891 strings out of 492970
- 1096387 string characters out of 6133937
- 1671545 words of memory out of 5000000
- 55908 multiletter control sequences out of 15000+600000
+ 52903 strings out of 492970
+ 1095916 string characters out of 6133937
+ 1673062 words of memory out of 5000000
+ 55918 multiletter control sequences out of 15000+600000
  661297 words of font info for 213 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  62i,12n,94p,10409b,5316s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (82 pages).
+Output written on thesis.pdf (84 pages).

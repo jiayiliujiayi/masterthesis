@@ -22,7 +22,7 @@
       \paragraph{入组标准}
       胎龄小于34周，出生体重不低于950g的早产儿。
       \paragraph{排除标准}
-      1）新生儿早发型败血症，2）肝脏疾病，3）肾功能损害（Cr>88μM），4）存在先天肠道发育异常，5）需要进行大型胸部或腹部手术（男性包皮环切术或动脉导管结扎除外），6）预计使用肠外营养（Parental Nutrition， PN）支持供应超过50％的每日热卡摄入量，且时间超过4天，7）静脉注射抗生素（除常规使用头孢噻肟、哌拉西他唑和甲硝唑），8）有口服抗生素史，9）有血便史，10）日龄大于五天者。
+      1）新生儿早发型败血症，2）肝脏疾病，3）肾功能损害（Cr>88μM），4）存在先天肠道发育异常，5）需要进行大型胸部或腹部手术（男性包皮环切术或动脉导管结扎除外），6）预计使用肠外营养（Parental Nutrition， PN）支持供应超过50%的每日热卡摄入量，且时间超过4天，7）静脉注射抗生素（除常规使用头孢噻肟、哌拉西他唑和甲硝唑），8）有口服抗生素史，9）有血便史，10）日龄大于五天者。
   \subsection{诊断标准}
   评估并记录入组患儿一般情况，临床症状体征、实验室检查及影像学检查等，观察其是否发生NEC（II期和III期）或LOS。
 
@@ -223,11 +223,27 @@
       \item 利用Wilcoxon秩和检验，对每一组中的亚组进行两两检验，在具有显著差异物种类中的所有亚种比较是否都趋同于同一分类级别。
     \end{enumerate}
 
+  \subsection{建模分析}
+    \subsubsection{根据采样时间点分组}
+    由于各患儿发病时间不尽相同，故建模前将其病程划分7个个阶段，再对每个阶段内的标本进行比较分析；具体划分标准如下：
+    \begin{enumerate}
+      \item 出生后早期（Early Post Partum， EPP）：出生后3天内；
+      \item 早发病前期（Early Pre-onset， EPO）： 出生后3天至发病前4天；
+      \item 晚发病前期（Late Pre-onset， LPO）： 发病前4天内；
+      \item 疾病早期（Early Disease， ED）：前1\/3病程；
+      \item 疾病中期（Middle Disease， MD）：中1\/3病程；
+      \item 疾病晚期（Late Disease， LD）：后1\/3病程；
+      \item 疾病后期（Post Disease， PD）：疾病痊愈至出院期间；
+    \end{enumerate}
+    \subsubsection{建模方法}
+    分别使用ZIBR (Zero-Inflated Beta Random Effect model)模型和LME(Linear Mixed-Effects Models)模型进行建模，寻找组间随时间变化最显著的菌群。使用zibr和lme R包。
+
+
 \section{结果}
   \subsection{患者基本情况}
-  2013年7月至2014年12月，共有1148名早产儿入院，其中5名在此期间诊断为坏死性小肠结肠炎（NEC）；发病率4.4％， 与总体发病率一致{rees2010national}。 在所有早产儿中，有130名符合我们的研究标准，并向其收集了1698份粪便标本。
+  2013年7月至2014年12月，共有1148名早产儿入院，其中5名在此期间诊断为坏死性小肠结肠炎（NEC）；发病率4.4%， 与总体发病率一致{rees2010national}。 在所有早产儿中，有130名符合我们的研究标准，并向其收集了1698份粪便标本。
 
-  本研究最终选择24个充分采样的早产儿，包括4名坏死性小肠结肠炎（NEC）患儿（2个IIA期和2个IIB期），3个迟发型败血症LOS和17个匹配对照（表S1）；共收集192个样本，其中NEC标本47个，LOS标本44个，对照组标本101个，并进行16s rRNA 基因测序。
+  本研究最终选择24个有足够样品数量（大于6个）的早产儿，包括4名坏死性小肠结肠炎（NEC）患儿（2个IIA期和2个IIB期），3个迟发型败血症LOS和17个匹配对照（表S1）；样本共192个，其中NEC标本45个，LOS标本44个，对照组标本103个，并进行16s rRNA 基因测序。
 
   本研究中， 所有早产儿的平均胎龄为30.5周（28至33周），平均出生体重为1440克（945克至1950克）。 NEC组有3名女婴和1名男婴，LOS组有2名女婴和1名男婴，对照组有9名女婴和8名男婴。所有患儿均通过剖宫产分娩，并以早产儿配方奶喂养。 NEC的平均发病时间为出生后16天（范围：11至19天），确诊为LOS的平均生命日为12天（图\ref{fig:2dol}）。三组的人口统计学比较（表\ref{tab:necdemographic}）显示，在胎龄，出生体重和性别百分比方面未见显著差异。
 
@@ -260,7 +276,16 @@
   }
 
   \subsection{样本及测序信息}
-  入选NEC患儿4例，LOS患儿3例， 对照组患儿17例。采集其纵向粪便标本，共192个，其中NEC标本47个，LOS标本44个，对照组标本101个。其他临床资料见表\ref{tab:necdemographic}。
+  入选NEC患儿4例，LOS患儿3例， 对照组患儿17例。采集其纵向粪便标本，共192个，其中NEC标本47个，LOS标本44个，对照组标本101个（图\ref{fig:2scheme}）。其他临床资料见表\ref{tab:necdemographic}。
+  \begin{figure}[!htp]
+    \centering
+    \includegraphics[width=15cm]{2scheme.pdf}
+    \bicaption[研究流程]
+      {研究流程。}
+      {Schematic of the Study.}
+    \label{fig:2scheme}
+  \end{figure}
+
 
   使用Illumina MiSeq高通量测序、优化后，得到7,472,400条16s rRNA基因序列，碱基数目共3348030799；优化碱基数目为3348,030,799，优化平均序列长度为448bp。
   \subsection{分类学分析}
@@ -390,10 +415,32 @@
             \centering
             \includegraphics[width=16cm]{2neccases.eps}
             \bicaption[三名NEC患儿出生后菌群定植模式]
-              {使用weighed unifrac三名NEC患儿出生后菌群定植模式进行PCoA分析。(A)NEC patient No.1, (B)NEC patient No.1, (C)NEC patient No.1, (D)NEC patient No.1}
-              {The PCoA OF post-partum colonization of each NEC patient. (A)NEC patient No.1, (B)NEC patient No.1, (C)NEC patient No.1, (D)NEC patient No.1}
+              {使用weighed unifrac三名NEC患儿出生后菌群定植模式进行PCoA分析。(A)NEC patient No.1, (B)NEC patient No.2, (C)NEC patient No.3, (D)NEC patient No.4}
+              {The PCoA OF post-partum colonization of each NEC patient. (A)NEC patient No.1, (B)NEC patient No.2, (C)NEC patient No.3, (D)NEC patient No.4}
             \label{fig:2neccases}
           \end{figure}
+
+      \subsection{基于菌属分对纵向菌群定植模式进行分析和建模}
+      % 菌属随时间变化规律
+      \begin{figure}[!htp]
+        \centering
+        \includegraphics[width=16cm]{2taxa.pdf}
+        \bicaption[三组患儿肠道菌群在菌属水平的定植情况]
+          {使用冲击图展示三组患儿出生后菌属定植模式。(A)对照组 (B)NEC组, (C)LOS组}
+          {The genus trend among three groups using alluvial plot. (A)control group (B)NEC group, (C)LOS group}
+        \label{fig:2taxa}
+      \end{figure}
+
+      在产后早期阶段（Early Post Partum），三组患儿肠道乳球菌（\textit{Lactococcus}），杆菌（\textit{Bacillus}）和单胞菌(\textit{Pseudomonas})丰度均较高。同时，ZIBR模型显示NEC和LOS组中，代表杆菌（\textit{Bacillus}）（NEC 15.05\%，LOS 15.97\%）和(\textit{Solibacillus})（NEC 8.88\%，LOS 9.61\%）的OTU丰度显著高于对照组（\textit{Bacillus} 6.02\%，p = 0.032；\textit{Solibacillus} 3.65\%，p = 0.047）。此外，肠球菌(\textit{Enterococcus})（图\ref{fig:2taxa}（B），紫色区域）在LOS患者（20.72\%）肠道中的丰度显著高于对照组（6.66\%，图\ref{fig:2taxa}（A），紫色区域），但在NEC患者中几乎不存在（0.51\%）（图\ref{fig:2taxa}（B））。
+
+      从出生后（Early Post Partum）到疾病早期（Early Disease），三组均有克雷伯菌(\textit{Klebsiella})和埃希-志贺菌(\textit{Escherichia-Shigella})的增加以及乳球菌(\textit{Lactococcus})减少，但三组之间的变化率不同。 LOS组表现出最剧烈的变化，表现为克雷伯菌(\textit{Klebsiella})（从4.71\%到58.90\%），埃希-志贺菌(\textit{Escherichia-Shigella})（从2.02\%到18.16\%）和链球菌(\textit{Streptococcus})（从1.22\%到12.68\%）迅速增长（图\ref{fig:2taxa}（C））。这三个菌属占总菌群的近100\%（图\ref{fig:2taxa}（C））。此外，\textit{Lactococcus}比其他组下降得更快，从出生后（Early Post Partum）的24.54\%降至晚发病前期（LPO）到 0.94\%（出生后（Early Post Partum）（C）洋红色区域）。
+
+      此外，NEC组克雷伯菌(\textit{Klebsiella})的增加速率较低（图\ref{fig:2taxa}），从EPP阶段7.17\%到ED阶段35.63\%， 而肠球菌（\textit{Enterococcus}）、葡球菌（\textit{Staphylococcus}）和链球菌（\textit{Streptococcus}）增速较快（图\ref{fig:2taxa} （B），紫色，深蓝和浅蓝色区域）。
+
+      随着NEC和LOS患者接受治疗、病情稳定，其菌属又经历了另一轮剧烈变化。最值得注意的是，在疾病阶段，肠球菌（\textit{Enterococcus}），克雷伯菌(\textit{Klebsiella})，葡球菌（\textit{Staphylococcus}）和\textit{Peptoclostridium}在两组均有剧烈波动（图\ref{fig:2taxa}（B）和（C）），阶段ED到LD），这可能是由两组患儿接受不同种类的治疗所导致。有趣的是，随着患者接近缓解期，菌群的组成和丰度发展变得更加平衡并且更类似于正常对照组。
+
+      总之，相对于对照组中的患者，我们观察到NEC和LOS患者中细菌组成的不同时间变化模式。早在发病前早期就发现某些属的相对丰度的快速变化，并且在LOS患者中最为显着。
+
 
 \section{讨论}
 在人类肠道黏膜中定植了超过10万亿个微生物\cite{Ley2006}，并在方方面面影响人类的健康\cite{Sekirov2009}。肠道微环境紊乱可能扰乱人体稳态并导致各种疾病，包括肥胖\cite{Liu2017}），IBD\cite{Ley2006}，心血管疾病\cite{Wang2011}，以及精神障碍\cite{Rogers2016}等。虽然早期细菌定植对人类健康的长期影响仍然缺乏证据，但它仍然是新生儿出生后健康或某些疾病易感性的重要因素。到目前为止，少有研究关注NEC菌群的纵向发展，另外，对于新生儿晚期败血症（Late-Onset Sepsis，LOS）的菌群研究也十分有限。近期有研究发现NEC的致病菌与梭菌（\textit{Clostridium})增殖相关\cite{hosny2017updating}。然而，特定病原体尚未确定；2013年的一项研究表明，在生命的4-9天内早期的生态失调可能与NEC病理生理学密切相关\cite{morrow2013early}。因此，为在菌群层面提供对其病因学的新见解，本研究致力于探究肠道菌群定植的发展模式，而非寻找单一病原体。
@@ -407,14 +454,12 @@
 另一项研究发现，早产儿肠道微生物群的定植和突然变化可能是分娩方式，喂养类型和孕龄的结果\cite{Dutta2014}。以往研究在早产儿中观察到从芽孢杆菌，$\gamma$芽孢杆菌到梭菌的一系列细菌\cite{LaRosa2014}）的先后主导作用在本研究内在包括LOS患者在内的大多数研究受试者中也观察到。本研究证实了出生后以周为时间单位的细菌定植模式，并发现每组肠道微生物群在不同组患儿间存在的显着差异。此外，本研究数据显示，在出生后第14天，NEC和对照组之间的肠道微生物群显着不同，尽管在出生后的前14天内具有相似的定植模式（图\ref{fig:2ingroupweek})，Anosim r = 0.32 p = 0.001），表明肠道微生态失调与NEC发病之间的强相关性。最后，肠道微生物群在出生后第21天至第28天的差异（图\ref{fig:2ingroupweek}，ANOSIM r = 0.27，p = 0.030）表明在NEC进展期间持续的生态失调，这与之前的横断面研究一致\cite{Wang2009}。
 
 \section{结论}
-多年来，临床医生和科研工作者在不断努力探究NEC和LOS与肠道菌群的相关性。虽然尚未阐明特定的病原体或微生物模式，但现有的研究结果有助于改善临床策略，并最大限度地减少早产儿的并发症。
+本研究使用高通量测序描述、比较和分析早产儿出生后肠道微生物群的动态模式在NEC和LOS早产儿中的作用的研究。我们的研究结果结果支持了“肠道生态失调假说”，即肠道微生物群的“异常动态定制模式”是早产儿NEC和LOS发生进展的重要因素。具体来说：
 
-本研究使用高通量测序描述、比较和分析早产儿出生后肠道微生物群的动态模式在NEC和LOS早产儿中的作用的研究。我们的研究结果结果支持了“肠道生态失调假说”，即肠道微生物群的“异常动态定制模式”是早产儿NEC和LOS发生进展的重要因素。
+1. 早产儿出生后第2周起，肠道菌群定植模式出现紊乱并逐渐发展为早产特定感染，NEC和LOS分别呈现不同的纵向变化规律，包括不同致病菌属的丰度增加及菌群多样性不同程度的降低，并且与临床变化相关。
 
-肠道菌群失调和潜在致病菌的过度增殖与NEC和LOS进展至关重要，抗生素（特别是氨基糖苷类抗生素），可以减少早产儿肠道微生物群落的丰度和多样性。
+2. 肠道菌群失调和潜在致病菌的过度增殖与NEC和LOS进展至关重要，抗生素（特别是氨基糖苷类抗生素），可以减少早产儿肠道微生物群落的丰度和多样性。
 
-本研究发现早产儿出生后以周为时间单位的肠道菌群变化模式。早产儿出生后第2周起，肠道菌群定植模式出现紊乱并逐渐发展为早产特定感染，NEC和LOS分别呈现不同的纵向变化规律，包括不同致病菌属的丰度增加及菌群多样性不同程度的降低，并且与临床变化相关。
-
-本研究以及其他类似相关研究在肠道菌群动态变化和构成方面提供了早产儿NEC和LOS发生和发展的证据，从而帮助其早期预防、诊断和治疗，以降低其发病率和严重程度。
+3. NEC发病与潜在致病菌属肠球菌、葡球菌和链球菌的过度增殖相关，LOS发病与克雷伯菌过度增值相关。
 
 当然，本研究有其局限性。首先，本研究中的所有婴儿均采用配方奶进行喂养，因此无法评估人类母乳的保护作用。由于所有患儿入院时均的经验性抗生素方案，因此经验型抗生素对对肠道微生物群的影响无法完全避免。但是，三组横向及纵向比较研究方法可以最大程度找到差异影响因素。此外，NEC和LOS组样本量比较小。本研究结果仍需要在更大样本量的验证。
