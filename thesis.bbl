@@ -4964,6 +4964,650 @@
       \range{pages}{8}
       \keyw{elhalaby1995enterocolitis}
     \endentry
+    \entry{imamura1992mucosal}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9e93d8080fadc802dc3b3cfef4a37916}{%
+           family={Imamura},
+           familyi={I\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c8b6f579eae348181f1c268a02570403}{%
+           family={Puri},
+           familyi={P\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ed7204cbed2ba40873cb7d83f0ababe1}{%
+           family={O'Briain},
+           familyi={O\bibinitperiod},
+           given={DS},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f02cf96fad3e07c15d013314df16ff68}{%
+           family={Reen},
+           familyi={R\bibinitperiod},
+           given={DJ},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BMJ Publishing Group}%
+      }
+      \strng{namehash}{ac0b312ddbde8333758c5f9f60ad5f10}
+      \strng{fullhash}{03c96b090354cb48d24d75eed0dbe4af}
+      \strng{bibnamehash}{ac0b312ddbde8333758c5f9f60ad5f10}
+      \strng{authorbibnamehash}{ac0b312ddbde8333758c5f9f60ad5f10}
+      \strng{authornamehash}{ac0b312ddbde8333758c5f9f60ad5f10}
+      \strng{authorfullhash}{03c96b090354cb48d24d75eed0dbe4af}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Gut}
+      \field{number}{6}
+      \field{title}{Mucosal immune defence mechanisms in enterocolitis complicating Hirschsprung's disease.}
+      \field{usera}{J}
+      \field{userd}{M}
+      \field{usere}{Imamura, A and Puri, P and O'Briain, DS and Reen, DJ}
+      \field{userf}{Imamura, A and Puri, P and O'Briain, DS and Reen, DJ}
+      \field{volume}{33}
+      \field{year}{1992}
+      \field{dateera}{ce}
+      \field{pages}{801\bibrangedash 806}
+      \range{pages}{6}
+      \keyw{imamura1992mucosal}
+    \endentry
+    \entry{Downard2012Treatment}{article}{}
+      \name{author}{10}{}{%
+        {{hash=6764cbe5b64cb65c12e1cec6fc82d092}{%
+           family={Downard},
+           familyi={D\bibinitperiod},
+           given={C.\bibnamedelimi D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=da2f4cf9bbebe09528cb0f6ebf3ba102}{%
+           family={Renaud},
+           familyi={R\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=eff77b308415d709561c150b88cc6fe6}{%
+           family={St\bibnamedelima Peter},
+           familyi={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={S.\bibnamedelimi D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=369dfb87765f7e7033caa65cc1bf7e56}{%
+           family={Abdullah},
+           familyi={A\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b8fbdcebc28145a973312fe0f1466582}{%
+           family={Islam},
+           familyi={I\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1394545ee2f5560cf61676c1e8f4c258}{%
+           family={Saito},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=434950e0b7afd2ae137cb69f9652b445}{%
+           family={Blakely},
+           familyi={B\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=fcec8107f2e60df79c4f9f52281dfb08}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={E.\bibnamedelimi Y.},
+           giveni={E\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=b38e7cf65ca852d145ee10d30f71a41b}{%
+           family={Arca},
+           familyi={A\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2186589b1a24b4e7b4b5c152b571d7de}{%
+           family={Cassidy},
+           familyi={C\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{9be2334f4575fb020dffcc345ea0f69c}
+      \strng{fullhash}{b9c37a743dd7e1360e37b2c954c87efd}
+      \strng{bibnamehash}{9be2334f4575fb020dffcc345ea0f69c}
+      \strng{authorbibnamehash}{9be2334f4575fb020dffcc345ea0f69c}
+      \strng{authornamehash}{9be2334f4575fb020dffcc345ea0f69c}
+      \strng{authorfullhash}{b9c37a743dd7e1360e37b2c954c87efd}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Pediatric Surgery}
+      \field{number}{11}
+      \field{title}{Treatment of necrotizing enterocolitis: an American Pediatric Surgical Association Outcomes and Clinical Trials Committee systematic review}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Downard, C. D. and Renaud, E and St Peter, S. D. and Abdullah, F and Islam, S and Saito, J. M. and Blakely, M. L. and Huang, E. Y. and Arca, M. J. and Cassidy, L}
+      \field{userf}{Downard, C. D. and Renaud, E and St Peter, S. D. and Abdullah, F and Islam, S and Saito, J. M. and Blakely, M. L. and Huang, E. Y. and Arca, M. J. and Cassidy, L}
+      \field{volume}{47}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{2111\bibrangedash 2122}
+      \range{pages}{12}
+      \keyw{Downard2012Treatment}
+    \endentry
+    \entry{Santha2017Mucosal}{article}{}
+      \name{author}{6}{}{%
+        {{hash=3a29842ae20ea974ebb27f3b83092e08}{%
+           family={Santha},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=444c9b1a63d491c6cbddacd496fec177}{%
+           family={Shankar},
+           familyi={S\bibinitperiod},
+           given={P.\bibnamedelimi R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=82a83f7ea1530df1e125263d616b52f4}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bcc40f07e6172895287f65d6f697f849}{%
+           family={Schoen},
+           familyi={S\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=3c372452c17e0bf935c0c386d6c4e639}{%
+           family={Kugathasan},
+           familyi={K\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ba1e273d34684aae8f1410b4a3453d07}{%
+           family={Sauer},
+           familyi={S\bibinitperiod},
+           given={C.\bibnamedelimi G.},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1a261efceaa2bc6eb7bf69d9c1dc81b}
+      \strng{fullhash}{e0d97a0d852c7d24c57931f9ac0cd1a7}
+      \strng{bibnamehash}{c1a261efceaa2bc6eb7bf69d9c1dc81b}
+      \strng{authorbibnamehash}{c1a261efceaa2bc6eb7bf69d9c1dc81b}
+      \strng{authornamehash}{c1a261efceaa2bc6eb7bf69d9c1dc81b}
+      \strng{authorfullhash}{e0d97a0d852c7d24c57931f9ac0cd1a7}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Inflammatory Bowel Diseases}
+      \field{number}{8}
+      \field{title}{Mucosal Healing in Clinical Practice: A Single-Center Pediatric IBD Experience.}
+      \field{usera}{J}
+      \field{userd}{M}
+      \field{usere}{Santha, S. L. and Shankar, P. R. and Pan, A. and Schoen, B and Kugathasan, S and Sauer, C. G.}
+      \field{userf}{Santha, S. L. and Shankar, P. R. and Pan, A. and Schoen, B and Kugathasan, S and Sauer, C. G.}
+      \field{volume}{23}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{1}
+      \range{pages}{1}
+      \keyw{Santha2017Mucosal}
+    \endentry
+    \entry{Denning2016Pathogenesis}{article}{}
+      \name{author}{5}{}{%
+        {{hash=52e442223f083c4192e06459477a81d4}{%
+           family={Denning},
+           familyi={D\bibinitperiod},
+           given={T.\bibnamedelimi L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=19c7424872099edc40f6eb7ef653cb16}{%
+           family={Bhatia},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=38846e871de493d06c727d8166f65d44}{%
+           family={Kane},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=86e0aaa7906bb41e111c327746bae532}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e4563a85f9a94802ddfacd7fdc52546b}{%
+           family={Denning},
+           familyi={D\bibinitperiod},
+           given={P.\bibnamedelimi L.},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{acaf756f3b0af723df3cc5d1ca988206}
+      \strng{fullhash}{927b35dfe13369963a29520bdb491dc3}
+      \strng{bibnamehash}{acaf756f3b0af723df3cc5d1ca988206}
+      \strng{authorbibnamehash}{acaf756f3b0af723df3cc5d1ca988206}
+      \strng{authornamehash}{acaf756f3b0af723df3cc5d1ca988206}
+      \strng{authorfullhash}{927b35dfe13369963a29520bdb491dc3}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Seminars in Perinatology}
+      \field{number}{1}
+      \field{title}{Pathogenesis of NEC: Role of the innate and adaptive immune response.}
+      \field{usera}{J}
+      \field{userd}{P}
+      \field{usere}{Denning, T. L. and Bhatia, A. M. and Kane, A. F. and Patel, R. M. and Denning, P. L.}
+      \field{userf}{Denning, T. L. and Bhatia, A. M. and Kane, A. F. and Patel, R. M. and Denning, P. L.}
+      \field{volume}{41}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{15\bibrangedash 28}
+      \range{pages}{14}
+      \keyw{Denning2016Pathogenesis}
+    \endentry
+    \entry{Hosny2017Updating}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bbb00261a46f7407eab6f9d94e02c0d1}{%
+           family={Hosny},
+           familyi={H\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1fba96d8578af1f0b3b7e036b8ff424f}{%
+           family={Cassir},
+           familyi={C\bibinitperiod},
+           given={Nadim},
+           giveni={N\bibinitperiod}}}%
+        {{hash=effc76aab75a528a48f9a6ed36df2f45}{%
+           family={Scola},
+           familyi={S\bibinitperiod},
+           given={Bernard\bibnamedelima La},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{d74fefbeb828f2620dc316e7a370f62c}
+      \strng{fullhash}{d74fefbeb828f2620dc316e7a370f62c}
+      \strng{bibnamehash}{d74fefbeb828f2620dc316e7a370f62c}
+      \strng{authorbibnamehash}{d74fefbeb828f2620dc316e7a370f62c}
+      \strng{authornamehash}{d74fefbeb828f2620dc316e7a370f62c}
+      \strng{authorfullhash}{d74fefbeb828f2620dc316e7a370f62c}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human Microbiome Journal}
+      \field{title}{Updating on gut microbiota and its relationship with the occurrence of necrotizing enterocolitis}
+      \field{usera}{J}
+      \field{userd}{U}
+      \field{usere}{Hosny, Michel and Cassir, Nadim and Scola, Bernard La}
+      \field{userf}{Hosny, Michel and Cassir, Nadim and Scola, Bernard La}
+      \field{volume}{4}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{14\bibrangedash 19}
+      \range{pages}{6}
+      \keyw{Hosny2017Updating}
+    \endentry
+    \entry{Yan2014Characterization}{article}{}
+      \name{author}{8}{}{%
+        {{hash=a0ffc845b2cf500aed25cff5494bdbaa}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Zhilong},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=3e06307ec9ca271758bf83a532cb236c}{%
+           family={Poroyko},
+           familyi={P\bibinitperiod},
+           given={Valeriy},
+           giveni={V\bibinitperiod}}}%
+        {{hash=46fa90f687a61341e6a8ed7e13babf74}{%
+           family={Gu},
+           familyi={G\bibinitperiod},
+           given={Song},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fcdb4c7704baa79893b29d652aecc77f}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zheng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=7e8e5072b4a5998ea4ed39925c2221aa}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Liya},
+           giveni={L\bibinitperiod}}}%
+        {{hash=49a19e08791a3dc09c932ff975949361}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5655a42b577ad20aa0671baf9425ab5f}{%
+           family={Bao},
+           familyi={B\bibinitperiod},
+           given={Nan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=ebd955e63991939ec63f2d07e85566b4}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{c982d3353fb2a03632c7b2b3d42b41f4}
+      \strng{fullhash}{c68b23e24c47a7993f40f81f3f28171a}
+      \strng{bibnamehash}{c982d3353fb2a03632c7b2b3d42b41f4}
+      \strng{authorbibnamehash}{c982d3353fb2a03632c7b2b3d42b41f4}
+      \strng{authornamehash}{c982d3353fb2a03632c7b2b3d42b41f4}
+      \strng{authorfullhash}{c68b23e24c47a7993f40f81f3f28171a}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biochem Biophys Res Commun}
+      \field{number}{2}
+      \field{title}{Characterization of the intestinal microbiome of Hirschsprung’s disease with and without enterocolitis}
+      \field{usera}{J}
+      \field{userd}{C}
+      \field{usere}{Yan, Zhilong and Poroyko, Valeriy and Gu, Song and Zhang, Zheng and Pan, Liya and Wang, Jing and Bao, Nan and Hong, Li}
+      \field{userf}{Yan, Zhilong and Poroyko, Valeriy and Gu, Song and Zhang, Zheng and Pan, Liya and Wang, Jing and Bao, Nan and Hong, Li}
+      \field{volume}{445}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{269\bibrangedash 274}
+      \range{pages}{6}
+      \keyw{Yan2014Characterization}
+    \endentry
+    \entry{Li2016Characterization}{article}{}
+      \name{author}{8}{}{%
+        {{hash=a6f3f7483580556386f102c6bf356d04}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yuqing},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8083519e7d7acfa4f32ef3a7215140fb}{%
+           family={Valeriy},
+           familyi={V\bibinitperiod},
+           given={Poroyko},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a0ffc845b2cf500aed25cff5494bdbaa}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Zhilong},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=7e8e5072b4a5998ea4ed39925c2221aa}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Liya},
+           giveni={L\bibinitperiod}}}%
+        {{hash=aac961233ee7b43cb3acce388e67de36}{%
+           family={Yi},
+           familyi={Y\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=c598d13d484b5a3e57a00e083fc56a75}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Peihua},
+           giveni={P\bibinitperiod}}}%
+        {{hash=af123491e62320cd5ac153592ebf4a49}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Zhoulonglong},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=eec8767f98fee28ac3088978d51c4432}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{e126220f65921e0abb36921fc2a28b4b}
+      \strng{fullhash}{dc10134be8875a002ec0be2e4f43de47}
+      \strng{bibnamehash}{e126220f65921e0abb36921fc2a28b4b}
+      \strng{authorbibnamehash}{e126220f65921e0abb36921fc2a28b4b}
+      \strng{authornamehash}{e126220f65921e0abb36921fc2a28b4b}
+      \strng{authorfullhash}{dc10134be8875a002ec0be2e4f43de47}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Plos One}
+      \field{number}{9}
+      \field{title}{Characterization of Intestinal Microbiomes of Hirschsprung’s Disease Patients with or without Enterocolitis Using Illumina-MiSeq High-Throughput Sequencing:}
+      \field{usera}{J}
+      \field{userd}{C}
+      \field{usere}{Li, Yuqing and Valeriy, Poroyko and Yan, Zhilong and Pan, Liya and Yi, Feng and Zhao, Peihua and Xie, Zhoulonglong and Li, Hong}
+      \field{userf}{Li, Yuqing and Valeriy, Poroyko and Yan, Zhilong and Pan, Liya and Yi, Feng and Zhao, Peihua and Xie, Zhoulonglong and Li, Hong}
+      \field{volume}{11}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{e0162079}
+      \range{pages}{-1}
+      \keyw{Li2016Characterization}
+    \endentry
+    \entry{Nakamura2017Inflammatory}{article}{}
+      \name{author}{3}{}{%
+        {{hash=28de81b9847b60c34ad3edf35d289251}{%
+           family={Nakamura},
+           familyi={N\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8a0620bfce9f12ab6dfe9d1a3a67c803}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d9dbe4af5b3c29a7b838ce99ee29f00e}{%
+           family={Puri},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{71a145625f4dfdc06bb882d00e0142b2}
+      \strng{fullhash}{71a145625f4dfdc06bb882d00e0142b2}
+      \strng{bibnamehash}{71a145625f4dfdc06bb882d00e0142b2}
+      \strng{authorbibnamehash}{71a145625f4dfdc06bb882d00e0142b2}
+      \strng{authornamehash}{71a145625f4dfdc06bb882d00e0142b2}
+      \strng{authorfullhash}{71a145625f4dfdc06bb882d00e0142b2}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pediatric Surgery International}
+      \field{number}{Suppl 1}
+      \field{title}{Inflammatory bowel disease in patients with Hirschsprung’s disease: a systematic review and meta-analysis}
+      \field{usera}{J}
+      \field{userd}{I}
+      \field{usere}{Nakamura, H. and Lim, T. and Puri, P.}
+      \field{userf}{Nakamura, H. and Lim, T. and Puri, P.}
+      \field{volume}{34}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \keyw{Nakamura2017Inflammatory}
+    \endentry
+    \entry{stewart2018temporal}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=6b6d902d5e2052ecbf17c434cad654c6}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Christopher\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b1ccc6389d6d11e0ee053d23a0b35c17}{%
+           family={Ajami},
+           familyi={A\bibinitperiod},
+           given={Nadim\bibnamedelima J},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=14180ed9cb74e04301c6a0b09b680b61}{%
+           family={O’Brien},
+           familyi={O\bibinitperiod},
+           given={Jacqueline\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3dd4bb6517927ace163913581ad49954}{%
+           family={Hutchinson},
+           familyi={H\bibinitperiod},
+           given={Diane\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=6d4f9eeff860ed979764564f4efd3698}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Daniel\bibnamedelima P},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=d2c317483392837464abb2093342066b}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Matthew\bibnamedelima C},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=a3d8cc29f3c1113c0d4ecc4018966cad}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Matthew\bibnamedelima C},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=8cd74774d74053289c1a2b735eff23b1}{%
+           family={Lloyd},
+           familyi={L\bibinitperiod},
+           given={Richard\bibnamedelima E},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=41b850d93f845b0de3df972719150b6e}{%
+           family={Doddapaneni},
+           familyi={D\bibinitperiod},
+           given={HarshaVardhan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ceaa3f11a49c317d758ff48df22cddbd}{%
+           family={Metcalf},
+           familyi={M\bibinitperiod},
+           given={Ginger\bibnamedelima A},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{7b6ecadbc794623bc73453c9c0270f3f}
+      \strng{fullhash}{8607143a1687546dd10926abc56abdb9}
+      \strng{bibnamehash}{7b6ecadbc794623bc73453c9c0270f3f}
+      \strng{authorbibnamehash}{7b6ecadbc794623bc73453c9c0270f3f}
+      \strng{authornamehash}{7b6ecadbc794623bc73453c9c0270f3f}
+      \strng{authorfullhash}{8607143a1687546dd10926abc56abdb9}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{7728}
+      \field{title}{Temporal development of the gut microbiome in early childhood from the TEDDY study}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Stewart, Christopher J and Ajami, Nadim J and O’Brien, Jacqueline L and Hutchinson, Diane S and Smith, Daniel P and Wong, Matthew C and Ross, Matthew C and Lloyd, Richard E and Doddapaneni, HarshaVardhan and Metcalf, Ginger A and others}
+      \field{userf}{Stewart, Christopher J and Ajami, Nadim J and O’Brien, Jacqueline L and Hutchinson, Diane S and Smith, Daniel P and Wong, Matthew C and Ross, Matthew C and Lloyd, Richard E and Doddapaneni, HarshaVardhan and Metcalf, Ginger A and others}
+      \field{volume}{562}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{583}
+      \range{pages}{1}
+      \keyw{stewart2018temporal}
+    \endentry
+    \entry{Sj2010Influence}{article}{}
+      \name{author}{7}{}{%
+        {{hash=64f83db351c35e3b1dcc010ea819592b}{%
+           family={Sjögren},
+           familyi={S\bibinitperiod},
+           given={Y.\bibnamedelimi M},
+           giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=37344c3b68334a0b58caca7159f5f8cf}{%
+           family={Tomicic},
+           familyi={T\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fd891f5d492e9c506210683a7e0ebca0}{%
+           family={Lundberg},
+           familyi={L\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2ac4c59b92b2ad6b9068078827b6d34a}{%
+           family={Böttcher},
+           familyi={B\bibinitperiod},
+           given={M.\bibnamedelimi F},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=77e900dec5e8ac7f2dc12e7e7517c299}{%
+           family={Björkstén},
+           familyi={B\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e53ea417fc4102dccae50460bd742702}{%
+           family={Sverremarkekström},
+           familyi={S\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=5b7c7026e050c7fd2f2f8699bd394403}{%
+           family={Jenmalm},
+           familyi={J\bibinitperiod},
+           given={M.\bibnamedelimi C},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ef59b4312bca00443058b97114a9ec7}
+      \strng{fullhash}{7dada74a0e2d05a113e97a77e42587af}
+      \strng{bibnamehash}{1ef59b4312bca00443058b97114a9ec7}
+      \strng{authorbibnamehash}{1ef59b4312bca00443058b97114a9ec7}
+      \strng{authornamehash}{1ef59b4312bca00443058b97114a9ec7}
+      \strng{authorfullhash}{7dada74a0e2d05a113e97a77e42587af}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical \& Experimental Allergy}
+      \field{number}{12}
+      \field{title}{Influence of early gut microbiota on the maturation of childhood mucosal and systemic immune responses.}
+      \field{usera}{J}
+      \field{userd}{I}
+      \field{usere}{Sjögren, Y. M and Tomicic, S and Lundberg, A and Böttcher, M. F and Björkstén, B and Sverremarkekström, E and Jenmalm, M. C}
+      \field{userf}{Sjögren, Y. M and Tomicic, S and Lundberg, A and Böttcher, M. F and Björkstén, B and Sverremarkekström, E and Jenmalm, M. C}
+      \field{volume}{39}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{1842\bibrangedash 1851}
+      \range{pages}{10}
+      \keyw{Sj2010Influence}
+    \endentry
+    \entry{Ben2014Microbiota}{article}{}
+      \name{author}{4}{}{%
+        {{hash=11a28209778f299c41b056fb90591448}{%
+           family={Benítez-Páez},
+           familyi={B\bibinithyphendelim P\bibinitperiod},
+           given={Alfonso},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d95154bcef275b032f76f8e085421abd}{%
+           family={Belda-Ferre},
+           familyi={B\bibinithyphendelim F\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e59dcd7e560f494ab00cc827e5dbcf73}{%
+           family={Simón-Soro},
+           familyi={S\bibinithyphendelim S\bibinitperiod},
+           given={Aurea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8e8c04aaafe81876bb7b3f0ab187afaf}{%
+           family={Mira},
+           familyi={M\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{19b289c76858e7c9f469ac64fa196002}
+      \strng{fullhash}{6994379c1cc322a64a6ba8c50170d4cf}
+      \strng{bibnamehash}{19b289c76858e7c9f469ac64fa196002}
+      \strng{authorbibnamehash}{19b289c76858e7c9f469ac64fa196002}
+      \strng{authornamehash}{19b289c76858e7c9f469ac64fa196002}
+      \strng{authorfullhash}{6994379c1cc322a64a6ba8c50170d4cf}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Genomics,15,1(2014-04-27)}
+      \field{number}{1}
+      \field{title}{Microbiota diversity and gene expression dynamics in human oral biofilms}
+      \field{usera}{J}
+      \field{userd}{M}
+      \field{usere}{Benítez-Páez, Alfonso and Belda-Ferre, Pedro and Simón-Soro, Aurea and Mira, Alex}
+      \field{userf}{Benítez-Páez, Alfonso and Belda-Ferre, Pedro and Simón-Soro, Aurea and Mira, Alex}
+      \field{volume}{15}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{311\bibrangedash 311}
+      \range{pages}{1}
+      \keyw{Ben2014Microbiota}
+    \endentry
     \entry{Saxena2016}{book}{}
       \name{author}{2}{}{%
         {{hash=80e6600cb44b952566da8538e407224a}{%
@@ -4986,8 +5630,8 @@
       \strng{authorbibnamehash}{4e8519bf29641ade10df86b2b25d8f93}
       \strng{authornamehash}{4e8519bf29641ade10df86b2b25d8f93}
       \strng{authorfullhash}{4e8519bf29641ade10df86b2b25d8f93}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Medical and Health Genomics}
@@ -5034,8 +5678,8 @@
       \strng{authorbibnamehash}{4c20b9e2b9b3bcea40acf8bb27fed399}
       \strng{authornamehash}{4c20b9e2b9b3bcea40acf8bb27fed399}
       \strng{authorfullhash}{4c20b9e2b9b3bcea40acf8bb27fed399}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{applicability for this approach.}
@@ -5099,8 +5743,8 @@
       \strng{authorbibnamehash}{97f9f22ec420cb1f77999f22d6c7bc8b}
       \strng{authornamehash}{97f9f22ec420cb1f77999f22d6c7bc8b}
       \strng{authorfullhash}{188d9564b725bcdad2b7298442fdbccb}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The interplay between the host and host-associated gut microbiota is an area of increasing interest during the recent decade. From young infants to elderly people, from primitive tribes to modern societies, accumulating evidence has suggested the association of critical physiological roles of gut microbiota in the pathogenesis of a variety of human metabolic, immunological and neurological diseases. Importantly, it appears that the relationship between the gut microbiota and disease is bidirectional, instead of causal or consequential. Personalized nutritional and therapeutic strategies targeting the gut microbiota such as prebiotics, probiotics, drugs and fecal microbiota transplantation may create a new era in the human health.}
@@ -5158,8 +5802,8 @@
       \strng{authorbibnamehash}{3e4af672c283b418d6d2b7af0212e02f}
       \strng{authornamehash}{3e4af672c283b418d6d2b7af0212e02f}
       \strng{authorfullhash}{29ae626055bb0a9e4b264621a362ff7e}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature}
@@ -5195,8 +5839,8 @@
       \strng{authorbibnamehash}{662861bfa3b61a904cffe7c6476f4f5e}
       \strng{authornamehash}{662861bfa3b61a904cffe7c6476f4f5e}
       \strng{authorfullhash}{662861bfa3b61a904cffe7c6476f4f5e}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Paper suggesting that either microbiome of gut does not impact obesity, or that faecal studies are not representative of the 'real' intestinal microbiome}
@@ -5250,8 +5894,8 @@
       \strng{authorbibnamehash}{4cbb4ce973d54404a3d8c9f4e0fe29f4}
       \strng{authornamehash}{4cbb4ce973d54404a3d8c9f4e0fe29f4}
       \strng{authorfullhash}{6ec76922a946d1fff4756c76ee2d1fe6}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Science (New York, N.Y.)}
@@ -5301,8 +5945,8 @@
       \strng{authorbibnamehash}{3c9738623bbb8f8cac3aa5f295e2f56c}
       \strng{authornamehash}{3c9738623bbb8f8cac3aa5f295e2f56c}
       \strng{authorfullhash}{3c9738623bbb8f8cac3aa5f295e2f56c}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Since the completion of the human genome project in 2003, extraordinary progress has been made in genome sequencing technologies, which has led to a decreased cost per megabase and an increase in the number and diversity of sequenced genomes. An astonishing complexity of genome architecture has been revealed, bringing these sequencing technologies to even greater advancements. Some approaches maximize the number of bases sequenced in the least amount of time, generating a wealth of data that can be used to understand increasingly complex phenotypes. Alternatively, other approaches now aim to sequence longer contiguous pieces of DNA, which are essential for resolving structurally complex regions. These and other strategies are providing researchers and clinicians a variety of tools to probe genomes in greater depth, leading to an enhanced understanding of how genome sequence variants underlie phenotype and disease.}
@@ -5364,8 +6008,8 @@
       \strng{authorbibnamehash}{95b8378b1d9a8d3a62fb92cff0f7166d}
       \strng{authornamehash}{95b8378b1d9a8d3a62fb92cff0f7166d}
       \strng{authorfullhash}{95b8378b1d9a8d3a62fb92cff0f7166d}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The gut microbiota is a complex ecosystem that has a symbiotic relationship with its host. An association between the gut microbiota and disease was first postulated in the early 20(th) century. However, until the 1990s, knowledge of the gut microbiota was limited because bacteriological culture was the only technique available to characterize its composition. Only a fraction (estimated at {<}30{\%}) of the gut microbiota has been cultured to date. Since the 1990s, advances in culture-independent techniques have spearheaded our knowledge of the complexity of this ecosystem. These techniques have elucidated the microbial diversity of the gut microbiota and have shown that alterations in the gut microbiota composition and function are associated with certain disease states, such as IBD and obesity. These new techniques are fast, facilitate high throughput, identify organisms that are uncultured to date and enable enumeration of organisms present in the gut microbiota. This Review discusses the techniques that can used to characterize the gut microbiota, when they can be applied to human studies and their relative advantages and limitations.}
@@ -5420,8 +6064,8 @@
       \strng{authorbibnamehash}{041fcdd38410aba1d319275526de2de7}
       \strng{authornamehash}{041fcdd38410aba1d319275526de2de7}
       \strng{authorfullhash}{041fcdd38410aba1d319275526de2de7}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Sperm DNA damage has a significant impact on reproductive outcomes. In recent years, the search for optimal molecular markers for the evaluation of semen quality has resulted in the increased focus on sperm nuclear DNA assessment. The primary aim of this article was to review and summarize the effects of freezing-thawing procedure on nuclear DNA integrity of boar spermatozoa. Using different sperm DNA integrity assays, it has been confirmed that the sperm DNA undergoes structural changes during the freezing-thawing process. Evidence has been shown that a significant proportion of frozen-thawed spermatozoa with compromised chromatin integrity was highly susceptible to DNA fragmentation. Moreover, the possible mechanisms responsible for post-thaw sperm DNA damage could be because of cryo-induced oxidative stress and, to a lesser extent, to the activation of an apoptotic-like phenomenon. This review also highlights the ongoing effort employed to develop optimal strategies to reduce sperm DNA damage following freezing-thawing of boar semen.}
@@ -5510,8 +6154,8 @@
       \strng{authorbibnamehash}{96bd00bbd18b7d8f85877ca42a247b89}
       \strng{authornamehash}{96bd00bbd18b7d8f85877ca42a247b89}
       \strng{authorfullhash}{64da57c5e43d171e809dc2d3d5a5616e}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Intestinal luminal microbiota likely contribute to the etiology of necrotizing enterocolitis (NEC), a common disease in preterm infants. Microbiota development, a cascade of initial colonization events leading to the establishment of a diverse commensal microbiota, can now be studied in preterm infants using powerful molecular tools. Starting with the first stool and continuing until discharge, weekly stool specimens were collected prospectively from infants with gestational ages ≤32 completed weeks or birth weights≤1250 g. High throughput 16S rRNA sequencing was used to compare the diversity of microbiota and the prevalence of specific bacterial signatures in nine NEC infants and in nine matched controls. After removal of short and low quality reads we retained a total of 110,021 sequences. Microbiota composition differed in the matched samples collected 1 week but not {<}72 hours prior to NEC diagnosis. We detected a bloom (34{\%} increase) of Proteobacteria and a decrease (32{\%}) in Firmicutes in NEC cases between the 1 week and {<}72 hour samples. No significant change was identified in the controls. At both time points, molecular signatures were identified that were increased in NEC cases. One of the bacterial signatures detected more frequently in NEC cases (p{<}0.01) matched closest to $\gamma$-Proteobacteria. Although this sequence grouped to the well-studied Enterobacteriaceae family, it did not match any sequence in Genbank by more than 97{\%}. Our observations suggest that abnormal patterns of microbiota and potentially a novel pathogen contribute to the etiology of NEC.}
@@ -5579,8 +6223,8 @@
       \strng{authorbibnamehash}{c8a1c5565541e15bb0d4d406461dd21c}
       \strng{authornamehash}{c8a1c5565541e15bb0d4d406461dd21c}
       \strng{authorfullhash}{78df6dd183f9ac9b85e501c8a5e700b4}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1078-8956}
@@ -5644,8 +6288,8 @@
       \strng{authorbibnamehash}{6dbdca81e55fc255feeed208d3ed5ede}
       \strng{authornamehash}{6dbdca81e55fc255feeed208d3ed5ede}
       \strng{authorfullhash}{25a38ff54c7451dfefe55a96f2953b97}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Identifying intestinal microbiota is arguably an important task that is performed to determine the pathogenesis of inflammatory bowel diseases (IBD); thus, it is crucial to collect and analyze intestinally-associated microbiota. Analyzing a single niche to categorize individuals does not enable researchers to comprehensively study the spatial variations of the microbiota. Therefore, characterizing the spatial community structures of the inflammatory bowel disease microbiome is critical for advancing our understanding of the inflammatory landscape of IBD. However, at present there is no universally accepted consensus regarding the use of specific sampling strategies in different biogeographic locations. In this review, we discuss the spatial distribution when screening sample collections in IBD microbiota research. Here, we propose a novel model, a three-dimensional spatial community structure, which encompasses the x-, y-, and z-axis distributions; it can be used in some sampling sites, such as feces, colonoscopic biopsy, the mucus gel layer, and oral cavity. On the basis of this spatial model, this article also summarizes various sampling and processing strategies prior to and after DNA extraction and recommends guidelines for practical application in future research.}
@@ -5712,8 +6356,8 @@
       \strng{authorbibnamehash}{7e9b24323e8283889a1874eae61bb703}
       \strng{authornamehash}{7e9b24323e8283889a1874eae61bb703}
       \strng{authorfullhash}{4aa86922583e0214d1e63b9bbde6d66e}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the Formosan Medical Association= Taiwan yi zhi}
@@ -5778,8 +6422,8 @@
       \strng{authorbibnamehash}{a076b80463205a80a69c946c76161264}
       \strng{authornamehash}{a076b80463205a80a69c946c76161264}
       \strng{authorfullhash}{034406e4b48b3d5b0e66324681156a42}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC microbiology}
@@ -5848,8 +6492,8 @@
       \strng{authorbibnamehash}{1e615ac9b3b64f7a7f3f47ee0078b72e}
       \strng{authornamehash}{1e615ac9b3b64f7a7f3f47ee0078b72e}
       \strng{authorfullhash}{2119af259ac28d01a13f281d663e6990}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Microbiome}
@@ -5930,8 +6574,8 @@
       \strng{authorbibnamehash}{878fa6e939eded46998c595b5ea17b07}
       \strng{authornamehash}{878fa6e939eded46998c595b5ea17b07}
       \strng{authorfullhash}{a5c4af4d9bddba32228b692e7bfbeead}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Scientific reports}
@@ -7249,8 +7893,8 @@
       \strng{authorbibnamehash}{0e920688d14c0b80fa24f1227a290393}
       \strng{authornamehash}{0e920688d14c0b80fa24f1227a290393}
       \strng{authorfullhash}{f60e8a38232ae21110d95fb8173bc186}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Sequencing-based analysis has become a well-established approach to deciphering the composition of the gut microbiota. However, due to the complexity of accessing sufficient material from colonoscopic biopsy samples, most studies have focused on faecal microbiota analysis, even though it is recognised that differences exist between the microbial composition of colonic biopsies and faecal samples. We determined the suitability of colonic lavage samples to see if it had comparable microbial diversity composition to colonic biopsies as they are without the limitations associated with sample size. We collected paired colonic biopsies and lavage samples from subjects who were attending for colorectal cancer screening colonoscopy. Next-generation sequencing and qPCR validation were performed with multiple bioinformatics analyses to determine the composition and predict function of the microbiota. Colonic lavage samples contained significantly higher numbers of operational taxonomic units (OTUs) compared to corresponding biopsy samples, however, diversity and evenness between lavage and biopsy samples were similar. The differences seen were driven by the presence of 12 OTUs which were in higher relative abundance in biopsies and were either not present or in low relative abundance in lavage samples, whilst a further 3 OTUs were present in higher amounts in the lavage samples compared to biopsy samples. However, predicted functional community profiling based on 16S ribosomal ribonucleic acid (rRNA) data indicated minimal differences between sample types. We propose that colonic lavage samples provide a relatively accurate representation of biopsy microbiota composition and should be considered where biopsy size is an issue.}
@@ -7328,8 +7972,8 @@
       \strng{authorbibnamehash}{da52218e36c9f610659df7166f16e1af}
       \strng{authornamehash}{da52218e36c9f610659df7166f16e1af}
       \strng{authorfullhash}{305b9c97de068a861862f058dcb33299}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Current protocols in human genetics}
@@ -7403,8 +8047,8 @@
       \strng{authorbibnamehash}{67f4ba606fc63fc4aa9ef876490771e4}
       \strng{authornamehash}{67f4ba606fc63fc4aa9ef876490771e4}
       \strng{authorfullhash}{db658fa19394c3c111e9f23198b32a24}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of microbiological methods}
@@ -7463,8 +8107,8 @@
       \strng{authorbibnamehash}{6f20b31bac6f1346e4021b6fb313aedd}
       \strng{authornamehash}{6f20b31bac6f1346e4021b6fb313aedd}
       \strng{authorfullhash}{4166df30c62d116fe90ebbee8a8e75f7}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PloS one}
@@ -7513,8 +8157,8 @@
       \strng{authorbibnamehash}{c90551ef55516b453d7fe37d79b9156e}
       \strng{authornamehash}{c90551ef55516b453d7fe37d79b9156e}
       \strng{authorfullhash}{a2ba130469bb7c045aef2499dba20994}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of structural biology}
@@ -7595,8 +8239,8 @@
       \strng{authorbibnamehash}{5b72f36489b72dd3e2f9e79a377958dd}
       \strng{authornamehash}{5b72f36489b72dd3e2f9e79a377958dd}
       \strng{authorfullhash}{b5367447f1fdd0a04b276e2169e766fd}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC microbiology}
@@ -7662,8 +8306,8 @@
       \strng{authorbibnamehash}{7c1641398cdfd7950d59f037ec884b91}
       \strng{authornamehash}{7c1641398cdfd7950d59f037ec884b91}
       \strng{authorfullhash}{f865f454b194b1e6893a1be56281af46}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PloS one}
@@ -7737,8 +8381,8 @@
       \strng{authorbibnamehash}{0bc443a0f2ad15712d73f78fe8ed1afd}
       \strng{authornamehash}{0bc443a0f2ad15712d73f78fe8ed1afd}
       \strng{authorfullhash}{f9cea71e1b8d145473bf9ebf71b69069}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American journal of epidemiology}
@@ -7787,8 +8431,8 @@
       \strng{authorbibnamehash}{38eb6a87e88304f8805a3f044de28ceb}
       \strng{authornamehash}{38eb6a87e88304f8805a3f044de28ceb}
       \strng{authorfullhash}{67a9ad77bc18abd5158ff8c42e0f8fcd}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC microbiology}
