@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  13 APR 2019 02:54
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.15)  20 APR 2019 08:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3486,6 +3486,8 @@ Missing character: There is no ℃ in font ntx-Regular-tlf-t1!
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.045pt on input line 83.
 Missing character: There is no μ in font ntx-Regular-tlf-t1!
 Missing character: There is no ™ in font ntx-Regular-tlf-t1!
 Missing character: There is no ™ in font ntx-Regular-tlf-t1!
@@ -3907,7 +3909,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--81
  []
 
 
-Overfull \hbox (35.26636pt too wide) in paragraph at lines 76--87
+Overfull \hbox (35.26636pt too wide) in paragraph at lines 76--88
  [][] 
  []
 
@@ -3916,20 +3918,20 @@ File: figure/3shannon.pdf Graphic file (type pdf)
 File: figure/3simpson.pdf Graphic file (type pdf)
 <use figure/3simpson.pdf>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4752) has occurred while \output is active []
 
  [39]
 File: figure/3beta.pdf Graphic file (type pdf)
 <use figure/3beta.pdf>
 
-Overfull \hbox (2.84544pt too wide) in paragraph at lines 110--113
+Overfull \hbox (2.84544pt too wide) in paragraph at lines 111--114
  [][] 
  []
 
 File: figure/3phylum.pdf Graphic file (type pdf)
 <use figure/3phylum.pdf>
 
-Overfull \hbox (2.84544pt too wide) in paragraph at lines 124--127
+Overfull \hbox (2.84544pt too wide) in paragraph at lines 125--128
  [][] 
  []
 
@@ -3937,7 +3939,7 @@ Overfull \hbox (2.84544pt too wide) in paragraph at lines 124--127
 File: figure/3genus.pdf Graphic file (type pdf)
 <use figure/3genus.pdf>
 
-Overfull \hbox (2.84544pt too wide) in paragraph at lines 136--139
+Overfull \hbox (2.84544pt too wide) in paragraph at lines 137--140
  [][] 
  []
 
@@ -3945,7 +3947,7 @@ Overfull \hbox (2.84544pt too wide) in paragraph at lines 136--139
 File: figure/3clado.pdf Graphic file (type pdf)
 <use figure/3clado.pdf>
 
-Overfull \hbox (2.84544pt too wide) in paragraph at lines 148--151
+Overfull \hbox (2.84544pt too wide) in paragraph at lines 149--152
  [][] 
  []
 
@@ -4204,17 +4206,17 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
  )
 (\end occurred inside a group at level 4)
 
-### simple group (level 4) entered at line 120 ({)
-### simple group (level 3) entered at line 120 ({)
+### simple group (level 4) entered at line 121 ({)
+### simple group (level 3) entered at line 121 ({)
 ### simple group (level 2) entered at line 295 ({)
 ### simple group (level 1) entered at line 295 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 53031 strings out of 492970
- 1102799 string characters out of 6133937
- 1700479 words of memory out of 5000000
- 56041 multiletter control sequences out of 15000+600000
- 664345 words of font info for 214 fonts, out of 8000000 for 9000
+ 53020 strings out of 492970
+ 1101956 string characters out of 6133937
+ 1700245 words of memory out of 5000000
+ 56030 multiletter control sequences out of 15000+600000
+ 664721 words of font info for 215 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  62i,12n,94p,10409b,5403s stack positions out of 5000i,500n,10000p,200000b,80000s
 
