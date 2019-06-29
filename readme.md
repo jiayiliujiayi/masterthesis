@@ -1,1 +1,1 @@
-This is Jiayi Liu's thesis for master degree dissertation at School of Medicine, Shanghai Jiaotong Univertity.
+This is Jiayi Liu's thesis for the master degree dissertation at School of Medicine, Shanghai Jiaotong Univertity.
